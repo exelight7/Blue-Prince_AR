@@ -1,0 +1,23 @@
+{
+  "status": "PASS_IN_MEMORY_ONLY",
+  "game_launched": false,
+  "asset_file_written": false,
+  "source_scene": "D:\\Games\\Blue Prince_AR\\backups\\source\\BLUE PRINCE_Data\\level1",
+  "original_scene_objects": 4260,
+  "new_scene_objects": 4261,
+  "reused_wrapper_id": 3741,
+  "wrapper_type_id": 26,
+  "new_object_id": 1000000001,
+  "target_gameobject": 170,
+  "target_tmp": 3411,
+  "unchanged_existing_objects": 4259,
+  "modified_existing_objects": [
+    170
+  ],
+  "strict_added_fsm_parse": "PASS",
+  "exact_existing_object_payloads": "PASS",
+  "deterministic_second_save": "PASS",
+  "serialized_bytes": 3164952,
+  "serialized_sha256": "1b3bbf5aad094500ad271983d4f732ad77b0876873de90d5500af8fae81f54e5",
+  "runtime_execution": "NOT_TESTED"
+}

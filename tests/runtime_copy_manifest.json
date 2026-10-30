@@ -1,0 +1,400 @@
+{
+  "source": "D:\\Games\\Blue Prince",
+  "target": "D:\\Games\\Blue Prince_AR\\runtime_test",
+  "prepared_utc": "2026-10-28T07:43:44.480491+00:00",
+  "status": "PASS",
+  "files": [
+    {
+      "path": "_Redist/dxwebsetup.exe",
+      "source_sha256": "ed79c8f65b02ed83d5db8c355328294a73dc447f08f657312bf8f3a5b40c7494",
+      "copy_sha256": "ed79c8f65b02ed83d5db8c355328294a73dc447f08f657312bf8f3a5b40c7494",
+      "size": 299864,
+      "modified": false
+    },
+    {
+      "path": "_Redist/fitgirl.md5",
+      "source_sha256": "eda4a363acd545179e39d1bf03bbd598c5c2dac45f23a5641818ecc8b19c3da6",
+      "copy_sha256": "eda4a363acd545179e39d1bf03bbd598c5c2dac45f23a5641818ecc8b19c3da6",
+      "size": 4338,
+      "modified": false
+    },
+    {
+      "path": "_Redist/QuickSFV.EXE",
+      "source_sha256": "a6371461da7439f4ef7008ed53331209747cba960b85c70a902d46451247a29c",
+      "copy_sha256": "a6371461da7439f4ef7008ed53331209747cba960b85c70a902d46451247a29c",
+      "size": 103424,
+      "modified": false
+    },
+    {
+      "path": "_Redist/QuickSFV.ini",
+      "source_sha256": "74ca5a42469197eded04f5a0bf34ca251c72f7cc06a3416ac035230cb8e81629",
+      "copy_sha256": "74ca5a42469197eded04f5a0bf34ca251c72f7cc06a3416ac035230cb8e81629",
+      "size": 155,
+      "modified": false
+    },
+    {
+      "path": "baselib.dll",
+      "source_sha256": "724b7488fa6832f8f41b36a405ca55e7d7dee540d3c07cb603512d8db6ed5b49",
+      "copy_sha256": "724b7488fa6832f8f41b36a405ca55e7d7dee540d3c07cb603512d8db6ed5b49",
+      "size": 404664,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE.exe",
+      "source_sha256": "99bc41e62547e3ce3d1deeca4740e5f38b8ba19204379a702e9db652d9ad933e",
+      "copy_sha256": "99bc41e62547e3ce3d1deeca4740e5f38b8ba19204379a702e9db652d9ad933e",
+      "size": 653824,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/app.info",
+      "source_sha256": "db6af4034f18ef400422b54bcb02199296a7c9dfecda1d53576161875ca3ec95",
+      "copy_sha256": "db6af4034f18ef400422b54bcb02199296a7c9dfecda1d53576161875ca3ec95",
+      "size": 20,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/boot.config",
+      "source_sha256": "a2eec40c5ce47add99ff5a85fc8ba68143897f9728af32b76ea552e1c8b00e6a",
+      "copy_sha256": "a2eec40c5ce47add99ff5a85fc8ba68143897f9728af32b76ea552e1c8b00e6a",
+      "size": 86,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/globalgamemanagers",
+      "source_sha256": "c90904ff974920b5846ff66aad1112570d9af1c2312981324b67ca0901e1a1c9",
+      "copy_sha256": "c90904ff974920b5846ff66aad1112570d9af1c2312981324b67ca0901e1a1c9",
+      "size": 356044,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/globalgamemanagers.assets",
+      "source_sha256": "7ba58eb2201a6b7747d38719dbda4db37ed0651b2342eaad4ee75e17489870a2",
+      "copy_sha256": "7ba58eb2201a6b7747d38719dbda4db37ed0651b2342eaad4ee75e17489870a2",
+      "size": 1049984,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/globalgamemanagers.assets.resS",
+      "source_sha256": "03b86861faa1b35f976a616707b79835ed3f1110b636231b70b030c142eaa6ef",
+      "copy_sha256": "03b86861faa1b35f976a616707b79835ed3f1110b636231b70b030c142eaa6ef",
+      "size": 1036800,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "source_sha256": "3cd5a2c441dacc6585feb560e45bd4a49f89978c68ce7a2a7645800bd35644a5",
+      "copy_sha256": "3cd5a2c441dacc6585feb560e45bd4a49f89978c68ce7a2a7645800bd35644a5",
+      "size": 13695464,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/il2cpp_data/Resources/mscorlib.dll-resources.dat",
+      "source_sha256": "c5baa176a5b72cd545266340e42102d393a5e43d38c95796bc828918bb95277f",
+      "copy_sha256": "c5baa176a5b72cd545266340e42102d393a5e43d38c95796bc828918bb95277f",
+      "size": 337563,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/level0",
+      "source_sha256": "eeab72dc9a118f1bab413ae30a286cc8c3fc1a92009878fbc26ffd37c26c8207",
+      "copy_sha256": "eeab72dc9a118f1bab413ae30a286cc8c3fc1a92009878fbc26ffd37c26c8207",
+      "size": 100356,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/level1",
+      "source_sha256": "5ef8eac5b402c7c99a24123ff45717430b1e332206e8c95f5add5753ddbe267d",
+      "copy_sha256": "5ef8eac5b402c7c99a24123ff45717430b1e332206e8c95f5add5753ddbe267d",
+      "size": 3161596,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/level2",
+      "source_sha256": "35b0876edfaabe0a5b161dc5c7f77824fbe7524691bff6d60529465c81a8daf4",
+      "copy_sha256": "35b0876edfaabe0a5b161dc5c7f77824fbe7524691bff6d60529465c81a8daf4",
+      "size": 107790692,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/level2.resS",
+      "source_sha256": "d68a5d8a3ec32e12c49733c3c4d286c35df1bcc77ece913450c0c45a1bcfdeb2",
+      "copy_sha256": "d68a5d8a3ec32e12c49733c3c4d286c35df1bcc77ece913450c0c45a1bcfdeb2",
+      "size": 1226336,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/Plugins/Steamworks.NET.txt",
+      "source_sha256": "5b5a793269f5d263f27660300b97f0e4bcc1b56dd4d30d6926268fdd8ae81214",
+      "copy_sha256": "5b5a793269f5d263f27660300b97f0e4bcc1b56dd4d30d6926268fdd8ae81214",
+      "size": 239,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/Plugins/x86_64/doge.ini",
+      "source_sha256": "f0d5b87f2b441f38926ec0900d72789a56d634a3b6ddcf43a388dc7e5a2ec6b7",
+      "copy_sha256": "f0d5b87f2b441f38926ec0900d72789a56d634a3b6ddcf43a388dc7e5a2ec6b7",
+      "size": 130,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/Plugins/x86_64/libHttpClient.GDK.dll",
+      "source_sha256": "a9af00cc52222718f2e6b29f0670504c855c6de7eb38da758b1b4ba8337b3e21",
+      "copy_sha256": "a9af00cc52222718f2e6b29f0670504c855c6de7eb38da758b1b4ba8337b3e21",
+      "size": 244840,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/Plugins/x86_64/Microsoft.Xbox.Services.GDK.C.Thunks.dll",
+      "source_sha256": "2b6a4b9d180892e4cdfe96da298337485decfb84ec2dabf57931bcc38d8da479",
+      "copy_sha256": "2b6a4b9d180892e4cdfe96da298337485decfb84ec2dabf57931bcc38d8da479",
+      "size": 1966112,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/Plugins/x86_64/Rewired_DirectInput.dll",
+      "source_sha256": "5b97128066e2470d16b0cac708a7a9e8c95376522f16333a4455429cb17c5dca",
+      "copy_sha256": "5b97128066e2470d16b0cac708a7a9e8c95376522f16333a4455429cb17c5dca",
+      "size": 107008,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/Plugins/x86_64/Rewired_WindowsGamingInput.dll",
+      "source_sha256": "946478c5e8f61cbe75c6d70e3aabe2766126605cba45ddb579a5ef38fb198e98",
+      "copy_sha256": "946478c5e8f61cbe75c6d70e3aabe2766126605cba45ddb579a5ef38fb198e98",
+      "size": 153088,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/Plugins/x86_64/steam_api64.dll",
+      "source_sha256": "e145d0d2e026a409e4e7db9ce5dd5951ad94508eb8af6bd10dec5b75e10040e3",
+      "copy_sha256": "e145d0d2e026a409e4e7db9ce5dd5951ad94508eb8af6bd10dec5b75e10040e3",
+      "size": 289848,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/Plugins/x86_64/steamclient64.dll",
+      "source_sha256": "659517254a9b0f0478c4f601326dd9d9afd8f86308179e202fe6b89184b9a0c9",
+      "copy_sha256": "659517254a9b0f0478c4f601326dd9d9afd8f86308179e202fe6b89184b9a0c9",
+      "size": 11927552,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/Plugins/x86_64/XCurl.dll",
+      "source_sha256": "e98177957ad51f607f21b4b1fe5f2430f4880f41d3aa60fe66dac26cc5e84c9c",
+      "copy_sha256": "e98177957ad51f607f21b4b1fe5f2430f4880f41d3aa60fe66dac26cc5e84c9c",
+      "size": 198248,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/Plugins/x86_64/XGameRuntime.Thunks.dll",
+      "source_sha256": "352f7d0e6c23abb86ec83d548072cdf7f7b91b7ce3d1d2d4ac23136ba7428f62",
+      "copy_sha256": "352f7d0e6c23abb86ec83d548072cdf7f7b91b7ce3d1d2d4ac23136ba7428f62",
+      "size": 145000,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/Plugins/x86_64/XGamingRuntimeThunks.dll",
+      "source_sha256": "270d97c7a4ab4885be49d6520d8dfbfa3bd1c928b301b96c42d38b8e9530598e",
+      "copy_sha256": "270d97c7a4ab4885be49d6520d8dfbfa3bd1c928b301b96c42d38b8e9530598e",
+      "size": 145000,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/Resources/unity default resources",
+      "source_sha256": "026e6d1d96dc2e28c72ece25f2419469d649a95e25b6929bc5cfc95bca529f8e",
+      "copy_sha256": "026e6d1d96dc2e28c72ece25f2419469d649a95e25b6929bc5cfc95bca529f8e",
+      "size": 4832808,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/Resources/unity_builtin_extra",
+      "source_sha256": "c3f4624b1b9b9dc5b847f47c474261028216522f9c107a0befa4c2164e05d3f4",
+      "copy_sha256": "c3f4624b1b9b9dc5b847f47c474261028216522f9c107a0befa4c2164e05d3f4",
+      "size": 746960,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/resources.assets",
+      "source_sha256": "8f6d520b53e7b1319629eb615daf7f87fde3be07890203b091e6d1cfcc51c9b8",
+      "copy_sha256": "8f6d520b53e7b1319629eb615daf7f87fde3be07890203b091e6d1cfcc51c9b8",
+      "size": 8452628,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/resources.assets.resS",
+      "source_sha256": "458d9c3b475df92744c6d1fdcd23d6d1437ad11b46446e4fdc37f765c3c9f290",
+      "copy_sha256": "458d9c3b475df92744c6d1fdcd23d6d1437ad11b46446e4fdc37f765c3c9f290",
+      "size": 28234192,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/resources.resource",
+      "source_sha256": "fcf32003e6ebde8956e59a572bcca877c893411a175dffba4c97426c6af8bb8e",
+      "copy_sha256": "fcf32003e6ebde8956e59a572bcca877c893411a175dffba4c97426c6af8bb8e",
+      "size": 21632,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/RuntimeInitializeOnLoads.json",
+      "source_sha256": "64b86e374c261f244159319eda6c26cbbce601291e59c9d0a5c9c31f9ab7ba20",
+      "copy_sha256": "64b86e374c261f244159319eda6c26cbbce601291e59c9d0a5c9c31f9ab7ba20",
+      "size": 2645,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/ScriptingAssemblies.json",
+      "source_sha256": "6cef67498de6ef94b5e30eb02938efb0586eb7cb0a226fe5e2e6fef16d87b9a5",
+      "copy_sha256": "6cef67498de6ef94b5e30eb02938efb0586eb7cb0a226fe5e2e6fef16d87b9a5",
+      "size": 3874,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/sharedassets0.assets",
+      "source_sha256": "4ddfae40575716b207a9b70da8d838a5cae364ca503c0b4335b09b13a4745441",
+      "copy_sha256": "4ddfae40575716b207a9b70da8d838a5cae364ca503c0b4335b09b13a4745441",
+      "size": 3868344,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/sharedassets0.assets.resS",
+      "source_sha256": "f6ffd23a88212435650b625990433ae290c431eb0cee32354f88ac391cfc6c72",
+      "copy_sha256": "f6ffd23a88212435650b625990433ae290c431eb0cee32354f88ac391cfc6c72",
+      "size": 85587280,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/sharedassets1.assets",
+      "source_sha256": "e36fb6c3563346ee22ee65d23902881e343766cf3302a065c018a38977cac76d",
+      "copy_sha256": "e36fb6c3563346ee22ee65d23902881e343766cf3302a065c018a38977cac76d",
+      "size": 28634128,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/sharedassets1.assets.resS",
+      "source_sha256": "ba0953760c6198e8909aa100c7087ec62774f17c56eaeeffe2a05538b26ecb39",
+      "copy_sha256": "ba0953760c6198e8909aa100c7087ec62774f17c56eaeeffe2a05538b26ecb39",
+      "size": 19812816,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/sharedassets1.resource",
+      "source_sha256": "933818ee0c17d05a7e5ceb2467885a73c93161c5663bbe9741c6d36e63413ccd",
+      "copy_sha256": "933818ee0c17d05a7e5ceb2467885a73c93161c5663bbe9741c6d36e63413ccd",
+      "size": 166200577,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/sharedassets2.assets",
+      "source_sha256": "ce706b0aac8493ef511789b81a07a7e8af4665c71159fb640defaa1a6f544327",
+      "copy_sha256": "ce706b0aac8493ef511789b81a07a7e8af4665c71159fb640defaa1a6f544327",
+      "size": 425653268,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/sharedassets2.assets.resS",
+      "source_sha256": "25094808a4919175062557d9b0554599ab265eb24b34914fce784b0494dded1e",
+      "copy_sha256": "25094808a4919175062557d9b0554599ab265eb24b34914fce784b0494dded1e",
+      "size": 398027264,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/sharedassets2.resource",
+      "source_sha256": "cd41f095fffcd7b2d538b567c4d71c089c07dccc5ef880480c2b1ed4cea3d44d",
+      "copy_sha256": "cd41f095fffcd7b2d538b567c4d71c089c07dccc5ef880480c2b1ed4cea3d44d",
+      "size": 2117410055,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/StreamingAssets/aa/AddressablesLink/link.xml",
+      "source_sha256": "f43c080eae3e6f3ff2062cd2701cdea6c772e7ae19a6cf6cbffc8d2d7e6748b3",
+      "copy_sha256": "f43c080eae3e6f3ff2062cd2701cdea6c772e7ae19a6cf6cbffc8d2d7e6748b3",
+      "size": 1497,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/StreamingAssets/aa/catalog.json",
+      "source_sha256": "2bd77acc9a7d5df9d0f14ee10dca516b1dcdf3ad480e6b51321110860f4fc20b",
+      "copy_sha256": "2bd77acc9a7d5df9d0f14ee10dca516b1dcdf3ad480e6b51321110860f4fc20b",
+      "size": 97731,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/StreamingAssets/aa/settings.json",
+      "source_sha256": "e79a9e666ac4e424b6cea4c36c158a50aba091285e795d9b89c244a18b6126ed",
+      "copy_sha256": "e79a9e666ac4e424b6cea4c36c158a50aba091285e795d9b89c244a18b6126ed",
+      "size": 861,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/StreamingAssets/aa/StandaloneWindows64/atelier_assets_all_14fe79679959082c9bc7c10ab62e3f1d.bundle",
+      "source_sha256": "9afb8d7bb206ba3ec64c23a863464ffdd26ae537ae281add47d8bbac0c5644a1",
+      "copy_sha256": "9afb8d7bb206ba3ec64c23a863464ffdd26ae537ae281add47d8bbac0c5644a1",
+      "size": 123487070,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/StreamingAssets/aa/StandaloneWindows64/estateterrains_assets_all_6ad29e888c4be0c0d42de2598467cab4.bundle",
+      "source_sha256": "7b8e780b0ddfcb144e946e0640cacd0239199688d06f7a6ada9cb2d8c8cd350e",
+      "copy_sha256": "7b8e780b0ddfcb144e946e0640cacd0239199688d06f7a6ada9cb2d8c8cd350e",
+      "size": 41841760,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/StreamingAssets/aa/StandaloneWindows64/rooms_assets_all_745285e3229ea154e722c5523c153740.bundle",
+      "source_sha256": "cb2cc727083cc12aaafc71c88a6fdaea0bb391dc7012a29a867c55b1be0edbef",
+      "copy_sha256": "cb2cc727083cc12aaafc71c88a6fdaea0bb391dc7012a29a867c55b1be0edbef",
+      "size": 381625442,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/StreamingAssets/aa/StandaloneWindows64/underground_assets_all_1b6453a7eb78d377cada247c32bb2a36.bundle",
+      "source_sha256": "9c058084b73d003cecddf0e5c99172b7d265e2df119e7733c38626f31b67939b",
+      "copy_sha256": "9c058084b73d003cecddf0e5c99172b7d265e2df119e7733c38626f31b67939b",
+      "size": 44104398,
+      "modified": false
+    },
+    {
+      "path": "BLUE PRINCE_Data/StreamingAssets/aa/StandaloneWindows64/video_assets_all_76a71977133aba4ba356435b2aff5019.bundle",
+      "source_sha256": "0dfc8a9e8a610991d6e4e35d63edd0a72b5a214d8595ad5c32252588ead63121",
+      "copy_sha256": "0dfc8a9e8a610991d6e4e35d63edd0a72b5a214d8595ad5c32252588ead63121",
+      "size": 52139711,
+      "modified": false
+    },
+    {
+      "path": "GameAssembly.dll",
+      "source_sha256": "83481e2b147f788b347e4c4200b670900196da1516fbe4c464c0076d4851395d",
+      "copy_sha256": "83481e2b147f788b347e4c4200b670900196da1516fbe4c464c0076d4851395d",
+      "size": 54415360,
+      "modified": false
+    },
+    {
+      "path": "unins000.dat",
+      "source_sha256": "32c4a53e75b26021e226e118ddce348967a5b1a0d8263ddeb1da415e61bb0fc5",
+      "copy_sha256": "32c4a53e75b26021e226e118ddce348967a5b1a0d8263ddeb1da415e61bb0fc5",
+      "size": 94141,
+      "modified": false
+    },
+    {
+      "path": "unins000.exe",
+      "source_sha256": "418853de061aa4642347c0b266492e319eaee22e41073ad333f4509e3e325c89",
+      "copy_sha256": "418853de061aa4642347c0b266492e319eaee22e41073ad333f4509e3e325c89",
+      "size": 1515889,
+      "modified": false
+    },
+    {
+      "path": "UnityCrashHandler64.exe",
+      "source_sha256": "e0992e404d64c05d87623b086e12abe0458c365885b98dd6801ad12f55d47ae7",
+      "copy_sha256": "e0992e404d64c05d87623b086e12abe0458c365885b98dd6801ad12f55d47ae7",
+      "size": 1201848,
+      "modified": false
+    },
+    {
+      "path": "UnityPlayer.dll",
+      "source_sha256": "de3485ee72822d617d3c0ca57b20109dbb0c8f0550db06031fde29793e664dea",
+      "copy_sha256": "de3485ee72822d617d3c0ca57b20109dbb0c8f0550db06031fde29793e664dea",
+      "size": 29428920,
+      "modified": false
+    }
+  ]
+}

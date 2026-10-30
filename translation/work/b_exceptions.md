@@ -1,0 +1,415 @@
+# Deliberately English (b_exceptions)
+
+Everything below is intentionally left in English (identity entries in `keep.json` / `ar.json`). One line of reason per group.
+
+## Puzzle / letter / word-dependent text
+
+- **Erajan puzzle words** (38): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `Treivenven\n`
+  - `Ajlor  Nevlor`
+  - `ELSWIM  NEVDAU`
+  - `Elswim  Ajdau`
+  - `Elswim Nevdau`
+  - `HEWAM   OVETT`
+  - `Hewam  OvEtt`
+  - `Hewam Ovett`
+  - `Leread   Nai`
+  - `READLE   NAI`
+  - `Readle Nai.`
+  - `TREI   MATRUNK`
+  - `TREI BRANCHVEN`
+  - `Ven Treiven  `
+  - `<size=2.6>ajera to eraja</size>\n`
+  - `AJLOR   ULTEACH   NEVLOR`
+  - `Ajlor Ulteach Nevlor`
+  - `AJERA`
+  - `AJHOUS`
+  - `AREI`
+  - `DAUVENJA`
+  - `DREMM`
+  - `ELCOUNTVO`
+  - `LEAVELU?`
+  - `ULRAAJORAM`
+  - `Ulgo?`
+  - `ajlor`
+  - `learn`
+  - `nevdau`
+  - `ERAJA NAI`
+  - `ETT TREI`
+  - `LORLU RAADAU`
+  - `NAI DAU`
+  - `Ovinn Nevarei,`
+  - `INN ETT ISS`
+  - `AJINN ETT OVTREI ISSJA TREIVO`
+  - `MAINN ETTAM MATREI ETTISS MAORR`
+  - `aryaaya ayay aryay aryaay ar ayrayryay ayrayay`
+- **child-name list (puzzle)** (25): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `FREDDY`
+  - `Gregory`
+  - `Kathleen`
+  - `Patricia`
+  - `Rob`
+  - `SANDRA`
+  - `jacob`
+  - `<b>Z</b><size=7>ack</size>      <b>C</b><size=7>raft`
+  - `A RJE`
+  - `Artie Anders`
+  - `Casandra L.`
+  - `G   As `
+  - `I    C<size=4>e</size>`
+  - `JENNI  W,`
+  - `Laura   A.`
+  - `Maurice  Jacobs`
+  - `P enelope`
+  - `PROJA    H.`
+  - `Phoebe   H.`
+  - `QUINN   S.`
+  - `TRISSA    J.`
+  - `Teer (drop)`
+  - `<size=3.5>d</size> A<size=3.5>rthur</size> C<size=3.5>lementine`
+  - `W At  Er`
+  - `F<size=12>o m r i c `
+- **quiz answer (word puzzle)** (9): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `\"ACE\"`
+  - `\"BRIDE\"`
+  - `\"FACE\"`
+  - `\"FLAN\"`
+  - `\"JUNGLE\"`
+  - `\"PRY\"`
+  - `\"REALIZE\"`
+  - `\"TRINSDALE\"`
+  - `\"WINGS\" & \"HONEY\"`
+- **split-column text fragment** (8): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `the eighth an\n      to our`
+  - `TH   NUMBERS THAT BUILT THE WOR`
+  - `             <size=2> </size>s. Carriages.\n              here look like\n              a map. `
+  - `      NUMBERS THAT BUILT   HE WORLD OF YESTERDAY`
+  - `               ugh trails. Another\n               <size=1> </size>four rays, however,\n                ys be `
+  - `              <size=1> </size>ties. Ship routes.\n               eight rays on these\n             <size=1> </`
+  - `       s starting to add up!`
+  - `        Several exam \n       <size=\"1.5\"> </size>  from well k`
+- **word puzzle (rhyme chalk writing)** (5): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `coat  cat\n chat`
+  - `acre\nface    ace\nlace`
+  - `coat  cat\n\n cold  old-`
+  - `spear\npearl    pear\npeart`
+  - `Glove    |   Love\nSting   |   Sing\nCrowd   |   Crow\nGrown   |   Gown\nSnack   |   Sack`
+- **quiz answer (symbol)** (4): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `Ll`
+  - `Mt`
+  - `Ne`
+  - `Ti`
+- **word puzzle (homophones)** (4): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `beard   bard`
+  - `beard  bard`
+  - `cuckoo two`
+  - `med\n  gait`
+- **quiz answer (riddle, English wording)** (4): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `I am not an old tree.`
+  - `My tree is not very old.`
+  - `I can not see the tree trunk.`
+  - `That old tree is not owned by me.`
+- **chemical element symbols (puzzle)** (3): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `                                                                                                              `
+  - `                                                                                                              `
+  - `                                                                                                              `
+- **riddle clue (capitalization significant)** (3): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `In\nARIES\nCOURT\nWHERE\nTHE\nKING\nNOW\nLAYS`
+  - `THE\nBLACK\nKEY\nIS\nLYING\nWITH\nTHE\nLAST\nKING\noF\nEIGHT`
+  - `THE\nLAST\nKEY\nIS\nLYING\nWITH\nTHE\nLAST\nKING\noF\nEIGHT`
+- **trophy-name template (dynamic word in gap)** (3): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `THE        .\nTROPHY`
+  - `THE       .\n TROPHY`
+  - `THE       TROPHY`
+- **word puzzle (quiz answer)** (3): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `\"BIRDS\" & \"A BOOKSTORE\"`
+  - `\"BIRCH TREE\" & \"OAK TREE\"`
+  - `\"HAY BALE\" & \"MUG OF ALE\"`
+- **keyboard key names** (2): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `<color=#1F76C5>tab</color>`
+  - `<color=#1F76C5>tab</color>\n\n\n\n<color=#B7A748>shift</color>`
+- **split text fragment** (2): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `                 It'`
+  - `    TRA\n<i><size=3>          (th </size></i>`
+- **game title (kept Latin, as 'Blue Prince')** (2): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `BLUE  PRINCE`
+  - `<size=12>The</size>\nBlue Prince`
+- **word puzzle (chalk writing)** (2): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `Face & Ace`
+  - `Unused Pairings`
+- **pun/puzzle clue (MAJOR KEYS)** (2): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `THERE ARE\nTWELVE\nMAJOR KEYS`
+  - `THERE ARE\nTWELVE\nMAJOR KEYS.`
+- **acrostic/riddle (keep English)** (2): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `ON\nTHE\nSACRED\nHOUR\nTHAT\nTIMEWORN\nPHRASE`
+  - `on\nthe\nsacred\nhour\nthat\ntimeworn\nphrase`
+- **word puzzle (rhymes)** (2): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - ` craft   raft\ndraft    raft\nsmile    mile\ndarling daring`
+  - ` craft   raft\ndraft    raft\nsmile    mile\nvial     viral`
+- **parlor-style clue (TRUE = 3)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `TRUE = 3`
+- **puzzle circle letters** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `zw`
+- **styled signature letters** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `<size=4 >S</size>I<size=7>  <size=6>O</size>`
+- **styled apostrophe (puzzle)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `KNIGHT<size=.5> </size><b>'</b>s`
+- **brand name** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `Nintendo Switch`
+- **word puzzle (swim bird)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `SWIM   BIRD`
+- **word puzzle (split text)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `            gel points\n            dreams`
+- **letter puzzle heading** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `       <b><size=4>NUMERIC CORING - EXAMPLES\n</size></b>\n`
+- **styled password hint (puzzle)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `<size=6>ADMIN KEY</size> - <size=10>R</size>eva<size=10>D`
+- **proper names (shop list)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `White\nFarro\nMarigold\n`
+- **music-key puzzle clue (lowercase letters)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `THERE ARE TWELVE\nMAJOR keyS`
+- **proper name (Axshog)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `AXSHOG`
+- **puzzle word (DIRIGIBLOCKS)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `DIRIGIBLOCKS!`
+- **word puzzle (FLAN)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `FLAN`
+- **puzzle letters** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `mx`
+- **gibberish placeholder text** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `sdgfsgrsgregeregs`
+- **unit symbol** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `uSv`
+- **button label (Play&Dump)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `Play&Dump`
+- **logo (Slots)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `S<size=8>\n  <size=4>            </size><size=8>lots`
+- **shop pun (SOME SITCHER)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `SOME SITCHER`
+- **bracketed word (validator treats [word] as a key)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `[entrance]`
+- **random-glyph gamertag** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `ส众н터थाঅヺøЂўIo`
+- **shop pun (TONDA ROS)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `TONDA ROS`
+- **word puzzle fragment** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `is<size=66>\npenned`
+- **letter puzzle (element symbols spell FUN)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `Fluorine     Uranium     Nitrogen`
+- **puzzle title (Spiral of Stars)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `SPIRAL of STARS`
+- **pun (manor/manner) chalk writing** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `\"within a timely manor\"`
+- **letter-count puzzle (44 LETTERS in the message)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `<size=70>44</size> LETTERS\n    in the message`
+- **letter hint (starts with S)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `Starts with an \"S\"`
+- **word puzzle (synonym titles)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `THE TITLES ARE SYNONYMS.`
+- **realm abbreviations (puzzle)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `Orin\n\n<size=\"2\"> </size>Fe\n\n<size=\".7\"> </size>Er\n\nCor\n\nAr\n\n`
+- **letter-puzzle hint** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `“There is a letter missing.”`
+- **word puzzle (pun)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `A New Clue\n\n u ncle   Awe`
+- **puzzle hint (Rank word clue)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `Is a different word on Rank 4`
+- **letter puzzle (bin letters)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `THE ELEPHANT\nBELONGS IN\nTHIS BIN.`
+- **word puzzle (portmanteau hint)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `<size=7>The chess board in this room contains a portmanteau.`
+- **letter puzzle (acronym license plate)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `The license plate on this car is an acronym. `
+- **pun/puzzle clue (Major Key)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `There is a Major Key hanging on a wall in the Safehouse.`
+- **riddle (letter/word puzzle)** (1): letter, word or pun dependence (or a proper/brand name); translating would break the clue.
+  - `                    IF WE <br>                    COUNT<br>                    SMALL<br>                    GA`
+
+## Drop-cap / split item-name fragments
+
+The first letter sits in a separate TMP, so the remainder (61 fragments) cannot be translated on its own; the full item names are translated in their own entries. Plugin has to pair letter + remainder. Fragments:
+
+`ACON &`, `AGNIFYING`, `ATTERY`, `AY     NE`, `CRAP`, `D
+
+O
+OR`, `EBBLES`, `ELECT    LUEPRINT    ILE`, `FFIGY`, `GNIFYING`, `HISTOR`, `HRONOGRAPH`, `IGILS`, `IND   UP`, `IND  UP`, `IPLOMA`, `LECTROMAGNET`, `LLOWANCE`, `LOORPLAN`, `LUEPRINT`, `LZARA`, `MERALD`, `MPLIFIER`, `NHERITANCE`, `NVENTION`, `ODE    ELECTION`, `OFFERS`, `OGICAL`, `OINS`, `OKEN`, `OLLY`, `ORCH`, `ORNING`, `OUND`, `OUPON`, `OWER`, `OWERED`, `OWSING`, `OYAL`, `PEED`, `POON`, `RACELET`, `REASURE`, `RENCH`, `RICK`, `RIES`, `ROPHIES`, `SEMENT`, `TEPS`, `THE  
+                               OF`, `TTE,`, `TTER`, `UCCESSFUL`, `UEST`, `ULL HOUSE`, `ULLSEYE`, `UNCH`, `URNING`, `URNIP`, `XPLORERS`, `Y       NE`
+
+## Internal identifiers and developer notes (tier 1 / tier 3)
+
+PlayMaker state/variable names, audio track ids, Unity type names and dev comments that never reach a TMP text. Kept as is so the corpus counts reach 0.
+
+- `RoomRecords`
+- `Rank 6`
+- `Rank 5`
+- `Rank 8`
+- `Rank 7`
+- `SendEvent`
+- `UnityEngine.Object, UnityEngine`
+- `Rank 9`
+- `Rank 1`
+- `Rank 2`
+- `Rank 3`
+- `Rank 4`
+- `Event 1`
+- `Event 3`
+- `Event 0`
+- `Event 5`
+- `Event 6`
+- `PlaySound`
+- `Slot 1`
+- `Slot 2`
+- `Slot 3`
+- `SoundeR.AudioEmitter, SoundeR`
+- `PlayMakerFSM, PlayMaker`
+- `Event 10`
+- `Event 11`
+- `Event 12`
+- `Event 2`
+- `Event 4`
+- `Event 7`
+- `Event 8`
+- `Event 9`
+- `GoNextPage`
+- `RoomRecordsLodge`
+- `Tile 36`
+- `Tile 40`
+- `UITradingWindow, Assembly-CSharp`
+- `?Dirigiblocks`
+- `AcceptTrade`
+- `CAMPSITE VIDEO LOADED`
+- `CheckPieces`
+- `DeclineTrade`
+- `Hammer`
+- `Impact`
+- `ImpactBurst`
+- `LineElectric`
+- `NOTE: this one is used to mark elements of the main menu that needs to be \"DontDestroyOnLoad\", but need to g`
+- `PERSISTENT SINGLETONS`
+- `Sauan`
+- `Strike`
+- `This camera is used as an hack to draw the selections above the rooms on the map. This is because the room the`
+- `UITradingPost, Assembly-CSharp`
+- `Tent Blue Memos - doc`
+- `Is Green?`
+- `Red Rooms post Shelter`
+- `S Creep East Wing`
+- `In Fog We Are Lost`
+- `S Creep West Wing`
+- `N Creep East Wing`
+- `N Creep West Wing`
+- `Stories of All Manor Ambience`
+- `EDGE ADVANCE WESTWING - G`
+- `Next Live Payroll Date`
+- `Stories of All Manor`
+- `Trophy Logical Not Picked Up`
+- `Upgrade Disc - Great Hall`
+- `EDGE ADVANCE EASTWING - G`
+- `EDGE RETREAT EASTWING - G`
+- `EDGE RETREAT WESTWING - G`
+- `Mortua - Her Ladyship's Theme`
+- `Stories of All Manor Sigils`
+- `Great Hall E Lever`
+- `The Sacred Hour Ambience`
+- `Days since Mail Room`
+- `Mortua - Doorways and Dreams`
+- `Trophy Explorers Not Picked Up`
+- `Trophy Full House Not Picked Up`
+- `history of orindia first edition`
+- `Laundry Key Dug Today`
+- `Patio Key Dug Today`
+- `Stairways and Steam - Power`
+- `Tomb Wall Angel Open`
+- `Trophy Bullseye Not Picked Up`
+- `Trophy Drafting Not Picked Up`
+- `Trophy Invention Not Picked Up`
+- `Foundation Tile String E`
+- `Foundation Tile String S`
+- `Foundation Tile String W`
+- `In Fog We Are Lost C`
+- `Is an Item Checked In`
+- `The Dead End Record`
+- `Upgrade Disc - Morning Room`
+- `East Wing Hall Added`
+- `Her Ladyship's Theme - Chamber`
+- `Room 46 Under an Hour`
+- `Sleep in Break Room`
+- `Sleep in Bunk Room`
+- `Sleep in Master Bedroom`
+- `Stories of All Manor Sanctum`
+- `Tent Blue Memos - doc2`
+- `Upgrade Disc - Master Bedroom`
+- `Upgrade Disc - Torch Room`
+- `West Wing Hall Added`
+- `Click Trading Post Collider`
+- `In Fog We Are Lost A`
+- `No Gems FOR REAL`
+- `Number of Successful Locks`
+- `Secret Garden North Trees`
+- `Time Lock Month Int`
+- `Total Steps Taken Today`
+- `dead end contest read`
+- `end of day steps`
+- `sanctum door arch aries`
+- `sanctum door fenn aries`
+- `sanctum door mora jai`
+- `sanctum door orinda aries`
+- `slept in blue tents`
+- `AQUARIUM GOLDFISH AQUARIUM STARFISH AQUARIUM ELECTRIC EEL AQUARIUM POOL HALL CORRIYARD SPARE HALL SPARE FOYER `
+- `FALL IT A DAY`
+- `Her Ladyship's Theme - Ballroom`
+- `In Fog We Are Lost G`
+- `Not a Real Dead End`
+- `Secret Garden E Lever`
+- `Secret Garden W Lever`
+- `Tent Drafting Memos - doc`
+- `The Exam on Desk`
+- `Throne Room N Lever`
+- `Trophy Diploma Not Picked Up`
+- `Weight Room S Lever`
+- `end of day bool`
+
+## Parlor box statements kept English (31)
+
+Logic depends on English letters, literal words, or word counts (letter B/U, the words TRUE/GEMS/EMPTY/BLUE/..., "five/six word statement", longest/shortest word, "more than 8 words"). Every other box statement was translated.
+
+- `<size=10>IF YOU REPLACE THE WORD <color=#152C3F>‘ONE’</color> IN THE OTHER TWO STATEMENTS WITH <color=#152C3F>‘BOTH’</color> THEY `
+- `<size=10>THE STATEMENT ON ONE OF THE OTHER<br>TWO BOXES WOULD BE TRUE IF YOU<br> REPLACED THE WORD <color=#152C3F>‘EVERY’</color><`
+- `<size=11>STATEMENTS CONTAINING THE WORD ‘STATEMENTS’ ARE ALWAYS TRUE.`
+- `<size=11>THE BOX WITH THE MOST WORDS DOES NOT HAVE GEMS.`
+- `<size=11>THE LETTER <color=#152C3F>‘B’</color> APPEARS TWICE ON THE<br>BOX THAT CONTAINS THE GEMS.`
+- `<size=12>ALL STATEMENTS THAT CONTAIN MORE THAN ONE <color=#152C3F>‘B’</color> ARE TRUE.`
+- `<size=12>ALL STATEMENTS THAT<br>CONTAIN THE WORD<br> <color=#152C3F>‘GEMS’</color> ARE FALSE.`
+- `<size=13>A BOX THAT DISPLAYS THE<br> WORD <color=#152C3F>‘TRUE'</color> IS FALSE.</size>`
+- `<size=13>A BOX THAT DISPLAYS THE<br>WORD <color=#152C3F>‘GEMS'</color> IS  EMPTY.</size>`
+- `<size=13>EVERY STATEMENT WITH THE WORD <color=#152C3F>'BLUE'</color> IS FALSE.`
+- `<size=13>THE GEMS ARE IN A BOX WITH A STATEMENT CONTAINING THE LETTER “B”.`
+- `<size=13>THE GEMS ARE IN A BOX WITH A STATEMENT CONTAINING THE LETTER “U”.`
+- `<size=13>THE GEMS ARE IN A BOX WITH THE WORD “BLUE” ON IT. `
+- `<size=14>EVERY STATEMENT WITH THE WORD BLACK IS FALSE.`
+- `<size=14>EVERY STATEMENT WITH THE WORD BLUE IS FALSE.`
+- `<size=14>STATEMENTS WITH THE<br>WORD \"WHITE\" ARE<br>ALWAYS TRUE. `
+- `<size=15>THE WORDS <color=#152C3F>‘ANOTHER BOX’</color> ARE ON ANOTHER BOX.`
+- `<size=7.2>THE GEMS ARE IN A BOX WITH A STATEMENT<br>CONTAINING THE WORD “SIX”.<br><size=3> </size><br>THERE IS A BOX THAT CONTAINS`
+- `<size=7.2>THERE IS NO BOX THAT IS BETWEEN  <b>2</b> EMPTY BOXES.<br><size=3> </size><br>THERE IS NO BOX THAT CONTAINS A STATEMENT<`
+- `<size=7.4>A BOX WITH A TRUE STATEMENT CONTAINS THE GEMS.<br><size=6> </size><br>A BOX WITH A FALSE STATEMENT CONTAINS THE GEMS. <b`
+- `<size=7.5>THE BLUE BOX CONTAINS EXACTLY ONE  FALSE STATEMENT.<br><size=5> </size><br>THE GEMS ARE IN A BOX WITH A FIVE WORD STATEM`
+- `<size=7.5>THE GEMS ARE IN A BOX WITH THE LONGEST WORD. <br><br>“LONGEST” IS THE LONGEST WORD ON A BOX. </size> `
+- `<size=7.5>THE GEMS ARE IN A BOX WITH THE SHORTEST WORD. <br><br>“A” IS THE SHORTEST WORD ON A BOX. </size>`
+- `<size=7.5>THIS BOX HAS NO FALSE STATEMENTS.<br><size=5> </size><br>THE GEMS ARE IN A BOX WITH A SIX WORD STATEMENT.<br><size=5> </`
+- `<size=8>A STATEMENT WITH AN ODD NUMBER OF WORDS<br>IS ALWAYS TRUE.<br><br>THE GEMS ARE IN THE BOX WITH THE MOST WORDS.`
+- `<size=8>ALL BOXES DISPLAYING THE<br>WORD “EMPTY” ARE EMPTY.<br><size=7> </size><br>ALL STATEMENTS DISPLAYING THE<br>WORD “TRUE” AR`
+- `<size=8>ALL BOXES DISPLAYING THE<br>WORD “GEMS” CONTAIN GEMS.<br><size=7> </size><br>ALL STATEMENTS DISPLAYING THE<br>WORD “WORD” `
+- `<size=8>ALL STATEMENTS DISPLAYING THE<br>WORD “BOXES” ARE FALSE.<br><size=7> </size><br>ALL STATEMENTS DISPLAYING THE<br>WORD “STA`
+- `<size=8>EXACTLY TWO STATEMENTS WITH THE WORD <color=#152C3F>‘TRUE’</color> <br>ARE FALSE.<br><br>THE GEMS ARE NOT IN THIS BOX.`
+- `<size=8>FALSE STATEMENTS HAVE LESS THAN SIX WORDS.<br><br>THAT’S NOT TRUE.`
+- `<size=9>THIS BOX IS EMPTY.<br><br>EVERY STATEMENT WITH THE WORD EMPTY<br>IS FALSE.`
+
+## Notes for the plugin side
+
+- Tag lines (`   <size=4> </size>Drafting, <color..>Blueprint</color>`) keep their leading padding spaces, exactly like the earlier tag-line entries; only sentence gaps got `{ICON}`.
+- `[entrance]` stays English: the validator treats `[word]` as a key placeholder.
+- House-name arrays (tier 1 PREFIX/HOUSE/SUFFIX NAMES) were translated word by word; Arabic word order differs from English, so the concatenation order may need handling in the plugin.
+- Prescription lead-ins ("A HEAVY", "AN ORNATE", ...) are translated as stubs ("غرض ثقيل", "غرض مزخرف") that read before the separate item-name TMP.
+- `ALLOWANCE` is rendered الحصة / حصتك in UI strings (b901_quality aligned the older ones); the prose letters still say مصروف, which reads naturally there.
+- Gaps that are column alignment / centring (menu column pairs, title spacing, indents) were left as spaces; `{ICON}` is used only where a sentence is missing a noun or button (112 strings in total).

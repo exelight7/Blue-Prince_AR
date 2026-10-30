@@ -1,0 +1,1237 @@
+[
+  {
+    "file": "resources.assets",
+    "id": 1174,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "Frames SDF",
+    "bytes": 3952,
+    "ascii_names": [
+      "Frames SDF",
+      "Charcuterie Frames",
+      "Charcuterie Frames"
+    ]
+  },
+  {
+    "file": "resources.assets",
+    "id": 1175,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "Ornaments SDF",
+    "bytes": 7396,
+    "ascii_names": [
+      "Ornaments SDF",
+      "Charcuterie Ornaments",
+      "Charcuterie Ornaments"
+    ]
+  },
+  {
+    "file": "resources.assets",
+    "id": 1238,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 512
+  },
+  {
+    "file": "resources.assets",
+    "id": 1240,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 512
+  },
+  {
+    "file": "resources.assets",
+    "id": 1242,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1243,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1245,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1246,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1247,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1248,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1254,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1256,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 516
+  },
+  {
+    "file": "resources.assets",
+    "id": 1261,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1262,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1264,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1265,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1266,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 512
+  },
+  {
+    "file": "resources.assets",
+    "id": 1267,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1269,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1271,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1274,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1275,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1276,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1277,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1278,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1287,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1288,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1289,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 516
+  },
+  {
+    "file": "resources.assets",
+    "id": 1291,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1292,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1294,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1295,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1299,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1304,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 508
+  },
+  {
+    "file": "resources.assets",
+    "id": 1305,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 512
+  },
+  {
+    "file": "resources.assets",
+    "id": 1306,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1307,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1308,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1309,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1311,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1313,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 512
+  },
+  {
+    "file": "resources.assets",
+    "id": 1315,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1316,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1319,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1322,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1325,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 508
+  },
+  {
+    "file": "resources.assets",
+    "id": 1326,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1333,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1334,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1335,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1338,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1343,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1345,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1346,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1347,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1348,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 508
+  },
+  {
+    "file": "resources.assets",
+    "id": 1350,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1354,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 508
+  },
+  {
+    "file": "resources.assets",
+    "id": 1361,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1362,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1368,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1370,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1371,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1372,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1373,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1374,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1377,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1379,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1384,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1386,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1387,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 516
+  },
+  {
+    "file": "resources.assets",
+    "id": 1388,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1392,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1401,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1403,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1405,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1406,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 4239
+    },
+    "name": "",
+    "bytes": 532
+  },
+  {
+    "file": "resources.assets",
+    "id": 1407,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1408,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1416,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1418,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1419,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1421,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "resources.assets",
+    "id": 1423,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 2627
+    },
+    "name": "",
+    "bytes": 504
+  },
+  {
+    "file": "sharedassets0.assets",
+    "id": 427,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "LiberationSans SDF - Fallback",
+    "bytes": 2200,
+    "ascii_names": [
+      "LiberationSans SDF - Fallback",
+      "e3265ab4bf004d28a9537516768c1c75",
+      "Liberation Sans",
+      "Regular",
+      "Liberation Sans",
+      "e3265ab4bf004d28a9537516768c1c75"
+    ]
+  },
+  {
+    "file": "sharedassets0.assets",
+    "id": 428,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "LiberationSans SDF",
+    "bytes": 28764,
+    "ascii_names": [
+      "LiberationSans SDF",
+      "e3265ab4bf004d28a9537516768c1c75",
+      "Liberation Sans",
+      "Regular",
+      "Liberation Sans",
+      "e3265ab4bf004d28a9537516768c1c75"
+    ]
+  },
+  {
+    "file": "sharedassets0.assets",
+    "id": 429,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "1820modern SDF",
+    "bytes": 10320,
+    "ascii_names": [
+      "1820modern SDF",
+      "1820 Modern",
+      "1820 Modern"
+    ]
+  },
+  {
+    "file": "sharedassets0.assets",
+    "id": 430,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "Rank Font",
+    "bytes": 8416,
+    "ascii_names": [
+      "Rank Font",
+      "Times New Roman",
+      "Times New Roman"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 241,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "CharcuterieBlock SDF Gamertag",
+    "bytes": 6784,
+    "ascii_names": [
+      "CharcuterieBlock SDF Gamertag",
+      "Charcuterie Block",
+      "Charcuterie Block"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 242,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "CharcuterieBlock SDF",
+    "bytes": 6664,
+    "ascii_names": [
+      "CharcuterieBlock SDF",
+      "Charcuterie Block",
+      "Charcuterie Block"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 243,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "DarchitechtFALLBACK",
+    "bytes": 8868,
+    "ascii_names": [
+      "DarchitechtFALLBACK",
+      "Damned Architect",
+      "Regular",
+      "02b4d450b75d4964fa92b857f7e6f1a2",
+      "20-3F,41-5A,5F-7A,7C ",
+      "2a616e3d6e91af3449ab1784029602e9"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 244,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "NotoNaskhArabic-Medium SDF",
+    "bytes": 2016,
+    "ascii_names": [
+      "NotoNaskhArabic-Medium SDF",
+      "ac0321c2b4deb2c4ea27ce4123568f7b",
+      "Noto Naskh Arabic",
+      "ac0321c2b4deb2c4ea27ce4123568f7b"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 245,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "NotoSans-Medium SDF",
+    "bytes": 2820,
+    "ascii_names": [
+      "NotoSans-Medium SDF",
+      "2ac66819b97d5d34b8aa3edf2dcd04f5",
+      "Noto Sans",
+      "2ac66819b97d5d34b8aa3edf2dcd04f5"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 246,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "NotoSansBengali-Medium SDF",
+    "bytes": 1300,
+    "ascii_names": [
+      "NotoSansBengali-Medium SDF",
+      "963e1d1cf35bce743bb3956fded2fd4a",
+      "Noto Sans Bengali",
+      "963e1d1cf35bce743bb3956fded2fd4a"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 247,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "NotoSansDevanagari-Medium SDF",
+    "bytes": 820,
+    "ascii_names": [
+      "NotoSansDevanagari-Medium SDF",
+      "5289e1175cdedee4faf997141001bbc5",
+      "Noto Sans Devanagari",
+      "5289e1175cdedee4faf997141001bbc5"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 248,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "NotoSansJP-Medium SDF",
+    "bytes": 2156,
+    "ascii_names": [
+      "NotoSansJP-Medium SDF",
+      "047299268294f154fb995d5226314074",
+      "Noto Sans JP",
+      "047299268294f154fb995d5226314074"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 249,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "NotoSansKR-Medium SDF",
+    "bytes": 1704,
+    "ascii_names": [
+      "NotoSansKR-Medium SDF",
+      "9952146e9f1c4864080c225f74da2919",
+      "Noto Sans KR",
+      "9952146e9f1c4864080c225f74da2919"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 250,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "NotoSansSC-Medium SDF",
+    "bytes": 812,
+    "ascii_names": [
+      "NotoSansSC-Medium SDF",
+      "86d9d3b62a00a8d488bdd63f61979182",
+      "Noto Sans SC Medium",
+      "Regular",
+      "86d9d3b62a00a8d488bdd63f61979182"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 251,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "NotoSerifHebrew-Medium SDF",
+    "bytes": 1016,
+    "ascii_names": [
+      "NotoSerifHebrew-Medium SDF",
+      "93953dba76fc0c0418bb47f389e90953",
+      "Noto Serif Hebrew",
+      "93953dba76fc0c0418bb47f389e90953"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 252,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "NotoSerifThai-Medium SDF",
+    "bytes": 1592,
+    "ascii_names": [
+      "NotoSerifThai-Medium SDF$",
+      "31f1b4c7acb443c4b9d9b2aeb28c7870",
+      "Noto Serif Thai",
+      "31f1b4c7acb443c4b9d9b2aeb28c7870"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 253,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "Hand Script BOLD",
+    "bytes": 9348,
+    "ascii_names": [
+      "Hand Script BOLD",
+      "Margo Script",
+      "Margo Script"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 254,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "LD-remington SDF",
+    "bytes": 9372,
+    "ascii_names": [
+      "LD-remington SDF[",
+      "LD Remington Portable",
+      "LD Remington Portable"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 255,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "Margo Serif SDF",
+    "bytes": 6644,
+    "ascii_names": [
+      "Margo Serif SDF",
+      "Margo Serif",
+      "Margo Serif"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 256,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "VersicaSerif SDF",
+    "bytes": 5716,
+    "ascii_names": [
+      "VersicaSerif SDF",
+      "Versica Serif",
+      "Versica Serif"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 257,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "White Te - custom color",
+    "bytes": 10376,
+    "ascii_names": [
+      "White Te - custom color",
+      "Arial Black",
+      "Regular",
+      "'r@33SA",
+      "Arial Black",
+      "X<@]taA"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 258,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "angltrr SDF",
+    "bytes": 9948,
+    "ascii_names": [
+      "angltrr SDF",
+      "20693277e5433b245a99afabfeb7c5a6",
+      "Angleterre Book",
+      "Regular",
+      "20693277e5433b245a99afabfeb7c5a6",
+      "32 - 126, 160, 8203, 8230, 9633"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 259,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "dArchitect SDF 1",
+    "bytes": 3752,
+    "ascii_names": [
+      "dArchitect SDF 1s",
+      "Damned Architect",
+      "Damned Architect"
+    ]
+  },
+  {
+    "file": "sharedassets1.assets",
+    "id": 260,
+    "script": {
+      "m_FileID": 1,
+      "m_PathID": 1979
+    },
+    "name": "dArchitect SDF",
+    "bytes": 3752,
+    "ascii_names": [
+      "dArchitect SDF",
+      "Damned Architect",
+      "Damned Architect"
+    ]
+  }
+]

@@ -1,0 +1,7053 @@
+{
+  "original": {
+    "path": "D:\\Games\\Blue Prince_AR\\backups\\source\\BLUE PRINCE_Data\\level1",
+    "sha256": "5ef8eac5b402c7c99a24123ff45717430b1e332206e8c95f5add5753ddbe267d",
+    "externals": [
+      {
+        "file_id": 1,
+        "path": "globalgamemanagers.assets"
+      },
+      {
+        "file_id": 2,
+        "path": "sharedassets1.assets"
+      },
+      {
+        "file_id": 3,
+        "path": "resources.assets"
+      },
+      {
+        "file_id": 4,
+        "path": "sharedassets0.assets"
+      },
+      {
+        "file_id": 5,
+        "path": "Library/unity default resources"
+      }
+    ],
+    "components": [
+      {
+        "path_id": 3357,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "NEW GAME",
+          "m_isRightToLeft": 0,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 256
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4294967295
+          },
+          "m_fontColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 7.0,
+          "m_fontSizeBase": 7.0,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 18.0,
+          "m_fontSizeMax": 72.0,
+          "m_fontStyle": 16,
+          "m_HorizontalAlignment": 1,
+          "m_VerticalAlignment": 4096,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": 11.600000381469727,
+          "m_wordSpacing": 13.600000381469727,
+          "m_lineSpacing": -55.0,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 13.1495943069458,
+            "y": 4.484493255615234,
+            "z": -26.036537170410156,
+            "w": -6.026998043060303
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 7,
+            "name": "NEW GAME TEXT 4",
+            "active": false,
+            "transform_id": 2777,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": 2.1073427092233032e-07,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.05999999865889549
+              },
+              "m_LocalScale": {
+                "x": 0.08175089210271835,
+                "y": 0.0776199996471405,
+                "z": 0.0776199996471405
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1512
+              },
+              "m_AnchorMin": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchorMax": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchoredPosition": {
+                "x": -1.75,
+                "y": 0.9570000171661377
+              },
+              "m_SizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_Pivot": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            }
+          },
+          {
+            "path_id": 663,
+            "name": "SAVE SLOT 4",
+            "active": true,
+            "transform_id": 1512,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": -0.8849999904632568,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1198
+              }
+            }
+          },
+          {
+            "path_id": 97,
+            "name": "SAVE FILES",
+            "active": false,
+            "transform_id": 1198,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -25.799999237060547,
+                "y": 0.8802242279052734,
+                "z": -9.220000267028809
+              },
+              "m_LocalScale": {
+                "x": 0.9494699835777283,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": false
+      },
+      {
+        "path_id": 3404,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "Adjust your monitor or telvesion's settings until the Mt. Holly symbol above is just barely visible and the images in the corners are not.\n\nPress [ENTER] whem you are satisfied.",
+          "m_isRightToLeft": 0,
+          "m_fontAsset": {
+            "m_FileID": 4,
+            "m_PathID": 430
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4285295724
+          },
+          "m_fontColor": {
+            "r": 0.4245283007621765,
+            "g": 0.4245283007621765,
+            "b": 0.4245283007621765,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 3.0,
+          "m_fontSizeBase": 3.0,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 18.0,
+          "m_fontSizeMax": 72.0,
+          "m_fontStyle": 0,
+          "m_HorizontalAlignment": 2,
+          "m_VerticalAlignment": 256,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": -2.0,
+          "m_wordSpacing": 0.0,
+          "m_lineSpacing": 33.0,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 29.55670928955078,
+            "y": 0.97802734375,
+            "z": -17.53767967224121,
+            "w": -3.5260322093963623
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 139,
+            "name": "screen calibration (1)",
+            "active": true,
+            "transform_id": 2844,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -5.204170014340115e-18,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 10.550000190734863
+              },
+              "m_LocalScale": {
+                "x": 0.8533999919891357,
+                "y": 0.8330099582672119,
+                "z": 0.8533999919891357
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1249
+              },
+              "m_AnchorMin": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchorMax": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchoredPosition": {
+                "x": -19.620019912719727,
+                "y": -4.28000020980835
+              },
+              "m_SizeDelta": {
+                "x": 20.0,
+                "y": 5.0
+              },
+              "m_Pivot": {
+                "x": 0.5,
+                "y": 0.5
+              }
+            }
+          },
+          {
+            "path_id": 202,
+            "name": "CALIBRATION",
+            "active": false,
+            "transform_id": 1249,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": -10.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": false
+      },
+      {
+        "path_id": 3411,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "VOLUME",
+          "m_isRightToLeft": 0,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 242
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4289622340
+          },
+          "m_fontColor": {
+            "r": 0.2666666805744171,
+            "g": 0.4431372582912445,
+            "b": 0.6823529601097107,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 2.5,
+          "m_fontSizeBase": 2.5,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 18.0,
+          "m_fontSizeMax": 72.0,
+          "m_fontStyle": 16,
+          "m_HorizontalAlignment": 2,
+          "m_VerticalAlignment": 512,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": 33.099998474121094,
+          "m_wordSpacing": 0.0,
+          "m_lineSpacing": -55.0,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 13.1495943069458,
+            "y": 4.484493255615234,
+            "z": -20.030742645263672,
+            "w": -15.260869026184082
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 170,
+            "name": "VOLUME TEXT",
+            "active": true,
+            "transform_id": 2858,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.000062346458435,
+                "y": 1.000062346458435,
+                "z": 1.000062346458435
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 2930
+              },
+              "m_AnchorMin": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchorMax": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchoredPosition": {
+                "x": 33.0099983215332,
+                "y": 60.20000076293945
+              },
+              "m_SizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_Pivot": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            }
+          },
+          {
+            "path_id": 316,
+            "name": "Volume Click",
+            "active": true,
+            "transform_id": 2930,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": 2.1073427092233032e-07,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -9.220600128173828
+              },
+              "m_LocalScale": {
+                "x": 0.09861999750137329,
+                "y": 0.09861999750137329,
+                "z": 0.09861999750137329
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1276
+              },
+              "m_AnchorMin": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchorMax": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchoredPosition": {
+                "x": 11.839006423950195,
+                "y": -3.310999870300293
+              },
+              "m_SizeDelta": {
+                "x": 100.0,
+                "y": 100.0
+              },
+              "m_Pivot": {
+                "x": 0.5,
+                "y": 0.5
+              }
+            }
+          },
+          {
+            "path_id": 257,
+            "name": "SETTINGS LAYOUT",
+            "active": false,
+            "transform_id": 1276,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1306
+              }
+            }
+          },
+          {
+            "path_id": 310,
+            "name": "MAIN MENU",
+            "active": true,
+            "transform_id": 1306,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -12.098150253295898,
+                "y": 4.387224197387695,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": false
+      },
+      {
+        "path_id": 3481,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "CONTINUE",
+          "m_isRightToLeft": 0,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 242
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4289622340
+          },
+          "m_fontColor": {
+            "r": 0.2666666805744171,
+            "g": 0.4431372582912445,
+            "b": 0.6823529601097107,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 2.5,
+          "m_fontSizeBase": 2.5,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 18.0,
+          "m_fontSizeMax": 72.0,
+          "m_fontStyle": 16,
+          "m_HorizontalAlignment": 2,
+          "m_VerticalAlignment": 512,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": 18.600000381469727,
+          "m_wordSpacing": 0.0,
+          "m_lineSpacing": -55.0,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 13.1495943069458,
+            "y": 4.484493255615234,
+            "z": -20.030742645263672,
+            "w": -15.260869026184082
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 403,
+            "name": "CONTINUE TEXT",
+            "active": true,
+            "transform_id": 2964,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.000062346458435,
+                "y": 1.000062346458435,
+                "z": 1.000062346458435
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 2850
+              },
+              "m_AnchorMin": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchorMax": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchoredPosition": {
+                "x": 33.0099983215332,
+                "y": 60.20000076293945
+              },
+              "m_SizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_Pivot": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            }
+          },
+          {
+            "path_id": 148,
+            "name": "Continue Click",
+            "active": true,
+            "transform_id": 2850,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": 2.1073427092233032e-07,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -9.220600128173828
+              },
+              "m_LocalScale": {
+                "x": 0.09862396866083145,
+                "y": 0.09862396866083145,
+                "z": 0.09862396866083145
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1438
+              },
+              "m_AnchorMin": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchorMax": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchoredPosition": {
+                "x": 11.839006423950195,
+                "y": -3.3299999237060547
+              },
+              "m_SizeDelta": {
+                "x": 100.0,
+                "y": 100.0
+              },
+              "m_Pivot": {
+                "x": 0.5,
+                "y": 0.5
+              }
+            }
+          },
+          {
+            "path_id": 537,
+            "name": "MAINMENU LAYOUT",
+            "active": true,
+            "transform_id": 1438,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1306
+              }
+            }
+          },
+          {
+            "path_id": 310,
+            "name": "MAIN MENU",
+            "active": true,
+            "transform_id": 1306,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -12.098150253295898,
+                "y": 4.387224197387695,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": true
+      },
+      {
+        "path_id": 3500,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "QUIT GAME",
+          "m_isRightToLeft": 0,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 242
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4289622340
+          },
+          "m_fontColor": {
+            "r": 0.2666666805744171,
+            "g": 0.4431372582912445,
+            "b": 0.6823529601097107,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 2.5,
+          "m_fontSizeBase": 2.5,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 18.0,
+          "m_fontSizeMax": 72.0,
+          "m_fontStyle": 16,
+          "m_HorizontalAlignment": 2,
+          "m_VerticalAlignment": 512,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": 9.899999618530273,
+          "m_wordSpacing": 0.0,
+          "m_lineSpacing": -55.0,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 13.1495943069458,
+            "y": 4.484493255615234,
+            "z": -20.030742645263672,
+            "w": -15.260869026184082
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 462,
+            "name": "QUIT TEXT",
+            "active": true,
+            "transform_id": 2989,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.000062346458435,
+                "y": 1.000062346458435,
+                "z": 1.000062346458435
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 2879
+              },
+              "m_AnchorMin": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchorMax": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchoredPosition": {
+                "x": 33.0099983215332,
+                "y": 60.20000076293945
+              },
+              "m_SizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_Pivot": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            }
+          },
+          {
+            "path_id": 208,
+            "name": "Quit Click",
+            "active": true,
+            "transform_id": 2879,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": 2.1073427092233032e-07,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -9.220600128173828
+              },
+              "m_LocalScale": {
+                "x": 0.09862396866083145,
+                "y": 0.09862396866083145,
+                "z": 0.09862396866083145
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1438
+              },
+              "m_AnchorMin": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchorMax": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchoredPosition": {
+                "x": 11.839006423950195,
+                "y": -3.5399999618530273
+              },
+              "m_SizeDelta": {
+                "x": 100.0,
+                "y": 100.0
+              },
+              "m_Pivot": {
+                "x": 0.5,
+                "y": 0.5
+              }
+            }
+          },
+          {
+            "path_id": 537,
+            "name": "MAINMENU LAYOUT",
+            "active": true,
+            "transform_id": 1438,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1306
+              }
+            }
+          },
+          {
+            "path_id": 310,
+            "name": "MAIN MENU",
+            "active": true,
+            "transform_id": 1306,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -12.098150253295898,
+                "y": 4.387224197387695,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": true
+      },
+      {
+        "path_id": 3534,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "SETTINGS",
+          "m_isRightToLeft": 0,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 242
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4289622340
+          },
+          "m_fontColor": {
+            "r": 0.2666666805744171,
+            "g": 0.4431372582912445,
+            "b": 0.6823529601097107,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 2.5,
+          "m_fontSizeBase": 2.5,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 18.0,
+          "m_fontSizeMax": 72.0,
+          "m_fontStyle": 16,
+          "m_HorizontalAlignment": 2,
+          "m_VerticalAlignment": 512,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": 19.399999618530273,
+          "m_wordSpacing": 0.0,
+          "m_lineSpacing": -55.0,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 13.1495943069458,
+            "y": 4.484493255615234,
+            "z": -20.030742645263672,
+            "w": -15.260869026184082
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 586,
+            "name": "SETTINGS TEXT",
+            "active": true,
+            "transform_id": 3037,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.000062346458435,
+                "y": 1.000062346458435,
+                "z": 1.000062346458435
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 2889
+              },
+              "m_AnchorMin": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchorMax": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchoredPosition": {
+                "x": 33.0099983215332,
+                "y": 60.20000076293945
+              },
+              "m_SizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_Pivot": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            }
+          },
+          {
+            "path_id": 224,
+            "name": "Settings Click",
+            "active": true,
+            "transform_id": 2889,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": 2.1073427092233032e-07,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -9.220600128173828
+              },
+              "m_LocalScale": {
+                "x": 0.09862396866083145,
+                "y": 0.09862396866083145,
+                "z": 0.09862396866083145
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1438
+              },
+              "m_AnchorMin": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchorMax": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchoredPosition": {
+                "x": 11.839006423950195,
+                "y": -3.4700000286102295
+              },
+              "m_SizeDelta": {
+                "x": 100.0,
+                "y": 100.0
+              },
+              "m_Pivot": {
+                "x": 0.5,
+                "y": 0.5
+              }
+            }
+          },
+          {
+            "path_id": 537,
+            "name": "MAINMENU LAYOUT",
+            "active": true,
+            "transform_id": 1438,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1306
+              }
+            }
+          },
+          {
+            "path_id": 310,
+            "name": "MAIN MENU",
+            "active": true,
+            "transform_id": 1306,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -12.098150253295898,
+                "y": 4.387224197387695,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": true
+      },
+      {
+        "path_id": 3535,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "This is the original and standard\ndifficulty level of the game. Start\neach day with 50 steps.",
+          "m_isRightToLeft": 0,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 258
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4294967295
+          },
+          "m_fontColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 2.5999999046325684,
+          "m_fontSizeBase": 2.5999999046325684,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 1.0,
+          "m_fontSizeMax": 3.5,
+          "m_fontStyle": 1,
+          "m_HorizontalAlignment": 1,
+          "m_VerticalAlignment": 256,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": -5.96999979019165,
+          "m_wordSpacing": 7.389999866485596,
+          "m_lineSpacing": 29.829999923706055,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 15.586573600769043,
+            "y": 4.484493255615234,
+            "z": -22.641990661621094,
+            "w": -6.277495384216309
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 587,
+            "name": "Description",
+            "active": true,
+            "transform_id": 3038,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.5000001192092896,
+                "y": 0.49999988079071045,
+                "z": -0.49999988079071045,
+                "w": 0.5000001192092896
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 36.599998474121094
+              },
+              "m_LocalScale": {
+                "x": 1.698350191116333,
+                "y": 1.0778354406356812,
+                "z": 1.1871892213821411
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1377
+              },
+              "m_AnchorMin": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchorMax": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchoredPosition": {
+                "x": 5.460000038146973,
+                "y": -0.9634349346160889
+              },
+              "m_SizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_Pivot": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            }
+          },
+          {
+            "path_id": 429,
+            "name": "SAVE FOUND",
+            "active": true,
+            "transform_id": 1377,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.5,
+                "y": -0.5,
+                "z": 0.5,
+                "w": 0.5
+              },
+              "m_LocalPosition": {
+                "x": 0.6119770407676697,
+                "y": 0.5449399948120117,
+                "z": 0.45382213592529297
+              },
+              "m_LocalScale": {
+                "x": 0.11338715255260468,
+                "y": 0.10294288396835327,
+                "z": 0.07578930258750916
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1399
+              }
+            }
+          },
+          {
+            "path_id": 466,
+            "name": "BEQUEST MODE",
+            "active": true,
+            "transform_id": 1399,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -0.5270004272460938,
+                "y": -0.7839999794960022,
+                "z": -0.7390003204345703
+              },
+              "m_LocalScale": {
+                "x": 0.9494699835777283,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1173
+              }
+            }
+          },
+          {
+            "path_id": 46,
+            "name": "MODES",
+            "active": true,
+            "transform_id": 1173,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1277
+              }
+            }
+          },
+          {
+            "path_id": 261,
+            "name": "NEW GAME SELECTION",
+            "active": false,
+            "transform_id": 1277,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -24.81692886352539,
+                "y": 1.5286927223205566,
+                "z": -8.480999946594238
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": false
+      }
+    ]
+  },
+  "A_logical": {
+    "path": "D:\\Games\\Blue Prince_AR\\build\\poc\\logical\\BLUE PRINCE_Data\\level1",
+    "sha256": "dd6df4d630d1466c6b08a781bd074a8c8c94c61ea417b99234d58c4bdadf46ce",
+    "externals": [
+      {
+        "file_id": 1,
+        "path": "globalgamemanagers.assets"
+      },
+      {
+        "file_id": 2,
+        "path": "sharedassets1.assets"
+      },
+      {
+        "file_id": 3,
+        "path": "resources.assets"
+      },
+      {
+        "file_id": 4,
+        "path": "sharedassets0.assets"
+      },
+      {
+        "file_id": 5,
+        "path": "Library/unity default resources"
+      }
+    ],
+    "components": [
+      {
+        "path_id": 3357,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "لعبة جديدة",
+          "m_isRightToLeft": 1,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 244
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4294967295
+          },
+          "m_fontColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 7.0,
+          "m_fontSizeBase": 7.0,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 18.0,
+          "m_fontSizeMax": 72.0,
+          "m_fontStyle": 16,
+          "m_HorizontalAlignment": 1,
+          "m_VerticalAlignment": 4096,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": 11.600000381469727,
+          "m_wordSpacing": 13.600000381469727,
+          "m_lineSpacing": -55.0,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 13.1495943069458,
+            "y": 4.484493255615234,
+            "z": -26.036537170410156,
+            "w": -6.026998043060303
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 7,
+            "name": "NEW GAME TEXT 4",
+            "active": false,
+            "transform_id": 2777,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": 2.1073427092233032e-07,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.05999999865889549
+              },
+              "m_LocalScale": {
+                "x": 0.08175089210271835,
+                "y": 0.0776199996471405,
+                "z": 0.0776199996471405
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1512
+              },
+              "m_AnchorMin": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchorMax": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchoredPosition": {
+                "x": -1.75,
+                "y": 0.9570000171661377
+              },
+              "m_SizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_Pivot": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            }
+          },
+          {
+            "path_id": 663,
+            "name": "SAVE SLOT 4",
+            "active": true,
+            "transform_id": 1512,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": -0.8849999904632568,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1198
+              }
+            }
+          },
+          {
+            "path_id": 97,
+            "name": "SAVE FILES",
+            "active": false,
+            "transform_id": 1198,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -25.799999237060547,
+                "y": 0.8802242279052734,
+                "z": -9.220000267028809
+              },
+              "m_LocalScale": {
+                "x": 0.9494699835777283,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": false
+      },
+      {
+        "path_id": 3404,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "اضبط إعدادات الشاشة أو التلفاز حتى يكاد يظهر رمز Mt. Holly أعلاه، وتختفي الصور في الزوايا.\n\nاضغط [ENTER] عندما تنتهي.",
+          "m_isRightToLeft": 1,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 244
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4285295724
+          },
+          "m_fontColor": {
+            "r": 0.4245283007621765,
+            "g": 0.4245283007621765,
+            "b": 0.4245283007621765,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 3.0,
+          "m_fontSizeBase": 3.0,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 18.0,
+          "m_fontSizeMax": 72.0,
+          "m_fontStyle": 0,
+          "m_HorizontalAlignment": 2,
+          "m_VerticalAlignment": 256,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": -2.0,
+          "m_wordSpacing": 0.0,
+          "m_lineSpacing": 33.0,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 29.55670928955078,
+            "y": 0.97802734375,
+            "z": -17.53767967224121,
+            "w": -3.5260322093963623
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 139,
+            "name": "screen calibration (1)",
+            "active": true,
+            "transform_id": 2844,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -5.204170014340115e-18,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 10.550000190734863
+              },
+              "m_LocalScale": {
+                "x": 0.8533999919891357,
+                "y": 0.8330099582672119,
+                "z": 0.8533999919891357
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1249
+              },
+              "m_AnchorMin": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchorMax": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchoredPosition": {
+                "x": -19.620019912719727,
+                "y": -4.28000020980835
+              },
+              "m_SizeDelta": {
+                "x": 20.0,
+                "y": 5.0
+              },
+              "m_Pivot": {
+                "x": 0.5,
+                "y": 0.5
+              }
+            }
+          },
+          {
+            "path_id": 202,
+            "name": "CALIBRATION",
+            "active": false,
+            "transform_id": 1249,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": -10.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": false
+      },
+      {
+        "path_id": 3411,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "مستوى الصوت",
+          "m_isRightToLeft": 1,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 244
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4289622340
+          },
+          "m_fontColor": {
+            "r": 0.2666666805744171,
+            "g": 0.4431372582912445,
+            "b": 0.6823529601097107,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 2.5,
+          "m_fontSizeBase": 2.5,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 18.0,
+          "m_fontSizeMax": 72.0,
+          "m_fontStyle": 16,
+          "m_HorizontalAlignment": 2,
+          "m_VerticalAlignment": 512,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": 33.099998474121094,
+          "m_wordSpacing": 0.0,
+          "m_lineSpacing": -55.0,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 13.1495943069458,
+            "y": 4.484493255615234,
+            "z": -20.030742645263672,
+            "w": -15.260869026184082
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 170,
+            "name": "VOLUME TEXT",
+            "active": true,
+            "transform_id": 2858,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.000062346458435,
+                "y": 1.000062346458435,
+                "z": 1.000062346458435
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 2930
+              },
+              "m_AnchorMin": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchorMax": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchoredPosition": {
+                "x": 33.0099983215332,
+                "y": 60.20000076293945
+              },
+              "m_SizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_Pivot": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            }
+          },
+          {
+            "path_id": 316,
+            "name": "Volume Click",
+            "active": true,
+            "transform_id": 2930,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": 2.1073427092233032e-07,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -9.220600128173828
+              },
+              "m_LocalScale": {
+                "x": 0.09861999750137329,
+                "y": 0.09861999750137329,
+                "z": 0.09861999750137329
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1276
+              },
+              "m_AnchorMin": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchorMax": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchoredPosition": {
+                "x": 11.839006423950195,
+                "y": -3.310999870300293
+              },
+              "m_SizeDelta": {
+                "x": 100.0,
+                "y": 100.0
+              },
+              "m_Pivot": {
+                "x": 0.5,
+                "y": 0.5
+              }
+            }
+          },
+          {
+            "path_id": 257,
+            "name": "SETTINGS LAYOUT",
+            "active": false,
+            "transform_id": 1276,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1306
+              }
+            }
+          },
+          {
+            "path_id": 310,
+            "name": "MAIN MENU",
+            "active": true,
+            "transform_id": 1306,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -12.098150253295898,
+                "y": 4.387224197387695,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": false
+      },
+      {
+        "path_id": 3481,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "متابعة",
+          "m_isRightToLeft": 1,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 244
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4289622340
+          },
+          "m_fontColor": {
+            "r": 0.2666666805744171,
+            "g": 0.4431372582912445,
+            "b": 0.6823529601097107,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 2.5,
+          "m_fontSizeBase": 2.5,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 18.0,
+          "m_fontSizeMax": 72.0,
+          "m_fontStyle": 16,
+          "m_HorizontalAlignment": 2,
+          "m_VerticalAlignment": 512,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": 18.600000381469727,
+          "m_wordSpacing": 0.0,
+          "m_lineSpacing": -55.0,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 13.1495943069458,
+            "y": 4.484493255615234,
+            "z": -20.030742645263672,
+            "w": -15.260869026184082
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 403,
+            "name": "CONTINUE TEXT",
+            "active": true,
+            "transform_id": 2964,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.000062346458435,
+                "y": 1.000062346458435,
+                "z": 1.000062346458435
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 2850
+              },
+              "m_AnchorMin": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchorMax": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchoredPosition": {
+                "x": 33.0099983215332,
+                "y": 60.20000076293945
+              },
+              "m_SizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_Pivot": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            }
+          },
+          {
+            "path_id": 148,
+            "name": "Continue Click",
+            "active": true,
+            "transform_id": 2850,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": 2.1073427092233032e-07,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -9.220600128173828
+              },
+              "m_LocalScale": {
+                "x": 0.09862396866083145,
+                "y": 0.09862396866083145,
+                "z": 0.09862396866083145
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1438
+              },
+              "m_AnchorMin": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchorMax": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchoredPosition": {
+                "x": 11.839006423950195,
+                "y": -3.3299999237060547
+              },
+              "m_SizeDelta": {
+                "x": 100.0,
+                "y": 100.0
+              },
+              "m_Pivot": {
+                "x": 0.5,
+                "y": 0.5
+              }
+            }
+          },
+          {
+            "path_id": 537,
+            "name": "MAINMENU LAYOUT",
+            "active": true,
+            "transform_id": 1438,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1306
+              }
+            }
+          },
+          {
+            "path_id": 310,
+            "name": "MAIN MENU",
+            "active": true,
+            "transform_id": 1306,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -12.098150253295898,
+                "y": 4.387224197387695,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": true
+      },
+      {
+        "path_id": 3500,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "إنهاء اللعبة",
+          "m_isRightToLeft": 1,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 244
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4289622340
+          },
+          "m_fontColor": {
+            "r": 0.2666666805744171,
+            "g": 0.4431372582912445,
+            "b": 0.6823529601097107,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 2.5,
+          "m_fontSizeBase": 2.5,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 18.0,
+          "m_fontSizeMax": 72.0,
+          "m_fontStyle": 16,
+          "m_HorizontalAlignment": 2,
+          "m_VerticalAlignment": 512,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": 9.899999618530273,
+          "m_wordSpacing": 0.0,
+          "m_lineSpacing": -55.0,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 13.1495943069458,
+            "y": 4.484493255615234,
+            "z": -20.030742645263672,
+            "w": -15.260869026184082
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 462,
+            "name": "QUIT TEXT",
+            "active": true,
+            "transform_id": 2989,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.000062346458435,
+                "y": 1.000062346458435,
+                "z": 1.000062346458435
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 2879
+              },
+              "m_AnchorMin": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchorMax": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchoredPosition": {
+                "x": 33.0099983215332,
+                "y": 60.20000076293945
+              },
+              "m_SizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_Pivot": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            }
+          },
+          {
+            "path_id": 208,
+            "name": "Quit Click",
+            "active": true,
+            "transform_id": 2879,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": 2.1073427092233032e-07,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -9.220600128173828
+              },
+              "m_LocalScale": {
+                "x": 0.09862396866083145,
+                "y": 0.09862396866083145,
+                "z": 0.09862396866083145
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1438
+              },
+              "m_AnchorMin": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchorMax": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchoredPosition": {
+                "x": 11.839006423950195,
+                "y": -3.5399999618530273
+              },
+              "m_SizeDelta": {
+                "x": 100.0,
+                "y": 100.0
+              },
+              "m_Pivot": {
+                "x": 0.5,
+                "y": 0.5
+              }
+            }
+          },
+          {
+            "path_id": 537,
+            "name": "MAINMENU LAYOUT",
+            "active": true,
+            "transform_id": 1438,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1306
+              }
+            }
+          },
+          {
+            "path_id": 310,
+            "name": "MAIN MENU",
+            "active": true,
+            "transform_id": 1306,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -12.098150253295898,
+                "y": 4.387224197387695,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": true
+      },
+      {
+        "path_id": 3534,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "الإعدادات",
+          "m_isRightToLeft": 1,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 244
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4289622340
+          },
+          "m_fontColor": {
+            "r": 0.2666666805744171,
+            "g": 0.4431372582912445,
+            "b": 0.6823529601097107,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 2.5,
+          "m_fontSizeBase": 2.5,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 1,
+          "m_fontSizeMin": 18.0,
+          "m_fontSizeMax": 72.0,
+          "m_fontStyle": 16,
+          "m_HorizontalAlignment": 2,
+          "m_VerticalAlignment": 512,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": 19.399999618530273,
+          "m_wordSpacing": 0.0,
+          "m_lineSpacing": -55.0,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 13.1495943069458,
+            "y": 4.484493255615234,
+            "z": -20.030742645263672,
+            "w": -15.260869026184082
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 586,
+            "name": "SETTINGS TEXT",
+            "active": true,
+            "transform_id": 3037,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.000062346458435,
+                "y": 1.000062346458435,
+                "z": 1.000062346458435
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 2889
+              },
+              "m_AnchorMin": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchorMax": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchoredPosition": {
+                "x": 33.0099983215332,
+                "y": 60.20000076293945
+              },
+              "m_SizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_Pivot": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            }
+          },
+          {
+            "path_id": 224,
+            "name": "Settings Click",
+            "active": true,
+            "transform_id": 2889,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": 2.1073427092233032e-07,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -9.220600128173828
+              },
+              "m_LocalScale": {
+                "x": 0.09862396866083145,
+                "y": 0.09862396866083145,
+                "z": 0.09862396866083145
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1438
+              },
+              "m_AnchorMin": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchorMax": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchoredPosition": {
+                "x": 11.839006423950195,
+                "y": -3.4700000286102295
+              },
+              "m_SizeDelta": {
+                "x": 100.0,
+                "y": 100.0
+              },
+              "m_Pivot": {
+                "x": 0.5,
+                "y": 0.5
+              }
+            }
+          },
+          {
+            "path_id": 537,
+            "name": "MAINMENU LAYOUT",
+            "active": true,
+            "transform_id": 1438,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1306
+              }
+            }
+          },
+          {
+            "path_id": 310,
+            "name": "MAIN MENU",
+            "active": true,
+            "transform_id": 1306,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -12.098150253295898,
+                "y": 4.387224197387695,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": true
+      },
+      {
+        "path_id": 3535,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "هذا هو مستوى الصعوبة\nالأصلي والاعتيادي للعبة. تبدأ\nكل يوم ولديك 50 خطوة.",
+          "m_isRightToLeft": 1,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 244
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4294967295
+          },
+          "m_fontColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 2.5999999046325684,
+          "m_fontSizeBase": 2.5999999046325684,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 1.0,
+          "m_fontSizeMax": 3.5,
+          "m_fontStyle": 1,
+          "m_HorizontalAlignment": 1,
+          "m_VerticalAlignment": 256,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": -5.96999979019165,
+          "m_wordSpacing": 7.389999866485596,
+          "m_lineSpacing": 29.829999923706055,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 15.586573600769043,
+            "y": 4.484493255615234,
+            "z": -22.641990661621094,
+            "w": -6.277495384216309
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 587,
+            "name": "Description",
+            "active": true,
+            "transform_id": 3038,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.5000001192092896,
+                "y": 0.49999988079071045,
+                "z": -0.49999988079071045,
+                "w": 0.5000001192092896
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 36.599998474121094
+              },
+              "m_LocalScale": {
+                "x": 1.698350191116333,
+                "y": 1.0778354406356812,
+                "z": 1.1871892213821411
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1377
+              },
+              "m_AnchorMin": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchorMax": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchoredPosition": {
+                "x": 5.460000038146973,
+                "y": -0.9634349346160889
+              },
+              "m_SizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_Pivot": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            }
+          },
+          {
+            "path_id": 429,
+            "name": "SAVE FOUND",
+            "active": true,
+            "transform_id": 1377,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.5,
+                "y": -0.5,
+                "z": 0.5,
+                "w": 0.5
+              },
+              "m_LocalPosition": {
+                "x": 0.6119770407676697,
+                "y": 0.5449399948120117,
+                "z": 0.45382213592529297
+              },
+              "m_LocalScale": {
+                "x": 0.11338715255260468,
+                "y": 0.10294288396835327,
+                "z": 0.07578930258750916
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1399
+              }
+            }
+          },
+          {
+            "path_id": 466,
+            "name": "BEQUEST MODE",
+            "active": true,
+            "transform_id": 1399,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -0.5270004272460938,
+                "y": -0.7839999794960022,
+                "z": -0.7390003204345703
+              },
+              "m_LocalScale": {
+                "x": 0.9494699835777283,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1173
+              }
+            }
+          },
+          {
+            "path_id": 46,
+            "name": "MODES",
+            "active": true,
+            "transform_id": 1173,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1277
+              }
+            }
+          },
+          {
+            "path_id": 261,
+            "name": "NEW GAME SELECTION",
+            "active": false,
+            "transform_id": 1277,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -24.81692886352539,
+                "y": 1.5286927223205566,
+                "z": -8.480999946594238
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": false
+      }
+    ]
+  },
+  "B_preshaped_visual": {
+    "path": "D:\\Games\\Blue Prince_AR\\build\\poc\\preshaped_visual\\BLUE PRINCE_Data\\level1",
+    "sha256": "7de88e1a142ecbe7f6c67a5b5f836ee93b2cbeb1058870d0bb28507e83ce357b",
+    "externals": [
+      {
+        "file_id": 1,
+        "path": "globalgamemanagers.assets"
+      },
+      {
+        "file_id": 2,
+        "path": "sharedassets1.assets"
+      },
+      {
+        "file_id": 3,
+        "path": "resources.assets"
+      },
+      {
+        "file_id": 4,
+        "path": "sharedassets0.assets"
+      },
+      {
+        "file_id": 5,
+        "path": "Library/unity default resources"
+      }
+    ],
+    "components": [
+      {
+        "path_id": 3357,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "ﺓﺪﻳﺪﺟ ﺔﺒﻌﻟ",
+          "m_isRightToLeft": 0,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 244
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4294967295
+          },
+          "m_fontColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 7.0,
+          "m_fontSizeBase": 7.0,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 18.0,
+          "m_fontSizeMax": 72.0,
+          "m_fontStyle": 16,
+          "m_HorizontalAlignment": 1,
+          "m_VerticalAlignment": 4096,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": 11.600000381469727,
+          "m_wordSpacing": 13.600000381469727,
+          "m_lineSpacing": -55.0,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 13.1495943069458,
+            "y": 4.484493255615234,
+            "z": -26.036537170410156,
+            "w": -6.026998043060303
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 7,
+            "name": "NEW GAME TEXT 4",
+            "active": false,
+            "transform_id": 2777,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": 2.1073427092233032e-07,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.05999999865889549
+              },
+              "m_LocalScale": {
+                "x": 0.08175089210271835,
+                "y": 0.0776199996471405,
+                "z": 0.0776199996471405
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1512
+              },
+              "m_AnchorMin": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchorMax": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchoredPosition": {
+                "x": -1.75,
+                "y": 0.9570000171661377
+              },
+              "m_SizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_Pivot": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            }
+          },
+          {
+            "path_id": 663,
+            "name": "SAVE SLOT 4",
+            "active": true,
+            "transform_id": 1512,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": -0.8849999904632568,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1198
+              }
+            }
+          },
+          {
+            "path_id": 97,
+            "name": "SAVE FILES",
+            "active": false,
+            "transform_id": 1198,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -25.799999237060547,
+                "y": 0.8802242279052734,
+                "z": -9.220000267028809
+              },
+              "m_LocalScale": {
+                "x": 0.9494699835777283,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": false
+      },
+      {
+        "path_id": 3404,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": ".ﺎﻳﺍﻭﺰﻟﺍ ﻲﻓ ﺭﻮﺼﻟﺍ ﻲﻔﺘﺨﺗﻭ ،ﻩﻼﻋﺃ Mt. Holly ﺰﻣﺭ ﺮﻬﻈﻳ ﺩﺎﻜﻳ ﻰﺘﺣ ﺯﺎﻔﻠﺘﻟﺍ ﻭﺃ ﺔﺷﺎﺸﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ ﻂﺒﺿﺍ\n\n.ﻲﻬﺘﻨﺗ ﺎﻣﺪﻨﻋ [ENTER] ﻂﻐﺿﺍ",
+          "m_isRightToLeft": 0,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 244
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4285295724
+          },
+          "m_fontColor": {
+            "r": 0.4245283007621765,
+            "g": 0.4245283007621765,
+            "b": 0.4245283007621765,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 3.0,
+          "m_fontSizeBase": 3.0,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 18.0,
+          "m_fontSizeMax": 72.0,
+          "m_fontStyle": 0,
+          "m_HorizontalAlignment": 2,
+          "m_VerticalAlignment": 256,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": -2.0,
+          "m_wordSpacing": 0.0,
+          "m_lineSpacing": 33.0,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 29.55670928955078,
+            "y": 0.97802734375,
+            "z": -17.53767967224121,
+            "w": -3.5260322093963623
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 139,
+            "name": "screen calibration (1)",
+            "active": true,
+            "transform_id": 2844,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -5.204170014340115e-18,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 10.550000190734863
+              },
+              "m_LocalScale": {
+                "x": 0.8533999919891357,
+                "y": 0.8330099582672119,
+                "z": 0.8533999919891357
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1249
+              },
+              "m_AnchorMin": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchorMax": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchoredPosition": {
+                "x": -19.620019912719727,
+                "y": -4.28000020980835
+              },
+              "m_SizeDelta": {
+                "x": 20.0,
+                "y": 5.0
+              },
+              "m_Pivot": {
+                "x": 0.5,
+                "y": 0.5
+              }
+            }
+          },
+          {
+            "path_id": 202,
+            "name": "CALIBRATION",
+            "active": false,
+            "transform_id": 1249,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": -10.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": false
+      },
+      {
+        "path_id": 3411,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "ﺕﻮﺼﻟﺍ ﻯﻮﺘﺴﻣ",
+          "m_isRightToLeft": 0,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 244
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4289622340
+          },
+          "m_fontColor": {
+            "r": 0.2666666805744171,
+            "g": 0.4431372582912445,
+            "b": 0.6823529601097107,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 2.5,
+          "m_fontSizeBase": 2.5,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 18.0,
+          "m_fontSizeMax": 72.0,
+          "m_fontStyle": 16,
+          "m_HorizontalAlignment": 2,
+          "m_VerticalAlignment": 512,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": 33.099998474121094,
+          "m_wordSpacing": 0.0,
+          "m_lineSpacing": -55.0,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 13.1495943069458,
+            "y": 4.484493255615234,
+            "z": -20.030742645263672,
+            "w": -15.260869026184082
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 170,
+            "name": "VOLUME TEXT",
+            "active": true,
+            "transform_id": 2858,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.000062346458435,
+                "y": 1.000062346458435,
+                "z": 1.000062346458435
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 2930
+              },
+              "m_AnchorMin": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchorMax": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchoredPosition": {
+                "x": 33.0099983215332,
+                "y": 60.20000076293945
+              },
+              "m_SizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_Pivot": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            }
+          },
+          {
+            "path_id": 316,
+            "name": "Volume Click",
+            "active": true,
+            "transform_id": 2930,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": 2.1073427092233032e-07,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -9.220600128173828
+              },
+              "m_LocalScale": {
+                "x": 0.09861999750137329,
+                "y": 0.09861999750137329,
+                "z": 0.09861999750137329
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1276
+              },
+              "m_AnchorMin": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchorMax": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchoredPosition": {
+                "x": 11.839006423950195,
+                "y": -3.310999870300293
+              },
+              "m_SizeDelta": {
+                "x": 100.0,
+                "y": 100.0
+              },
+              "m_Pivot": {
+                "x": 0.5,
+                "y": 0.5
+              }
+            }
+          },
+          {
+            "path_id": 257,
+            "name": "SETTINGS LAYOUT",
+            "active": false,
+            "transform_id": 1276,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1306
+              }
+            }
+          },
+          {
+            "path_id": 310,
+            "name": "MAIN MENU",
+            "active": true,
+            "transform_id": 1306,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -12.098150253295898,
+                "y": 4.387224197387695,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": false
+      },
+      {
+        "path_id": 3481,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "ﺔﻌﺑﺎﺘﻣ",
+          "m_isRightToLeft": 0,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 244
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4289622340
+          },
+          "m_fontColor": {
+            "r": 0.2666666805744171,
+            "g": 0.4431372582912445,
+            "b": 0.6823529601097107,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 2.5,
+          "m_fontSizeBase": 2.5,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 18.0,
+          "m_fontSizeMax": 72.0,
+          "m_fontStyle": 16,
+          "m_HorizontalAlignment": 2,
+          "m_VerticalAlignment": 512,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": 18.600000381469727,
+          "m_wordSpacing": 0.0,
+          "m_lineSpacing": -55.0,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 13.1495943069458,
+            "y": 4.484493255615234,
+            "z": -20.030742645263672,
+            "w": -15.260869026184082
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 403,
+            "name": "CONTINUE TEXT",
+            "active": true,
+            "transform_id": 2964,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.000062346458435,
+                "y": 1.000062346458435,
+                "z": 1.000062346458435
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 2850
+              },
+              "m_AnchorMin": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchorMax": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchoredPosition": {
+                "x": 33.0099983215332,
+                "y": 60.20000076293945
+              },
+              "m_SizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_Pivot": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            }
+          },
+          {
+            "path_id": 148,
+            "name": "Continue Click",
+            "active": true,
+            "transform_id": 2850,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": 2.1073427092233032e-07,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -9.220600128173828
+              },
+              "m_LocalScale": {
+                "x": 0.09862396866083145,
+                "y": 0.09862396866083145,
+                "z": 0.09862396866083145
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1438
+              },
+              "m_AnchorMin": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchorMax": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchoredPosition": {
+                "x": 11.839006423950195,
+                "y": -3.3299999237060547
+              },
+              "m_SizeDelta": {
+                "x": 100.0,
+                "y": 100.0
+              },
+              "m_Pivot": {
+                "x": 0.5,
+                "y": 0.5
+              }
+            }
+          },
+          {
+            "path_id": 537,
+            "name": "MAINMENU LAYOUT",
+            "active": true,
+            "transform_id": 1438,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1306
+              }
+            }
+          },
+          {
+            "path_id": 310,
+            "name": "MAIN MENU",
+            "active": true,
+            "transform_id": 1306,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -12.098150253295898,
+                "y": 4.387224197387695,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": true
+      },
+      {
+        "path_id": 3500,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "ﺔﺒﻌﻠﻟﺍ ﺀﺎﻬﻧﺇ",
+          "m_isRightToLeft": 0,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 244
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4289622340
+          },
+          "m_fontColor": {
+            "r": 0.2666666805744171,
+            "g": 0.4431372582912445,
+            "b": 0.6823529601097107,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 2.5,
+          "m_fontSizeBase": 2.5,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 18.0,
+          "m_fontSizeMax": 72.0,
+          "m_fontStyle": 16,
+          "m_HorizontalAlignment": 2,
+          "m_VerticalAlignment": 512,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": 9.899999618530273,
+          "m_wordSpacing": 0.0,
+          "m_lineSpacing": -55.0,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 13.1495943069458,
+            "y": 4.484493255615234,
+            "z": -20.030742645263672,
+            "w": -15.260869026184082
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 462,
+            "name": "QUIT TEXT",
+            "active": true,
+            "transform_id": 2989,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.000062346458435,
+                "y": 1.000062346458435,
+                "z": 1.000062346458435
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 2879
+              },
+              "m_AnchorMin": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchorMax": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchoredPosition": {
+                "x": 33.0099983215332,
+                "y": 60.20000076293945
+              },
+              "m_SizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_Pivot": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            }
+          },
+          {
+            "path_id": 208,
+            "name": "Quit Click",
+            "active": true,
+            "transform_id": 2879,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": 2.1073427092233032e-07,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -9.220600128173828
+              },
+              "m_LocalScale": {
+                "x": 0.09862396866083145,
+                "y": 0.09862396866083145,
+                "z": 0.09862396866083145
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1438
+              },
+              "m_AnchorMin": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchorMax": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchoredPosition": {
+                "x": 11.839006423950195,
+                "y": -3.5399999618530273
+              },
+              "m_SizeDelta": {
+                "x": 100.0,
+                "y": 100.0
+              },
+              "m_Pivot": {
+                "x": 0.5,
+                "y": 0.5
+              }
+            }
+          },
+          {
+            "path_id": 537,
+            "name": "MAINMENU LAYOUT",
+            "active": true,
+            "transform_id": 1438,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1306
+              }
+            }
+          },
+          {
+            "path_id": 310,
+            "name": "MAIN MENU",
+            "active": true,
+            "transform_id": 1306,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -12.098150253295898,
+                "y": 4.387224197387695,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": true
+      },
+      {
+        "path_id": 3534,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "ﺕﺍﺩﺍﺪﻋﻹﺍ",
+          "m_isRightToLeft": 0,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 244
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4289622340
+          },
+          "m_fontColor": {
+            "r": 0.2666666805744171,
+            "g": 0.4431372582912445,
+            "b": 0.6823529601097107,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 2.5,
+          "m_fontSizeBase": 2.5,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 1,
+          "m_fontSizeMin": 18.0,
+          "m_fontSizeMax": 72.0,
+          "m_fontStyle": 16,
+          "m_HorizontalAlignment": 2,
+          "m_VerticalAlignment": 512,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": 19.399999618530273,
+          "m_wordSpacing": 0.0,
+          "m_lineSpacing": -55.0,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 13.1495943069458,
+            "y": 4.484493255615234,
+            "z": -20.030742645263672,
+            "w": -15.260869026184082
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 586,
+            "name": "SETTINGS TEXT",
+            "active": true,
+            "transform_id": 3037,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.000062346458435,
+                "y": 1.000062346458435,
+                "z": 1.000062346458435
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 2889
+              },
+              "m_AnchorMin": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchorMax": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchoredPosition": {
+                "x": 33.0099983215332,
+                "y": 60.20000076293945
+              },
+              "m_SizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_Pivot": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            }
+          },
+          {
+            "path_id": 224,
+            "name": "Settings Click",
+            "active": true,
+            "transform_id": 2889,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": 2.1073427092233032e-07,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -9.220600128173828
+              },
+              "m_LocalScale": {
+                "x": 0.09862396866083145,
+                "y": 0.09862396866083145,
+                "z": 0.09862396866083145
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1438
+              },
+              "m_AnchorMin": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchorMax": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "m_AnchoredPosition": {
+                "x": 11.839006423950195,
+                "y": -3.4700000286102295
+              },
+              "m_SizeDelta": {
+                "x": 100.0,
+                "y": 100.0
+              },
+              "m_Pivot": {
+                "x": 0.5,
+                "y": 0.5
+              }
+            }
+          },
+          {
+            "path_id": 537,
+            "name": "MAINMENU LAYOUT",
+            "active": true,
+            "transform_id": 1438,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1306
+              }
+            }
+          },
+          {
+            "path_id": 310,
+            "name": "MAIN MENU",
+            "active": true,
+            "transform_id": 1306,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -12.098150253295898,
+                "y": 4.387224197387695,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": true
+      },
+      {
+        "path_id": 3535,
+        "component": "TextMeshPro",
+        "strict_parse": "PASS",
+        "noop": "PASS",
+        "settings": {
+          "m_text": "ﺔﺑﻮﻌﺼﻟﺍ ﻯﻮﺘﺴﻣ ﻮﻫ ﺍﺬﻫ\nﺃﺪﺒﺗ .ﺔﺒﻌﻠﻟ ﻱﺩﺎﻴﺘﻋﻻﺍﻭ ﻲﻠﺻﻷﺍ\n.ﺓﻮﻄﺧ 50 ﻚﻳﺪﻟﻭ ﻡﻮﻳ ﻞﻛ",
+          "m_isRightToLeft": 0,
+          "m_fontAsset": {
+            "m_FileID": 2,
+            "m_PathID": 244
+          },
+          "m_fontSharedMaterials": [],
+          "m_fontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_fontMaterials": [],
+          "m_fontColor32": {
+            "rgba": 4294967295
+          },
+          "m_fontColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "m_fontColorGradient": {
+            "topLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "topRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomLeft": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "bottomRight": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          },
+          "m_fontColorGradientPreset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_TextStyleHashCode": -1183493901,
+          "m_fontSize": 2.5999999046325684,
+          "m_fontSizeBase": 2.5999999046325684,
+          "m_fontWeight": 400,
+          "m_enableAutoSizing": 0,
+          "m_fontSizeMin": 1.0,
+          "m_fontSizeMax": 3.5,
+          "m_fontStyle": 1,
+          "m_HorizontalAlignment": 1,
+          "m_VerticalAlignment": 256,
+          "m_textAlignment": 65535,
+          "m_characterSpacing": -5.96999979019165,
+          "m_wordSpacing": 7.389999866485596,
+          "m_lineSpacing": 29.829999923706055,
+          "m_lineSpacingMax": 0.0,
+          "m_paragraphSpacing": 0.0,
+          "m_enableWordWrapping": 1,
+          "m_wordWrappingRatios": 0.4000000059604645,
+          "m_overflowMode": 0,
+          "m_linkedTextComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "m_isRichText": 1,
+          "m_IsTextObjectScaleStatic": 0,
+          "m_VertexBufferAutoSizeReduction": 0,
+          "m_useMaxVisibleDescender": 1,
+          "m_margin": {
+            "x": 15.586573600769043,
+            "y": 4.484493255615234,
+            "z": -22.641990661621094,
+            "w": -6.277495384216309
+          },
+          "m_isVolumetricText": 0,
+          "m_hasFontAssetChanged": 0
+        },
+        "hierarchy": [
+          {
+            "path_id": 587,
+            "name": "Description",
+            "active": true,
+            "transform_id": 3038,
+            "transform_type": "RectTransform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.5000001192092896,
+                "y": 0.49999988079071045,
+                "z": -0.49999988079071045,
+                "w": 0.5000001192092896
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 36.599998474121094
+              },
+              "m_LocalScale": {
+                "x": 1.698350191116333,
+                "y": 1.0778354406356812,
+                "z": 1.1871892213821411
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1377
+              },
+              "m_AnchorMin": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchorMax": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_AnchoredPosition": {
+                "x": 5.460000038146973,
+                "y": -0.9634349346160889
+              },
+              "m_SizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "m_Pivot": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            }
+          },
+          {
+            "path_id": 429,
+            "name": "SAVE FOUND",
+            "active": true,
+            "transform_id": 1377,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.5,
+                "y": -0.5,
+                "z": 0.5,
+                "w": 0.5
+              },
+              "m_LocalPosition": {
+                "x": 0.6119770407676697,
+                "y": 0.5449399948120117,
+                "z": 0.45382213592529297
+              },
+              "m_LocalScale": {
+                "x": 0.11338715255260468,
+                "y": 0.10294288396835327,
+                "z": 0.07578930258750916
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1399
+              }
+            }
+          },
+          {
+            "path_id": 466,
+            "name": "BEQUEST MODE",
+            "active": true,
+            "transform_id": 1399,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": -0.0,
+                "y": -0.0,
+                "z": -0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -0.5270004272460938,
+                "y": -0.7839999794960022,
+                "z": -0.7390003204345703
+              },
+              "m_LocalScale": {
+                "x": 0.9494699835777283,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1173
+              }
+            }
+          },
+          {
+            "path_id": 46,
+            "name": "MODES",
+            "active": true,
+            "transform_id": 1173,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 1277
+              }
+            }
+          },
+          {
+            "path_id": 261,
+            "name": "NEW GAME SELECTION",
+            "active": false,
+            "transform_id": 1277,
+            "transform_type": "Transform",
+            "transform": {
+              "m_LocalRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+              },
+              "m_LocalPosition": {
+                "x": -24.81692886352539,
+                "y": 1.5286927223205566,
+                "z": -8.480999946594238
+              },
+              "m_LocalScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "m_Father": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          }
+        ],
+        "active_in_serialized_hierarchy": false
+      }
+    ]
+  },
+  "font_assets": [
+    {
+      "file": "resources.assets",
+      "path_id": 1168,
+      "class": "TMP_Settings",
+      "name": "TMP Settings",
+      "raw_sha256": "d8044a00b927b6735fab2552595a918f7b3ad59fb6688cfa09639ec0dd802414",
+      "strict_parse": "PASS",
+      "byte_identical_noop": "PASS",
+      "settings": {
+        "m_GameObject": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+          "m_FileID": 1,
+          "m_PathID": 728
+        },
+        "m_Name": "TMP Settings",
+        "m_enableWordWrapping": 1,
+        "m_enableKerning": 1,
+        "m_enableExtraPadding": 0,
+        "m_enableTintAllSprites": 0,
+        "m_enableParseEscapeCharacters": 1,
+        "m_EnableRaycastTarget": 1,
+        "m_GetFontFeaturesAtRuntime": 1,
+        "m_missingGlyphCharacter": 0,
+        "m_warningsDisabled": 1,
+        "m_defaultFontAsset": {
+          "m_FileID": 3,
+          "m_PathID": 428
+        },
+        "m_defaultFontAssetPath": "Fonts & Materials/",
+        "m_defaultFontSize": 36.0,
+        "m_defaultAutoSizeMinRatio": 0.5,
+        "m_defaultAutoSizeMaxRatio": 2.0,
+        "m_defaultTextMeshProTextContainerSize": {
+          "x": 20.0,
+          "y": 5.0
+        },
+        "m_defaultTextMeshProUITextContainerSize": {
+          "x": 200.0,
+          "y": 50.0
+        },
+        "m_autoSizeTextContainer": 0,
+        "m_IsTextObjectScaleStatic": 0,
+        "m_fallbackFontAssets": [],
+        "m_matchMaterialPreset": 1,
+        "m_defaultSpriteAsset": {
+          "m_FileID": 0,
+          "m_PathID": 1166
+        },
+        "m_defaultSpriteAssetPath": "Sprite Assets/",
+        "m_enableEmojiSupport": 1,
+        "m_MissingCharacterSpriteUnicode": 0,
+        "m_defaultColorGradientPresetsPath": "Color Gradient Presets/",
+        "m_defaultStyleSheet": {
+          "m_FileID": 0,
+          "m_PathID": 1167
+        },
+        "m_StyleSheetsResourcePath": "",
+        "m_leadingCharacters": {
+          "m_FileID": 0,
+          "m_PathID": 176
+        },
+        "m_followingCharacters": {
+          "m_FileID": 0,
+          "m_PathID": 178
+        },
+        "m_UseModernHangulLineBreakingRules": 0
+      }
+    },
+    {
+      "file": "sharedassets0.assets",
+      "path_id": 428,
+      "class": "TMP_FontAsset",
+      "name": "LiberationSans SDF",
+      "raw_sha256": "b4c04cc4359e371f613678c00913ca8d9c14ed00657ebb8b369475918d6c61c8",
+      "strict_parse": "PASS",
+      "byte_identical_noop": "PASS",
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 6
+      },
+      "m_Version": "1.1.0",
+      "m_SourceFontFile": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_AtlasPopulationMode": 0,
+      "m_AtlasTextures": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 27
+        }
+      ],
+      "m_IsMultiAtlasTexturesEnabled": 0,
+      "m_ClearDynamicDataOnBuild": 0,
+      "m_AtlasWidth": 1024,
+      "m_AtlasHeight": 1024,
+      "m_AtlasPadding": 9,
+      "m_AtlasRenderMode": 4169,
+      "fallbackFontAssets": [],
+      "m_FallbackFontAssetTable": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 427
+        }
+      ],
+      "m_FontWeightTable": [
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ],
+      "normalStyle": 0.0,
+      "boldStyle": 0.75,
+      "italicStyle": 35,
+      "glyph_count": 250,
+      "character_count": 250,
+      "arabic_character_count": 0,
+      "presentation_character_count": 0,
+      "characters": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        8192,
+        8193,
+        8194,
+        8195,
+        8196,
+        8197,
+        8198,
+        8199,
+        8200,
+        8201,
+        8202,
+        8203,
+        8204,
+        8205,
+        8206,
+        8207,
+        8210,
+        8211,
+        8212,
+        8213,
+        8214,
+        8215,
+        8216,
+        8217,
+        8218,
+        8219,
+        8220,
+        8221,
+        8222,
+        8223,
+        8224,
+        8225,
+        8226,
+        8230,
+        8234,
+        8235,
+        8236,
+        8237,
+        8238,
+        8239,
+        8240,
+        8242,
+        8243,
+        8244,
+        8249,
+        8250,
+        8252,
+        8254,
+        8260,
+        8286,
+        8298,
+        8299,
+        8300,
+        8301,
+        8302,
+        8303,
+        8364,
+        8482,
+        9633
+      ],
+      "face": {
+        "m_FaceIndex": 0,
+        "m_FamilyName": "Liberation Sans",
+        "m_StyleName": "Regular",
+        "m_PointSize": 86,
+        "m_Scale": 1.0,
+        "m_UnitsPerEM": 0,
+        "m_LineHeight": 98.8916015625,
+        "m_AscentLine": 77.853515625,
+        "m_CapLine": 59.0,
+        "m_MeanLine": 45.0,
+        "m_Baseline": 0.0,
+        "m_DescentLine": -18.224609375,
+        "m_SuperscriptOffset": 77.853515625,
+        "m_SuperscriptSize": 0.5,
+        "m_SubscriptOffset": -18.224609375,
+        "m_SubscriptSize": 0.5,
+        "m_UnderlineOffset": -12.26171875,
+        "m_UnderlineThickness": 6.298828125,
+        "m_StrikethroughOffset": 18.0,
+        "m_StrikethroughThickness": 6.298828125,
+        "m_TabWidth": 24.0
+      },
+      "material_details": {
+        "m_Name": "LiberationSans SDF Material",
+        "m_Shader": {
+          "m_FileID": 0,
+          "m_PathID": 32
+        },
+        "m_ValidKeywords": [],
+        "m_InvalidKeywords": [],
+        "m_CustomRenderQueue": -1
+      },
+      "atlas_details": [
+        {
+          "path_id": 27,
+          "m_Name": "LiberationSans SDF Atlas",
+          "m_Width": 1024,
+          "m_Height": 1024,
+          "m_TextureFormat": 1,
+          "m_IsReadable": false
+        }
+      ]
+    },
+    {
+      "file": "sharedassets0.assets",
+      "path_id": 429,
+      "class": "TMP_FontAsset",
+      "name": "1820modern SDF",
+      "raw_sha256": "216cc043935849bcf36fc229d5a3a888bddb2b83ad1d5f5c20661eb574580cd2",
+      "strict_parse": "PASS",
+      "byte_identical_noop": "PASS",
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 8
+      },
+      "m_Version": "1.1.0",
+      "m_SourceFontFile": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_AtlasPopulationMode": 0,
+      "m_AtlasTextures": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 25
+        }
+      ],
+      "m_IsMultiAtlasTexturesEnabled": 0,
+      "m_ClearDynamicDataOnBuild": 0,
+      "m_AtlasWidth": 512,
+      "m_AtlasHeight": 512,
+      "m_AtlasPadding": 5,
+      "m_AtlasRenderMode": 4121,
+      "fallbackFontAssets": [],
+      "m_FallbackFontAssetTable": [],
+      "m_FontWeightTable": [
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ],
+      "normalStyle": 0.0,
+      "boldStyle": 0.75,
+      "italicStyle": 35,
+      "glyph_count": 90,
+      "character_count": 90,
+      "arabic_character_count": 0,
+      "presentation_character_count": 0,
+      "characters": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        61,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        93,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        124,
+        160,
+        8230
+      ],
+      "face": {
+        "m_FaceIndex": 0,
+        "m_FamilyName": "1820 Modern",
+        "m_StyleName": "",
+        "m_PointSize": 67,
+        "m_Scale": 1.0,
+        "m_UnitsPerEM": 0,
+        "m_LineHeight": 95.4375,
+        "m_AscentLine": 73.75,
+        "m_CapLine": 53.999996185302734,
+        "m_MeanLine": 34.874996185302734,
+        "m_Baseline": 0.0,
+        "m_DescentLine": -21.75,
+        "m_SuperscriptOffset": 73.75,
+        "m_SuperscriptSize": 0.5,
+        "m_SubscriptOffset": -11.725000381469727,
+        "m_SubscriptSize": 0.5,
+        "m_UnderlineOffset": -11.725000381469727,
+        "m_UnderlineThickness": 3.3500001430511475,
+        "m_StrikethroughOffset": 18.909090042114258,
+        "m_StrikethroughThickness": 3.3500001430511475,
+        "m_TabWidth": 354.375
+      },
+      "material_details": {
+        "m_Name": "1820modern SDF Material",
+        "m_Shader": {
+          "m_FileID": 0,
+          "m_PathID": 31
+        },
+        "m_ValidKeywords": [],
+        "m_InvalidKeywords": [],
+        "m_CustomRenderQueue": -1
+      },
+      "atlas_details": [
+        {
+          "path_id": 25,
+          "m_Name": "1820modern SDF Atlas",
+          "m_Width": 512,
+          "m_Height": 512,
+          "m_TextureFormat": 1,
+          "m_IsReadable": false
+        }
+      ]
+    },
+    {
+      "file": "sharedassets0.assets",
+      "path_id": 430,
+      "class": "TMP_FontAsset",
+      "name": "Rank Font",
+      "raw_sha256": "b10c202591d9f32f2816dc67eca1566e4e6c85e04bcb0142ceaf9c60456ea2b5",
+      "strict_parse": "PASS",
+      "byte_identical_noop": "PASS",
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 7
+      },
+      "m_Version": "1.1.0",
+      "m_SourceFontFile": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_AtlasPopulationMode": 0,
+      "m_AtlasTextures": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 28
+        }
+      ],
+      "m_IsMultiAtlasTexturesEnabled": 0,
+      "m_ClearDynamicDataOnBuild": 0,
+      "m_AtlasWidth": 512,
+      "m_AtlasHeight": 512,
+      "m_AtlasPadding": 5,
+      "m_AtlasRenderMode": 4121,
+      "fallbackFontAssets": [],
+      "m_FallbackFontAssetTable": [],
+      "m_FontWeightTable": [
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ],
+      "normalStyle": 0.0,
+      "boldStyle": 0.75,
+      "italicStyle": 35,
+      "glyph_count": 72,
+      "character_count": 72,
+      "arabic_character_count": 0,
+      "presentation_character_count": 0,
+      "characters": [
+        33,
+        34,
+        38,
+        39,
+        40,
+        41,
+        44,
+        45,
+        46,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        32
+      ],
+      "face": {
+        "m_FaceIndex": 0,
+        "m_FamilyName": "Times New Roman",
+        "m_StyleName": "",
+        "m_PointSize": 84,
+        "m_Scale": 1.0,
+        "m_UnitsPerEM": 0,
+        "m_LineHeight": 96.5625,
+        "m_AscentLine": 74.875,
+        "m_CapLine": 55.624996185302734,
+        "m_MeanLine": 37.124996185302734,
+        "m_Baseline": 0.0,
+        "m_DescentLine": -18.1875,
+        "m_SuperscriptOffset": 74.875,
+        "m_SuperscriptSize": 0.5,
+        "m_SubscriptOffset": -11.197265625,
+        "m_SubscriptSize": 0.5,
+        "m_UnderlineOffset": -11.197265625,
+        "m_UnderlineThickness": 4.1015625,
+        "m_StrikethroughOffset": 20.613636016845703,
+        "m_StrikethroughThickness": 4.1015625,
+        "m_TabWidth": 210.0
+      },
+      "material_details": {
+        "m_Name": "Rank Font Material",
+        "m_Shader": {
+          "m_FileID": 0,
+          "m_PathID": 31
+        },
+        "m_ValidKeywords": [
+          "UNDERLAY_ON"
+        ],
+        "m_InvalidKeywords": [],
+        "m_CustomRenderQueue": -1
+      },
+      "atlas_details": [
+        {
+          "path_id": 28,
+          "m_Name": "Rank Font Atlas",
+          "m_Width": 512,
+          "m_Height": 512,
+          "m_TextureFormat": 1,
+          "m_IsReadable": false
+        }
+      ]
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 241,
+      "class": "TMP_FontAsset",
+      "name": "CharcuterieBlock SDF Gamertag",
+      "raw_sha256": "e2bce2611360e9d2801416ac849f1be50eaa5393ea4082362c1b5f6bae8b7a61",
+      "strict_parse": "PASS",
+      "byte_identical_noop": "PASS",
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 31
+      },
+      "m_Version": "1.1.0",
+      "m_SourceFontFile": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_AtlasPopulationMode": 0,
+      "m_AtlasTextures": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 99
+        }
+      ],
+      "m_IsMultiAtlasTexturesEnabled": 0,
+      "m_ClearDynamicDataOnBuild": 0,
+      "m_AtlasWidth": 256,
+      "m_AtlasHeight": 256,
+      "m_AtlasPadding": 4,
+      "m_AtlasRenderMode": 4121,
+      "fallbackFontAssets": [],
+      "m_FallbackFontAssetTable": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 244
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 245
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 246
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 247
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 248
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 249
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 250
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 251
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 252
+        }
+      ],
+      "m_FontWeightTable": [
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ],
+      "normalStyle": 0.0,
+      "boldStyle": 0.75,
+      "italicStyle": 35,
+      "glyph_count": 55,
+      "character_count": 55,
+      "arabic_character_count": 0,
+      "presentation_character_count": 0,
+      "characters": [
+        33,
+        35,
+        37,
+        38,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        63,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        93,
+        95,
+        123,
+        125,
+        32
+      ],
+      "face": {
+        "m_FaceIndex": 0,
+        "m_FamilyName": "Charcuterie Block",
+        "m_StyleName": "",
+        "m_PointSize": 43,
+        "m_Scale": 1.0,
+        "m_UnitsPerEM": 0,
+        "m_LineHeight": 53.3125,
+        "m_AscentLine": 42.59375,
+        "m_CapLine": 32.437496185302734,
+        "m_MeanLine": 0.0,
+        "m_Baseline": 0.0,
+        "m_DescentLine": -10.75,
+        "m_SuperscriptOffset": 42.59375,
+        "m_SuperscriptSize": 0.5,
+        "m_SubscriptOffset": -4.300000190734863,
+        "m_SubscriptSize": 0.5,
+        "m_UnderlineOffset": -4.300000190734863,
+        "m_UnderlineThickness": 2.1500000953674316,
+        "m_StrikethroughOffset": 11.579545021057129,
+        "m_StrikethroughThickness": 2.1500000953674316,
+        "m_TabWidth": 0.0
+      },
+      "material_details": {
+        "m_Name": "CharcuterieBlock SDF Material",
+        "m_Shader": {
+          "m_FileID": 5,
+          "m_PathID": 31
+        },
+        "m_ValidKeywords": [],
+        "m_InvalidKeywords": [],
+        "m_CustomRenderQueue": -1
+      },
+      "atlas_details": [
+        {
+          "path_id": 99,
+          "m_Name": "CharcuterieBlock SDF Atlas",
+          "m_Width": 256,
+          "m_Height": 256,
+          "m_TextureFormat": 1,
+          "m_IsReadable": false
+        }
+      ]
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 242,
+      "class": "TMP_FontAsset",
+      "name": "CharcuterieBlock SDF",
+      "raw_sha256": "b3c34410ff549b8ee1e43fbd143ceecdb3d2c4905247bbfa6ad89150f58ca93d",
+      "strict_parse": "PASS",
+      "byte_identical_noop": "PASS",
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 32
+      },
+      "m_Version": "1.1.0",
+      "m_SourceFontFile": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_AtlasPopulationMode": 0,
+      "m_AtlasTextures": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 100
+        }
+      ],
+      "m_IsMultiAtlasTexturesEnabled": 0,
+      "m_ClearDynamicDataOnBuild": 0,
+      "m_AtlasWidth": 256,
+      "m_AtlasHeight": 256,
+      "m_AtlasPadding": 4,
+      "m_AtlasRenderMode": 4121,
+      "fallbackFontAssets": [],
+      "m_FallbackFontAssetTable": [],
+      "m_FontWeightTable": [
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ],
+      "normalStyle": 0.0,
+      "boldStyle": 0.75,
+      "italicStyle": 35,
+      "glyph_count": 55,
+      "character_count": 55,
+      "arabic_character_count": 0,
+      "presentation_character_count": 0,
+      "characters": [
+        33,
+        35,
+        37,
+        38,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        63,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        93,
+        95,
+        123,
+        125,
+        32
+      ],
+      "face": {
+        "m_FaceIndex": 0,
+        "m_FamilyName": "Charcuterie Block",
+        "m_StyleName": "",
+        "m_PointSize": 43,
+        "m_Scale": 1.0,
+        "m_UnitsPerEM": 0,
+        "m_LineHeight": 53.3125,
+        "m_AscentLine": 42.59375,
+        "m_CapLine": 32.437496185302734,
+        "m_MeanLine": 0.0,
+        "m_Baseline": 0.0,
+        "m_DescentLine": -10.75,
+        "m_SuperscriptOffset": 42.59375,
+        "m_SuperscriptSize": 0.5,
+        "m_SubscriptOffset": -4.300000190734863,
+        "m_SubscriptSize": 0.5,
+        "m_UnderlineOffset": -4.300000190734863,
+        "m_UnderlineThickness": 2.1500000953674316,
+        "m_StrikethroughOffset": 11.579545021057129,
+        "m_StrikethroughThickness": 2.1500000953674316,
+        "m_TabWidth": 0.0
+      },
+      "material_details": {
+        "m_Name": "CharcuterieBlock SDF Material",
+        "m_Shader": {
+          "m_FileID": 5,
+          "m_PathID": 31
+        },
+        "m_ValidKeywords": [],
+        "m_InvalidKeywords": [],
+        "m_CustomRenderQueue": -1
+      },
+      "atlas_details": [
+        {
+          "path_id": 100,
+          "m_Name": "CharcuterieBlock SDF Atlas",
+          "m_Width": 256,
+          "m_Height": 256,
+          "m_TextureFormat": 1,
+          "m_IsReadable": false
+        }
+      ]
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 244,
+      "class": "TMP_FontAsset",
+      "name": "NotoNaskhArabic-Medium SDF",
+      "raw_sha256": "8971dd31167acb2227213c4ddc28aa70b180be9d5f0345c0ce071511852631b2",
+      "strict_parse": "PASS",
+      "byte_identical_noop": "PASS",
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 43
+      },
+      "m_Version": "1.1.0",
+      "m_SourceFontFile": {
+        "m_FileID": 0,
+        "m_PathID": 211
+      },
+      "m_AtlasPopulationMode": 1,
+      "m_AtlasTextures": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 104
+        }
+      ],
+      "m_IsMultiAtlasTexturesEnabled": 0,
+      "m_ClearDynamicDataOnBuild": 0,
+      "m_AtlasWidth": 1024,
+      "m_AtlasHeight": 1024,
+      "m_AtlasPadding": 9,
+      "m_AtlasRenderMode": 4165,
+      "fallbackFontAssets": [],
+      "m_FallbackFontAssetTable": [],
+      "m_FontWeightTable": [
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ],
+      "normalStyle": 0.0,
+      "boldStyle": 0.75,
+      "italicStyle": 35,
+      "glyph_count": 12,
+      "character_count": 12,
+      "arabic_character_count": 0,
+      "presentation_character_count": 0,
+      "characters": [
+        192,
+        214,
+        216,
+        376,
+        8230,
+        256,
+        220,
+        202,
+        222,
+        197,
+        126,
+        191
+      ],
+      "face": {
+        "m_FaceIndex": 0,
+        "m_FamilyName": "Noto Naskh Arabic",
+        "m_StyleName": "Medium",
+        "m_PointSize": 90,
+        "m_Scale": 1.0,
+        "m_UnitsPerEM": 0,
+        "m_LineHeight": 153.27000427246094,
+        "m_AscentLine": 96.21000671386719,
+        "m_CapLine": 65.0,
+        "m_MeanLine": 49.0,
+        "m_Baseline": 0.0,
+        "m_DescentLine": -57.060001373291016,
+        "m_SuperscriptOffset": 96.21000671386719,
+        "m_SuperscriptSize": 0.5,
+        "m_SubscriptOffset": -57.060001373291016,
+        "m_SubscriptSize": 0.5,
+        "m_UnderlineOffset": -9.0,
+        "m_UnderlineThickness": 4.5,
+        "m_StrikethroughOffset": 19.600000381469727,
+        "m_StrikethroughThickness": 4.5,
+        "m_TabWidth": 20.0
+      },
+      "material_details": {
+        "m_Name": "NotoNaskhArabic-Medium Atlas Material",
+        "m_Shader": {
+          "m_FileID": 5,
+          "m_PathID": 31
+        },
+        "m_ValidKeywords": [],
+        "m_InvalidKeywords": [],
+        "m_CustomRenderQueue": -1
+      },
+      "atlas_details": [
+        {
+          "path_id": 104,
+          "m_Name": "NotoNaskhArabic-Medium Atlas",
+          "m_Width": 1024,
+          "m_Height": 1024,
+          "m_TextureFormat": 1,
+          "m_IsReadable": true
+        }
+      ]
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 256,
+      "class": "TMP_FontAsset",
+      "name": "VersicaSerif SDF",
+      "raw_sha256": "5a37e8b7dd2d1827a002ae70257a38878836dc3c9bb2daa57730f6bc1f15fde5",
+      "strict_parse": "PASS",
+      "byte_identical_noop": "PASS",
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 33
+      },
+      "m_Version": "1.1.0",
+      "m_SourceFontFile": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_AtlasPopulationMode": 0,
+      "m_AtlasTextures": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 94
+        }
+      ],
+      "m_IsMultiAtlasTexturesEnabled": 0,
+      "m_ClearDynamicDataOnBuild": 0,
+      "m_AtlasWidth": 256,
+      "m_AtlasHeight": 256,
+      "m_AtlasPadding": 3,
+      "m_AtlasRenderMode": 4121,
+      "fallbackFontAssets": [],
+      "m_FallbackFontAssetTable": [],
+      "m_FontWeightTable": [
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "regularTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "italicTypeface": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ],
+      "normalStyle": 0.0,
+      "boldStyle": 0.75,
+      "italicStyle": 35,
+      "glyph_count": 46,
+      "character_count": 46,
+      "arabic_character_count": 0,
+      "presentation_character_count": 0,
+      "characters": [
+        32,
+        33,
+        34,
+        38,
+        39,
+        40,
+        41,
+        44,
+        45,
+        46,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "face": {
+        "m_FaceIndex": 0,
+        "m_FamilyName": "Versica Serif",
+        "m_StyleName": "",
+        "m_PointSize": 49,
+        "m_Scale": 1.0,
+        "m_UnitsPerEM": 0,
+        "m_LineHeight": 49.4375,
+        "m_AscentLine": 36.75,
+        "m_CapLine": 34.687496185302734,
+        "m_MeanLine": 0.0,
+        "m_Baseline": 0.0,
+        "m_DescentLine": -12.25,
+        "m_SuperscriptOffset": 36.75,
+        "m_SuperscriptSize": 0.5,
+        "m_SubscriptOffset": -4.900000095367432,
+        "m_SubscriptSize": 0.5,
+        "m_UnderlineOffset": -4.900000095367432,
+        "m_UnderlineThickness": 2.450000047683716,
+        "m_StrikethroughOffset": 8.909090995788574,
+        "m_StrikethroughThickness": 2.450000047683716,
+        "m_TabWidth": 122.5
+      },
+      "material_details": {
+        "m_Name": "VersicaSerif SDF Material",
+        "m_Shader": {
+          "m_FileID": 5,
+          "m_PathID": 31
+        },
+        "m_ValidKeywords": [],
+        "m_InvalidKeywords": [],
+        "m_CustomRenderQueue": -1
+      },
+      "atlas_details": [
+        {
+          "path_id": 94,
+          "m_Name": "VersicaSerif SDF Atlas",
+          "m_Width": 256,
+          "m_Height": 256,
+          "m_TextureFormat": 1,
+          "m_IsReadable": false
+        }
+      ]
+    }
+  ],
+  "status": "STATIC_EVIDENCE_ONLY; runtime UNKNOWN"
+}

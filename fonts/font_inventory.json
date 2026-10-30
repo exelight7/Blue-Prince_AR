@@ -1,0 +1,1668 @@
+{
+  "scope": "Native Font objects in all loose serialized assets and Unity default resources. Bundle counts supplied separately by parent extraction. TMP assets require recovered schemas.",
+  "tests": [
+    "ابتسم، فكل شيء ممكن.",
+    "الغرفة رقم 27",
+    "HP: 100",
+    "اضغط E لفتح الباب",
+    "Blue Prince - الأمير الأزرق",
+    "لا لأ لإ لآ ة ى ئ ؤ ء أ إ آ",
+    "اضغط E للمتابعة",
+    "Room 46 - الغرفة",
+    "HP 75%"
+  ],
+  "fonts": [
+    {
+      "file": "resources.assets",
+      "path_id": 186,
+      "name": "OpenSans-Regular",
+      "font_names": [
+        "Open Sans"
+      ],
+      "bytes": 217276,
+      "sha256": "13c03e22a633919beb2847c58c8285fb8a735ee97097d7c48fd403f8294b05f8",
+      "fallback_fonts": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 187
+        }
+      ],
+      "serialized_character_rect_count": 0,
+      "rendering_mode": 0,
+      "reference": "D:\\Games\\Blue Prince_AR\\fonts\\original\\resources.assets__186__OpenSans-Regular.ttf",
+      "cmap_count": 883,
+      "arabic_block_count": 0,
+      "arabic_presentation_forms_a_count": 0,
+      "arabic_presentation_forms_b_count": 1,
+      "gsub": true,
+      "gpos": true,
+      "test_missing": [
+        {
+          "text": "ابتسم، فكل شيء ممكن.",
+          "missing": [
+            "،",
+            "ء",
+            "ا",
+            "ب",
+            "ت",
+            "س",
+            "ش",
+            "ف",
+            "ك",
+            "ل",
+            "م",
+            "ن",
+            "ي"
+          ]
+        },
+        {
+          "text": "الغرفة رقم 27",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ق",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "HP: 100",
+          "missing": []
+        },
+        {
+          "text": "اضغط E لفتح الباب",
+          "missing": [
+            "ا",
+            "ب",
+            "ت",
+            "ح",
+            "ض",
+            "ط",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "Blue Prince - الأمير الأزرق",
+          "missing": [
+            "أ",
+            "ا",
+            "ر",
+            "ز",
+            "ق",
+            "ل",
+            "م",
+            "ي"
+          ]
+        },
+        {
+          "text": "لا لأ لإ لآ ة ى ئ ؤ ء أ إ آ",
+          "missing": [
+            "ء",
+            "آ",
+            "أ",
+            "ؤ",
+            "إ",
+            "ئ",
+            "ا",
+            "ة",
+            "ل",
+            "ى"
+          ]
+        },
+        {
+          "text": "اضغط E للمتابعة",
+          "missing": [
+            "ا",
+            "ب",
+            "ة",
+            "ت",
+            "ض",
+            "ط",
+            "ع",
+            "غ",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "Room 46 - الغرفة",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "HP 75%",
+          "missing": []
+        }
+      ],
+      "license": [
+        {
+          "name_id": 13,
+          "text": "Licensed under the Apache License, Version 2.0"
+        },
+        {
+          "name_id": 14,
+          "text": "http://www.apache.org/licenses/LICENSE-2.0"
+        }
+      ],
+      "western_digits": true,
+      "arabic_indic_digits": false,
+      "latin_ascii": true
+    },
+    {
+      "file": "resources.assets",
+      "path_id": 187,
+      "name": "OpenSans-Bold",
+      "font_names": [
+        "Open Sans"
+      ],
+      "bytes": 224452,
+      "sha256": "1b43de2449d39b65ff6f63315d4afda585f72fbbec2e3d9a56f59de6c75149d3",
+      "fallback_fonts": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 186
+        }
+      ],
+      "serialized_character_rect_count": 0,
+      "rendering_mode": 0,
+      "reference": "D:\\Games\\Blue Prince_AR\\fonts\\original\\resources.assets__187__OpenSans-Bold.ttf",
+      "cmap_count": 883,
+      "arabic_block_count": 0,
+      "arabic_presentation_forms_a_count": 0,
+      "arabic_presentation_forms_b_count": 1,
+      "gsub": true,
+      "gpos": true,
+      "test_missing": [
+        {
+          "text": "ابتسم، فكل شيء ممكن.",
+          "missing": [
+            "،",
+            "ء",
+            "ا",
+            "ب",
+            "ت",
+            "س",
+            "ش",
+            "ف",
+            "ك",
+            "ل",
+            "م",
+            "ن",
+            "ي"
+          ]
+        },
+        {
+          "text": "الغرفة رقم 27",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ق",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "HP: 100",
+          "missing": []
+        },
+        {
+          "text": "اضغط E لفتح الباب",
+          "missing": [
+            "ا",
+            "ب",
+            "ت",
+            "ح",
+            "ض",
+            "ط",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "Blue Prince - الأمير الأزرق",
+          "missing": [
+            "أ",
+            "ا",
+            "ر",
+            "ز",
+            "ق",
+            "ل",
+            "م",
+            "ي"
+          ]
+        },
+        {
+          "text": "لا لأ لإ لآ ة ى ئ ؤ ء أ إ آ",
+          "missing": [
+            "ء",
+            "آ",
+            "أ",
+            "ؤ",
+            "إ",
+            "ئ",
+            "ا",
+            "ة",
+            "ل",
+            "ى"
+          ]
+        },
+        {
+          "text": "اضغط E للمتابعة",
+          "missing": [
+            "ا",
+            "ب",
+            "ة",
+            "ت",
+            "ض",
+            "ط",
+            "ع",
+            "غ",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "Room 46 - الغرفة",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "HP 75%",
+          "missing": []
+        }
+      ],
+      "license": [
+        {
+          "name_id": 13,
+          "text": "Licensed under the Apache License, Version 2.0"
+        },
+        {
+          "name_id": 14,
+          "text": "http://www.apache.org/licenses/LICENSE-2.0"
+        }
+      ],
+      "western_digits": true,
+      "arabic_indic_digits": false,
+      "latin_ascii": true
+    },
+    {
+      "file": "sharedassets0.assets",
+      "path_id": 33,
+      "name": "LiberationSans",
+      "font_names": [
+        "Liberation Sans"
+      ],
+      "bytes": 350200,
+      "sha256": "e5b0af421ea2bfbc1ac8d251d647268087ae82786234c57f757d1f0b90fa8b49",
+      "fallback_fonts": [],
+      "serialized_character_rect_count": 0,
+      "rendering_mode": 0,
+      "reference": "D:\\Games\\Blue Prince_AR\\fonts\\original\\sharedassets0.assets__33__LiberationSans.ttf",
+      "cmap_count": 2294,
+      "arabic_block_count": 0,
+      "arabic_presentation_forms_a_count": 0,
+      "arabic_presentation_forms_b_count": 0,
+      "gsub": true,
+      "gpos": true,
+      "test_missing": [
+        {
+          "text": "ابتسم، فكل شيء ممكن.",
+          "missing": [
+            "،",
+            "ء",
+            "ا",
+            "ب",
+            "ت",
+            "س",
+            "ش",
+            "ف",
+            "ك",
+            "ل",
+            "م",
+            "ن",
+            "ي"
+          ]
+        },
+        {
+          "text": "الغرفة رقم 27",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ق",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "HP: 100",
+          "missing": []
+        },
+        {
+          "text": "اضغط E لفتح الباب",
+          "missing": [
+            "ا",
+            "ب",
+            "ت",
+            "ح",
+            "ض",
+            "ط",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "Blue Prince - الأمير الأزرق",
+          "missing": [
+            "أ",
+            "ا",
+            "ر",
+            "ز",
+            "ق",
+            "ل",
+            "م",
+            "ي"
+          ]
+        },
+        {
+          "text": "لا لأ لإ لآ ة ى ئ ؤ ء أ إ آ",
+          "missing": [
+            "ء",
+            "آ",
+            "أ",
+            "ؤ",
+            "إ",
+            "ئ",
+            "ا",
+            "ة",
+            "ل",
+            "ى"
+          ]
+        },
+        {
+          "text": "اضغط E للمتابعة",
+          "missing": [
+            "ا",
+            "ب",
+            "ة",
+            "ت",
+            "ض",
+            "ط",
+            "ع",
+            "غ",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "Room 46 - الغرفة",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "HP 75%",
+          "missing": []
+        }
+      ],
+      "license": [
+        {
+          "name_id": 13,
+          "text": "Licensed under the SIL Open Font License, Version 1.1"
+        },
+        {
+          "name_id": 14,
+          "text": "http://scripts.sil.org/OFL"
+        }
+      ],
+      "western_digits": true,
+      "arabic_indic_digits": false,
+      "latin_ascii": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 203,
+      "name": "NotoSansJP-Medium",
+      "font_names": [
+        "Noto Sans JP"
+      ],
+      "bytes": 5729332,
+      "sha256": "fdb4044741bc68f30ea8b92c1aefd920530a2d044f8753a6148148abdeb33958",
+      "fallback_fonts": [],
+      "serialized_character_rect_count": 0,
+      "rendering_mode": 0,
+      "reference": "D:\\Games\\Blue Prince_AR\\fonts\\original\\sharedassets1.assets__203__NotoSansJP-Medium.ttf",
+      "cmap_count": 16732,
+      "arabic_block_count": 0,
+      "arabic_presentation_forms_a_count": 0,
+      "arabic_presentation_forms_b_count": 0,
+      "gsub": true,
+      "gpos": true,
+      "test_missing": [
+        {
+          "text": "ابتسم، فكل شيء ممكن.",
+          "missing": [
+            "،",
+            "ء",
+            "ا",
+            "ب",
+            "ت",
+            "س",
+            "ش",
+            "ف",
+            "ك",
+            "ل",
+            "م",
+            "ن",
+            "ي"
+          ]
+        },
+        {
+          "text": "الغرفة رقم 27",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ق",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "HP: 100",
+          "missing": []
+        },
+        {
+          "text": "اضغط E لفتح الباب",
+          "missing": [
+            "ا",
+            "ب",
+            "ت",
+            "ح",
+            "ض",
+            "ط",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "Blue Prince - الأمير الأزرق",
+          "missing": [
+            "أ",
+            "ا",
+            "ر",
+            "ز",
+            "ق",
+            "ل",
+            "م",
+            "ي"
+          ]
+        },
+        {
+          "text": "لا لأ لإ لآ ة ى ئ ؤ ء أ إ آ",
+          "missing": [
+            "ء",
+            "آ",
+            "أ",
+            "ؤ",
+            "إ",
+            "ئ",
+            "ا",
+            "ة",
+            "ل",
+            "ى"
+          ]
+        },
+        {
+          "text": "اضغط E للمتابعة",
+          "missing": [
+            "ا",
+            "ب",
+            "ة",
+            "ت",
+            "ض",
+            "ط",
+            "ع",
+            "غ",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "Room 46 - الغرفة",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "HP 75%",
+          "missing": []
+        }
+      ],
+      "license": [
+        {
+          "name_id": 13,
+          "text": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+        },
+        {
+          "name_id": 14,
+          "text": "http://scripts.sil.org/OFL"
+        }
+      ],
+      "western_digits": true,
+      "arabic_indic_digits": false,
+      "latin_ascii": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 204,
+      "name": "NotoSans-Medium",
+      "font_names": [
+        "Noto Sans"
+      ],
+      "bytes": 555264,
+      "sha256": "2931199120fc5c13ccca9baf29f5bbd927c75a36bc0ec8147e92293ebbd0316e",
+      "fallback_fonts": [],
+      "serialized_character_rect_count": 0,
+      "rendering_mode": 0,
+      "reference": "D:\\Games\\Blue Prince_AR\\fonts\\original\\sharedassets1.assets__204__NotoSans-Medium.ttf",
+      "cmap_count": 3053,
+      "arabic_block_count": 0,
+      "arabic_presentation_forms_a_count": 0,
+      "arabic_presentation_forms_b_count": 1,
+      "gsub": true,
+      "gpos": true,
+      "test_missing": [
+        {
+          "text": "ابتسم، فكل شيء ممكن.",
+          "missing": [
+            "،",
+            "ء",
+            "ا",
+            "ب",
+            "ت",
+            "س",
+            "ش",
+            "ف",
+            "ك",
+            "ل",
+            "م",
+            "ن",
+            "ي"
+          ]
+        },
+        {
+          "text": "الغرفة رقم 27",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ق",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "HP: 100",
+          "missing": []
+        },
+        {
+          "text": "اضغط E لفتح الباب",
+          "missing": [
+            "ا",
+            "ب",
+            "ت",
+            "ح",
+            "ض",
+            "ط",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "Blue Prince - الأمير الأزرق",
+          "missing": [
+            "أ",
+            "ا",
+            "ر",
+            "ز",
+            "ق",
+            "ل",
+            "م",
+            "ي"
+          ]
+        },
+        {
+          "text": "لا لأ لإ لآ ة ى ئ ؤ ء أ إ آ",
+          "missing": [
+            "ء",
+            "آ",
+            "أ",
+            "ؤ",
+            "إ",
+            "ئ",
+            "ا",
+            "ة",
+            "ل",
+            "ى"
+          ]
+        },
+        {
+          "text": "اضغط E للمتابعة",
+          "missing": [
+            "ا",
+            "ب",
+            "ة",
+            "ت",
+            "ض",
+            "ط",
+            "ع",
+            "غ",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "Room 46 - الغرفة",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "HP 75%",
+          "missing": []
+        }
+      ],
+      "license": [
+        {
+          "name_id": 13,
+          "text": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+        },
+        {
+          "name_id": 14,
+          "text": "http://scripts.sil.org/OFL"
+        }
+      ],
+      "western_digits": true,
+      "arabic_indic_digits": false,
+      "latin_ascii": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 205,
+      "name": "NotoSerifThai-Medium",
+      "font_names": [
+        "Noto Serif Thai"
+      ],
+      "bytes": 59112,
+      "sha256": "6a8bcfebd58eb5baff507faae42cb5eeb1429d12ee1b8cc7a031eeccae2eecea",
+      "fallback_fonts": [],
+      "serialized_character_rect_count": 0,
+      "rendering_mode": 0,
+      "reference": "D:\\Games\\Blue Prince_AR\\fonts\\original\\sharedassets1.assets__205__NotoSerifThai-Medium.ttf",
+      "cmap_count": 430,
+      "arabic_block_count": 0,
+      "arabic_presentation_forms_a_count": 0,
+      "arabic_presentation_forms_b_count": 0,
+      "gsub": true,
+      "gpos": true,
+      "test_missing": [
+        {
+          "text": "ابتسم، فكل شيء ممكن.",
+          "missing": [
+            "،",
+            "ء",
+            "ا",
+            "ب",
+            "ت",
+            "س",
+            "ش",
+            "ف",
+            "ك",
+            "ل",
+            "م",
+            "ن",
+            "ي"
+          ]
+        },
+        {
+          "text": "الغرفة رقم 27",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ق",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "HP: 100",
+          "missing": []
+        },
+        {
+          "text": "اضغط E لفتح الباب",
+          "missing": [
+            "ا",
+            "ب",
+            "ت",
+            "ح",
+            "ض",
+            "ط",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "Blue Prince - الأمير الأزرق",
+          "missing": [
+            "أ",
+            "ا",
+            "ر",
+            "ز",
+            "ق",
+            "ل",
+            "م",
+            "ي"
+          ]
+        },
+        {
+          "text": "لا لأ لإ لآ ة ى ئ ؤ ء أ إ آ",
+          "missing": [
+            "ء",
+            "آ",
+            "أ",
+            "ؤ",
+            "إ",
+            "ئ",
+            "ا",
+            "ة",
+            "ل",
+            "ى"
+          ]
+        },
+        {
+          "text": "اضغط E للمتابعة",
+          "missing": [
+            "ا",
+            "ب",
+            "ة",
+            "ت",
+            "ض",
+            "ط",
+            "ع",
+            "غ",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "Room 46 - الغرفة",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "HP 75%",
+          "missing": []
+        }
+      ],
+      "license": [
+        {
+          "name_id": 13,
+          "text": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+        },
+        {
+          "name_id": 14,
+          "text": "https://scripts.sil.org/OFL"
+        }
+      ],
+      "western_digits": true,
+      "arabic_indic_digits": false,
+      "latin_ascii": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 206,
+      "name": "NotoSansDevanagari-Medium",
+      "font_names": [
+        "Noto Sans Devanagari"
+      ],
+      "bytes": 204528,
+      "sha256": "1b67437d96dd4e0e16de37a70df043984858b876dc22217083f5be5819ccfa91",
+      "fallback_fonts": [],
+      "serialized_character_rect_count": 0,
+      "rendering_mode": 0,
+      "reference": "D:\\Games\\Blue Prince_AR\\fonts\\original\\sharedassets1.assets__206__NotoSansDevanagari-Medium.ttf",
+      "cmap_count": 552,
+      "arabic_block_count": 0,
+      "arabic_presentation_forms_a_count": 0,
+      "arabic_presentation_forms_b_count": 0,
+      "gsub": true,
+      "gpos": true,
+      "test_missing": [
+        {
+          "text": "ابتسم، فكل شيء ممكن.",
+          "missing": [
+            "،",
+            "ء",
+            "ا",
+            "ب",
+            "ت",
+            "س",
+            "ش",
+            "ف",
+            "ك",
+            "ل",
+            "م",
+            "ن",
+            "ي"
+          ]
+        },
+        {
+          "text": "الغرفة رقم 27",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ق",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "HP: 100",
+          "missing": []
+        },
+        {
+          "text": "اضغط E لفتح الباب",
+          "missing": [
+            "ا",
+            "ب",
+            "ت",
+            "ح",
+            "ض",
+            "ط",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "Blue Prince - الأمير الأزرق",
+          "missing": [
+            "أ",
+            "ا",
+            "ر",
+            "ز",
+            "ق",
+            "ل",
+            "م",
+            "ي"
+          ]
+        },
+        {
+          "text": "لا لأ لإ لآ ة ى ئ ؤ ء أ إ آ",
+          "missing": [
+            "ء",
+            "آ",
+            "أ",
+            "ؤ",
+            "إ",
+            "ئ",
+            "ا",
+            "ة",
+            "ل",
+            "ى"
+          ]
+        },
+        {
+          "text": "اضغط E للمتابعة",
+          "missing": [
+            "ا",
+            "ب",
+            "ة",
+            "ت",
+            "ض",
+            "ط",
+            "ع",
+            "غ",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "Room 46 - الغرفة",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "HP 75%",
+          "missing": []
+        }
+      ],
+      "license": [
+        {
+          "name_id": 13,
+          "text": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+        },
+        {
+          "name_id": 14,
+          "text": "https://scripts.sil.org/OFL"
+        }
+      ],
+      "western_digits": true,
+      "arabic_indic_digits": false,
+      "latin_ascii": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 207,
+      "name": "NotoSansSC-Medium",
+      "font_names": [
+        "Noto Sans SC Medium"
+      ],
+      "bytes": 8491248,
+      "sha256": "5d1cf720c0d4ba921dfbcd9513dbf408a78a4f05bbc375d9198760371e5e37ff",
+      "fallback_fonts": [],
+      "serialized_character_rect_count": 0,
+      "rendering_mode": 0,
+      "reference": "D:\\Games\\Blue Prince_AR\\fonts\\original\\sharedassets1.assets__207__NotoSansSC-Medium.ttf",
+      "cmap_count": 30892,
+      "arabic_block_count": 0,
+      "arabic_presentation_forms_a_count": 0,
+      "arabic_presentation_forms_b_count": 0,
+      "gsub": true,
+      "gpos": true,
+      "test_missing": [
+        {
+          "text": "ابتسم، فكل شيء ممكن.",
+          "missing": [
+            "،",
+            "ء",
+            "ا",
+            "ب",
+            "ت",
+            "س",
+            "ش",
+            "ف",
+            "ك",
+            "ل",
+            "م",
+            "ن",
+            "ي"
+          ]
+        },
+        {
+          "text": "الغرفة رقم 27",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ق",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "HP: 100",
+          "missing": []
+        },
+        {
+          "text": "اضغط E لفتح الباب",
+          "missing": [
+            "ا",
+            "ب",
+            "ت",
+            "ح",
+            "ض",
+            "ط",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "Blue Prince - الأمير الأزرق",
+          "missing": [
+            "أ",
+            "ا",
+            "ر",
+            "ز",
+            "ق",
+            "ل",
+            "م",
+            "ي"
+          ]
+        },
+        {
+          "text": "لا لأ لإ لآ ة ى ئ ؤ ء أ إ آ",
+          "missing": [
+            "ء",
+            "آ",
+            "أ",
+            "ؤ",
+            "إ",
+            "ئ",
+            "ا",
+            "ة",
+            "ل",
+            "ى"
+          ]
+        },
+        {
+          "text": "اضغط E للمتابعة",
+          "missing": [
+            "ا",
+            "ب",
+            "ة",
+            "ت",
+            "ض",
+            "ط",
+            "ع",
+            "غ",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "Room 46 - الغرفة",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "HP 75%",
+          "missing": []
+        }
+      ],
+      "license": [
+        {
+          "name_id": 14,
+          "text": "http://scripts.sil.org/OFL"
+        }
+      ],
+      "western_digits": true,
+      "arabic_indic_digits": false,
+      "latin_ascii": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 208,
+      "name": "NotoSerifHebrew-Medium",
+      "font_names": [
+        "Noto Serif Hebrew"
+      ],
+      "bytes": 51696,
+      "sha256": "837cbde194073dc708ea613ae403a69161e746baa5bda9a3ab2e029fb1ad3b81",
+      "fallback_fonts": [],
+      "serialized_character_rect_count": 0,
+      "rendering_mode": 0,
+      "reference": "D:\\Games\\Blue Prince_AR\\fonts\\original\\sharedassets1.assets__208__NotoSerifHebrew-Medium.ttf",
+      "cmap_count": 475,
+      "arabic_block_count": 0,
+      "arabic_presentation_forms_a_count": 0,
+      "arabic_presentation_forms_b_count": 0,
+      "gsub": true,
+      "gpos": true,
+      "test_missing": [
+        {
+          "text": "ابتسم، فكل شيء ممكن.",
+          "missing": [
+            "،",
+            "ء",
+            "ا",
+            "ب",
+            "ت",
+            "س",
+            "ش",
+            "ف",
+            "ك",
+            "ل",
+            "م",
+            "ن",
+            "ي"
+          ]
+        },
+        {
+          "text": "الغرفة رقم 27",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ق",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "HP: 100",
+          "missing": []
+        },
+        {
+          "text": "اضغط E لفتح الباب",
+          "missing": [
+            "ا",
+            "ب",
+            "ت",
+            "ح",
+            "ض",
+            "ط",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "Blue Prince - الأمير الأزرق",
+          "missing": [
+            "أ",
+            "ا",
+            "ر",
+            "ز",
+            "ق",
+            "ل",
+            "م",
+            "ي"
+          ]
+        },
+        {
+          "text": "لا لأ لإ لآ ة ى ئ ؤ ء أ إ آ",
+          "missing": [
+            "ء",
+            "آ",
+            "أ",
+            "ؤ",
+            "إ",
+            "ئ",
+            "ا",
+            "ة",
+            "ل",
+            "ى"
+          ]
+        },
+        {
+          "text": "اضغط E للمتابعة",
+          "missing": [
+            "ا",
+            "ب",
+            "ة",
+            "ت",
+            "ض",
+            "ط",
+            "ع",
+            "غ",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "Room 46 - الغرفة",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "HP 75%",
+          "missing": []
+        }
+      ],
+      "license": [
+        {
+          "name_id": 13,
+          "text": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+        },
+        {
+          "name_id": 14,
+          "text": "https://scripts.sil.org/OFL"
+        }
+      ],
+      "western_digits": true,
+      "arabic_indic_digits": false,
+      "latin_ascii": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 209,
+      "name": "NotoSansBengali-Medium",
+      "font_names": [
+        "Noto Sans Bengali"
+      ],
+      "bytes": 168104,
+      "sha256": "2cadc09b1013df529f8f9f625448d44c0d992898ee3c1fe3311ecde2327999bc",
+      "fallback_fonts": [],
+      "serialized_character_rect_count": 0,
+      "rendering_mode": 0,
+      "reference": "D:\\Games\\Blue Prince_AR\\fonts\\original\\sharedassets1.assets__209__NotoSansBengali-Medium.ttf",
+      "cmap_count": 456,
+      "arabic_block_count": 0,
+      "arabic_presentation_forms_a_count": 0,
+      "arabic_presentation_forms_b_count": 0,
+      "gsub": true,
+      "gpos": true,
+      "test_missing": [
+        {
+          "text": "ابتسم، فكل شيء ممكن.",
+          "missing": [
+            "،",
+            "ء",
+            "ا",
+            "ب",
+            "ت",
+            "س",
+            "ش",
+            "ف",
+            "ك",
+            "ل",
+            "م",
+            "ن",
+            "ي"
+          ]
+        },
+        {
+          "text": "الغرفة رقم 27",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ق",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "HP: 100",
+          "missing": []
+        },
+        {
+          "text": "اضغط E لفتح الباب",
+          "missing": [
+            "ا",
+            "ب",
+            "ت",
+            "ح",
+            "ض",
+            "ط",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "Blue Prince - الأمير الأزرق",
+          "missing": [
+            "أ",
+            "ا",
+            "ر",
+            "ز",
+            "ق",
+            "ل",
+            "م",
+            "ي"
+          ]
+        },
+        {
+          "text": "لا لأ لإ لآ ة ى ئ ؤ ء أ إ آ",
+          "missing": [
+            "ء",
+            "آ",
+            "أ",
+            "ؤ",
+            "إ",
+            "ئ",
+            "ا",
+            "ة",
+            "ل",
+            "ى"
+          ]
+        },
+        {
+          "text": "اضغط E للمتابعة",
+          "missing": [
+            "ا",
+            "ب",
+            "ة",
+            "ت",
+            "ض",
+            "ط",
+            "ع",
+            "غ",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "Room 46 - الغرفة",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "HP 75%",
+          "missing": []
+        }
+      ],
+      "license": [
+        {
+          "name_id": 13,
+          "text": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+        },
+        {
+          "name_id": 14,
+          "text": "https://scripts.sil.org/OFL"
+        }
+      ],
+      "western_digits": true,
+      "arabic_indic_digits": false,
+      "latin_ascii": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 210,
+      "name": "NotoSansKR-Medium",
+      "font_names": [
+        "Noto Sans KR"
+      ],
+      "bytes": 4768768,
+      "sha256": "256bb06b91d974ddbc0e3c063c85522cda6187cc638f0c6ae5d752efa63fe093",
+      "fallback_fonts": [],
+      "serialized_character_rect_count": 0,
+      "rendering_mode": 0,
+      "reference": "D:\\Games\\Blue Prince_AR\\fonts\\original\\sharedassets1.assets__210__NotoSansKR-Medium.ttf",
+      "cmap_count": 23176,
+      "arabic_block_count": 0,
+      "arabic_presentation_forms_a_count": 0,
+      "arabic_presentation_forms_b_count": 0,
+      "gsub": true,
+      "gpos": true,
+      "test_missing": [
+        {
+          "text": "ابتسم، فكل شيء ممكن.",
+          "missing": [
+            "،",
+            "ء",
+            "ا",
+            "ب",
+            "ت",
+            "س",
+            "ش",
+            "ف",
+            "ك",
+            "ل",
+            "م",
+            "ن",
+            "ي"
+          ]
+        },
+        {
+          "text": "الغرفة رقم 27",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ق",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "HP: 100",
+          "missing": []
+        },
+        {
+          "text": "اضغط E لفتح الباب",
+          "missing": [
+            "ا",
+            "ب",
+            "ت",
+            "ح",
+            "ض",
+            "ط",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "Blue Prince - الأمير الأزرق",
+          "missing": [
+            "أ",
+            "ا",
+            "ر",
+            "ز",
+            "ق",
+            "ل",
+            "م",
+            "ي"
+          ]
+        },
+        {
+          "text": "لا لأ لإ لآ ة ى ئ ؤ ء أ إ آ",
+          "missing": [
+            "ء",
+            "آ",
+            "أ",
+            "ؤ",
+            "إ",
+            "ئ",
+            "ا",
+            "ة",
+            "ل",
+            "ى"
+          ]
+        },
+        {
+          "text": "اضغط E للمتابعة",
+          "missing": [
+            "ا",
+            "ب",
+            "ة",
+            "ت",
+            "ض",
+            "ط",
+            "ع",
+            "غ",
+            "ل",
+            "م"
+          ]
+        },
+        {
+          "text": "Room 46 - الغرفة",
+          "missing": [
+            "ا",
+            "ة",
+            "ر",
+            "غ",
+            "ف",
+            "ل"
+          ]
+        },
+        {
+          "text": "HP 75%",
+          "missing": []
+        }
+      ],
+      "license": [
+        {
+          "name_id": 13,
+          "text": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+        },
+        {
+          "name_id": 14,
+          "text": "http://scripts.sil.org/OFL"
+        }
+      ],
+      "western_digits": true,
+      "arabic_indic_digits": false,
+      "latin_ascii": true
+    },
+    {
+      "file": "sharedassets1.assets",
+      "path_id": 211,
+      "name": "NotoNaskhArabic-Medium",
+      "font_names": [
+        "Noto Naskh Arabic"
+      ],
+      "bytes": 192416,
+      "sha256": "04730ab4b326c5acbfb03d74533f352adfdfc4310c1758d21ee552968c0cc50e",
+      "fallback_fonts": [],
+      "serialized_character_rect_count": 0,
+      "rendering_mode": 0,
+      "reference": "D:\\Games\\Blue Prince_AR\\fonts\\original\\sharedassets1.assets__211__NotoNaskhArabic-Medium.ttf",
+      "cmap_count": 1438,
+      "arabic_block_count": 253,
+      "arabic_presentation_forms_a_count": 611,
+      "arabic_presentation_forms_b_count": 141,
+      "gsub": true,
+      "gpos": true,
+      "test_missing": [
+        {
+          "text": "ابتسم، فكل شيء ممكن.",
+          "missing": []
+        },
+        {
+          "text": "الغرفة رقم 27",
+          "missing": []
+        },
+        {
+          "text": "HP: 100",
+          "missing": []
+        },
+        {
+          "text": "اضغط E لفتح الباب",
+          "missing": []
+        },
+        {
+          "text": "Blue Prince - الأمير الأزرق",
+          "missing": []
+        },
+        {
+          "text": "لا لأ لإ لآ ة ى ئ ؤ ء أ إ آ",
+          "missing": []
+        },
+        {
+          "text": "اضغط E للمتابعة",
+          "missing": []
+        },
+        {
+          "text": "Room 46 - الغرفة",
+          "missing": []
+        },
+        {
+          "text": "HP 75%",
+          "missing": []
+        }
+      ],
+      "license": [
+        {
+          "name_id": 13,
+          "text": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+        },
+        {
+          "name_id": 14,
+          "text": "https://scripts.sil.org/OFL"
+        }
+      ],
+      "western_digits": true,
+      "arabic_indic_digits": true,
+      "latin_ascii": true
+    },
+    {
+      "file": "Resources/unity default resources",
+      "path_id": 10102,
+      "name": "Arial",
+      "font_names": [
+        "Arial"
+      ],
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "fallback_fonts": [],
+      "serialized_character_rect_count": 0,
+      "rendering_mode": 0
+    }
+  ]
+}

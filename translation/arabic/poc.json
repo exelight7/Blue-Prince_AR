@@ -1,0 +1,72 @@
+[
+  {
+    "ID": "level1:3357:m_text",
+    "Context": "TextMeshPro",
+    "Source": "NEW GAME",
+    "Arabic": "\u0644\u0639\u0628\u0629 \u062c\u062f\u064a\u062f\u0629",
+    "File": "level1",
+    "Category": "POC",
+    "Notes": "Temporary draft; requires visual gameplay review",
+    "Status": "POC_ONLY"
+  },
+  {
+    "ID": "level1:3481:m_text",
+    "Context": "TextMeshPro",
+    "Source": "CONTINUE",
+    "Arabic": "\u0645\u062a\u0627\u0628\u0639\u0629",
+    "File": "level1",
+    "Category": "POC",
+    "Notes": "Temporary draft; requires visual gameplay review",
+    "Status": "POC_ONLY"
+  },
+  {
+    "ID": "level1:3500:m_text",
+    "Context": "TextMeshPro",
+    "Source": "QUIT GAME",
+    "Arabic": "\u0625\u0646\u0647\u0627\u0621 \u0627\u0644\u0644\u0639\u0628\u0629",
+    "File": "level1",
+    "Category": "POC",
+    "Notes": "Temporary draft; requires visual gameplay review",
+    "Status": "POC_ONLY"
+  },
+  {
+    "ID": "level1:3534:m_text",
+    "Context": "TextMeshPro",
+    "Source": "SETTINGS",
+    "Arabic": "\u0627\u0644\u0625\u0639\u062f\u0627\u062f\u0627\u062a",
+    "File": "level1",
+    "Category": "POC",
+    "Notes": "Temporary draft; requires visual gameplay review",
+    "Status": "POC_ONLY"
+  },
+  {
+    "ID": "level1:3411:m_text",
+    "Context": "TextMeshPro",
+    "Source": "VOLUME",
+    "Arabic": "\u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u0635\u0648\u062a",
+    "File": "level1",
+    "Category": "POC",
+    "Notes": "Temporary draft; requires visual gameplay review",
+    "Status": "POC_ONLY"
+  },
+  {
+    "ID": "level1:3535:m_text",
+    "Context": "TextMeshPro",
+    "Source": "This is the original and standard\ndifficulty level of the game. Start\neach day with 50 steps.",
+    "Arabic": "\u0647\u0630\u0627 \u0647\u0648 \u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u0635\u0639\u0648\u0628\u0629\n\u0627\u0644\u0623\u0635\u0644\u064a \u0648\u0627\u0644\u0627\u0639\u062a\u064a\u0627\u062f\u064a \u0644\u0644\u0639\u0628\u0629. \u062a\u0628\u062f\u0623\n\u0643\u0644 \u064a\u0648\u0645 \u0648\u0644\u062f\u064a\u0643 50 \u062e\u0637\u0648\u0629.",
+    "File": "level1",
+    "Category": "POC",
+    "Notes": "Temporary draft; requires visual gameplay review",
+    "Status": "POC_ONLY"
+  },
+  {
+    "ID": "level1:3404:m_text",
+    "Context": "TextMeshPro",
+    "Source": "Adjust your monitor or telvesion's settings until the Mt. Holly symbol above is just barely visible and the images in the corners are not.\n\nPress [ENTER] whem you are satisfied.",
+    "Arabic": "\u0627\u0636\u0628\u0637 \u0625\u0639\u062f\u0627\u062f\u0627\u062a \u0627\u0644\u0634\u0627\u0634\u0629 \u0623\u0648 \u0627\u0644\u062a\u0644\u0641\u0627\u0632 \u062d\u062a\u0649 \u064a\u0643\u0627\u062f \u064a\u0638\u0647\u0631 \u0631\u0645\u0632 Mt. Holly \u0623\u0639\u0644\u0627\u0647\u060c \u0648\u062a\u062e\u062a\u0641\u064a \u0627\u0644\u0635\u0648\u0631 \u0641\u064a \u0627\u0644\u0632\u0648\u0627\u064a\u0627.\n\n\u0627\u0636\u063a\u0637 [ENTER] \u0639\u0646\u062f\u0645\u0627 \u062a\u0646\u062a\u0647\u064a.",
+    "File": "level1",
+    "Category": "POC",
+    "Notes": "Temporary draft; requires visual gameplay review",
+    "Status": "POC_ONLY"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "status": "PASS_OFFLINE",
+  "source": "D:\\Games\\Blue Prince_AR\\build\\runtime_matrix_v2\\b\\BLUE PRINCE_Data\\level1",
+  "source_sha256": "40a2acb0b69b5a3a4a10924c007e0ea62b567b70e0273b9124d104d3b23e3c78",
+  "output": "D:\\Games\\Blue Prince_AR\\build\\runtime_layout_typewriter\\BLUE PRINCE_Data\\level1",
+  "sha256": "d8da1a404d3e90d0c7b1038f71a163ae7fa441eda6fd8b91c6ed738b19bd9a9f",
+  "changed_existing_objects": [
+    3568,
+    3456,
+    170
+  ],
+  "new_objects": [
+    1000000001
+  ],
+  "unchanged_relative_to_b": 4257,
+  "lamalef_logical": "\u0644\u0627   \u0644\u0623   \u0644\u0625   \u0644\u0622\n\u0645\u0631\u062d\u0628\u0627\u060c \u0643\u064a\u0641 \u062d\u0627\u0644\u0643\u061f",
+  "wrapping_logical_source": "\u0647\u0630\u0627 \u0627\u062e\u062a\u0628\u0627\u0631 \u0637\u0648\u064a\u0644 \u0644\u0644\u062a\u0623\u0643\u062f \u0645\u0646 \u0623\u0646 \u0627\u0644\u0646\u0635 \u0627\u0644\u0639\u0631\u0628\u064a \u064a\u0644\u062a\u0641 \u062f\u0627\u062e\u0644 \u0645\u0633\u0627\u062d\u0629 \u0627\u0644\u0648\u0627\u062c\u0647\u0629 \u0628\u0634\u0643\u0644 \u0635\u062d\u064a\u062d \u0648\u0644\u0627 \u064a\u062e\u0631\u062c \u062e\u0627\u0631\u062c \u062d\u062f\u0648\u062f \u0627\u0644\u0639\u0646\u0635\u0631.",
+  "wrapping_logical_lines": [
+    "\u0647\u0630\u0627 \u0627\u062e\u062a\u0628\u0627\u0631 \u0637\u0648\u064a\u0644 \u0644\u0644\u062a\u0623\u0643\u062f \u0645\u0646 \u0623\u0646 \u0627\u0644\u0646\u0635 \u0627\u0644\u0639\u0631\u0628\u064a",
+    "\u064a\u0644\u062a\u0641 \u062f\u0627\u062e\u0644 \u0645\u0633\u0627\u062d\u0629 \u0627\u0644\u0648\u0627\u062c\u0647\u0629 \u0628\u0634\u0643\u0644 \u0635\u062d\u064a\u062d \u0648\u0644\u0627",
+    "\u064a\u062e\u0631\u062c \u062e\u0627\u0631\u062c \u062d\u062f\u0648\u062f \u0627\u0644\u0639\u0646\u0635\u0631."
+  ],
+  "max_width_em": 17.0,
+  "typewriter_logical": "\u0645\u0631\u062d\u0628\u0627 \u0628\u0643 \u0641\u064a \u0627\u0644\u0642\u0635\u0631\u060c \u0627\u0644\u063a\u0631\u0641\u0629 \u0631\u0642\u0645 27.",
+  "typewriter_input": ".27 \ufee2\ufed7\ufead \ufe94\ufed3\ufeae\ufed0\ufedf\ufe8d \u060c\ufeae\ufebc\ufed8\ufedf\ufe8d \ufef2\ufed3 \ufeda\ufe91 \ufe8e\ufe92\ufea3\ufeae\ufee3",
+  "typewriter_target_tmp": 3411,
+  "typewriter_target_go": 170,
+  "interval_seconds": 0.25,
+  "note": "Stock game action, no executable modification; reveal direction is deliberately under test"
+}

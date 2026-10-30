@@ -1,0 +1,117 @@
+{
+  "status": "PASS_OFFLINE",
+  "rows": [
+    {
+      "ID": "level1:3568:m_text",
+      "Source": "NEW GAME",
+      "Arabic": "\u0644\u0639\u0628\u0629 \u062c\u062f\u064a\u062f\u0629",
+      "File": "level1",
+      "Context": "Main Menu / Settings; original GameObject retained",
+      "Category": "menu_poc",
+      "Status": "REVIEWED_POC",
+      "Notes": "Short static UI only; not a complete localization"
+    },
+    {
+      "ID": "level1:3481:m_text",
+      "Source": "CONTINUE",
+      "Arabic": "\u0645\u062a\u0627\u0628\u0639\u0629",
+      "File": "level1",
+      "Context": "Main Menu / Settings; original GameObject retained",
+      "Category": "menu_poc",
+      "Status": "REVIEWED_POC",
+      "Notes": "Short static UI only; not a complete localization"
+    },
+    {
+      "ID": "level1:3534:m_text",
+      "Source": "SETTINGS",
+      "Arabic": "\u0627\u0644\u0625\u0639\u062f\u0627\u062f\u0627\u062a",
+      "File": "level1",
+      "Context": "Main Menu / Settings; original GameObject retained",
+      "Category": "menu_poc",
+      "Status": "REVIEWED_POC",
+      "Notes": "Short static UI only; not a complete localization"
+    },
+    {
+      "ID": "level1:3500:m_text",
+      "Source": "QUIT GAME",
+      "Arabic": "\u0625\u0646\u0647\u0627\u0621 \u0627\u0644\u0644\u0639\u0628\u0629",
+      "File": "level1",
+      "Context": "Main Menu / Settings; original GameObject retained",
+      "Category": "menu_poc",
+      "Status": "REVIEWED_POC",
+      "Notes": "Short static UI only; not a complete localization"
+    },
+    {
+      "ID": "level1:3411:m_text",
+      "Source": "VOLUME",
+      "Arabic": "\u0627\u0644\u0635\u0648\u062a",
+      "File": "level1",
+      "Context": "Main Menu / Settings; original GameObject retained",
+      "Category": "menu_poc",
+      "Status": "REVIEWED_POC",
+      "Notes": "Short static UI only; not a complete localization"
+    },
+    {
+      "ID": "level1:3380:m_text",
+      "Source": "CONTROLS",
+      "Arabic": "\u0627\u0644\u062a\u062d\u0643\u0645",
+      "File": "level1",
+      "Context": "Main Menu / Settings; original GameObject retained",
+      "Category": "menu_poc",
+      "Status": "REVIEWED_POC",
+      "Notes": "Short static UI only; not a complete localization"
+    },
+    {
+      "ID": "level1:3446:m_text",
+      "Source": "GRAPHICS",
+      "Arabic": "\u0627\u0644\u0631\u0633\u0648\u0645\u0627\u062a",
+      "File": "level1",
+      "Context": "Main Menu / Settings; original GameObject retained",
+      "Category": "menu_poc",
+      "Status": "REVIEWED_POC",
+      "Notes": "Short static UI only; not a complete localization"
+    },
+    {
+      "ID": "level1:3429:m_text",
+      "Source": "SAVE DATA",
+      "Arabic": "\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u062d\u0641\u0638",
+      "File": "level1",
+      "Context": "Main Menu / Settings; original GameObject retained",
+      "Category": "menu_poc",
+      "Status": "REVIEWED_POC",
+      "Notes": "Short static UI only; not a complete localization"
+    },
+    {
+      "ID": "level1:3527:m_text",
+      "Source": "CREDITS",
+      "Arabic": "\u0641\u0631\u064a\u0642 \u0627\u0644\u0639\u0645\u0644",
+      "File": "level1",
+      "Context": "Main Menu / Settings; original GameObject retained",
+      "Category": "menu_poc",
+      "Status": "REVIEWED_POC",
+      "Notes": "Short static UI only; not a complete localization"
+    },
+    {
+      "ID": "level1:3456:m_text",
+      "Source": "RETURN",
+      "Arabic": "\u0631\u062c\u0648\u0639",
+      "File": "level1",
+      "Context": "Main Menu / Settings; original GameObject retained",
+      "Category": "menu_poc",
+      "Status": "REVIEWED_POC",
+      "Notes": "Short static UI only; not a complete localization"
+    },
+    {
+      "ID": "level1:3379:m_text",
+      "Source": "Settings",
+      "Arabic": "\u0627\u0644\u0625\u0639\u062f\u0627\u062f\u0627\u062a",
+      "File": "level1",
+      "Context": "Main Menu / Settings; original GameObject retained",
+      "Category": "menu_poc",
+      "Status": "REVIEWED_POC",
+      "Notes": "Short static UI only; not a complete localization"
+    }
+  ],
+  "review_scope": "Eleven short static menu labels; meaning, context and source integrity checked",
+  "runtime_visual_check_of_final_menu": false
+}

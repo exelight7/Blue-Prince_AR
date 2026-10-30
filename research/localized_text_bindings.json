@@ -1,0 +1,4102 @@
+[
+  {
+    "file": "level1",
+    "path_id": 3743,
+    "context": "button_description_1",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 19
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL_SUB",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 3804,
+    "context": "Action text",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 184
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "ACTIONS.CONTROLS_LAYOUT_CHANGE",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 3834,
+    "context": "button_description_1",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 273
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL_SUB",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 3886,
+    "context": "Action text",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 408
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "ACTIONS.CONTROLS_LAYOUT_CONTROLLER",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 3901,
+    "context": "button_description_1",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 454
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL_SUB",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 3915,
+    "context": "Action text",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 474
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "ACTIONS.CONTROLS_LAYOUT_KEYBOARD",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 3920,
+    "context": "button_description_1",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 496
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL_SUB",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 3968,
+    "context": "button_description_1",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 618
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL_SUB",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4002,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1038
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.INTERACT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4003,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1043
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4004,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1044
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4005,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1041
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4006,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1042
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4007,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1040
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4008,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1039
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4009,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1047
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4010,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1046
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4011,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1045
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4012,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1052
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4013,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1053
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4014,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1051
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4015,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1050
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4016,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1049
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4017,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1048
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4018,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1058
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4019,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1057
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4020,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1054
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4021,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1055
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4022,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1056
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4176,
+    "context": "Game Controls",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1115
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.GAME_CONTROLS",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4178,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1086
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BACK",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4183,
+    "context": "Move",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1030
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MOVE",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4205,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 734
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4213,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 712
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4214,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 715
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4228,
+    "context": "Look",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 905
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.LOOK",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4256,
+    "context": "button_sub_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 743
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL_SUB",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level1",
+    "path_id": 4258,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 925
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 314256,
+    "context": "button_description_1",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1372
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL_SUB",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 314369,
+    "context": "Move",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1797
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MOVE",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 314891,
+    "context": "Action text",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 3729
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "ACTIONS.CONTROLS_LAYOUT_KEYBOARD",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 315012,
+    "context": "button_sub_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 4152
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL_SUB",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 315310,
+    "context": "Action text",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 6223
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "ACTIONS.CONTROLS_LAYOUT_CHANGE",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 315535,
+    "context": "stroll_1",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 7104
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 315646,
+    "context": "Use Item",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 7522
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.USE_ITEM",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 316002,
+    "context": "Game Controls",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 8808
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.GAME_CONTROLS",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 316403,
+    "context": "Game Controls",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 10269
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.GAME_CONTROLS",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 316814,
+    "context": "Move",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 11874
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MOVE",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 318513,
+    "context": "Action text",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 18841
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "ACTIONS.CONTROLS_LAYOUT_CHANGE",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 318528,
+    "context": "Action text",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 18886
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "ACTIONS.CONTROLS_LAYOUT_KEYBOARD",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 318600,
+    "context": "stroll",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 19108
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 319158,
+    "context": "Look",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 21103
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.LOOK",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 321037,
+    "context": "Blue Print",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 29939
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 321220,
+    "context": "Move",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 30622
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MOVE",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 321286,
+    "context": "button_description_1",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 30864
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL_SUB",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 321548,
+    "context": "button_description_1",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 31908
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL_SUB",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 321625,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 32140
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL_SUB",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 323116,
+    "context": "stroll_1",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 38307
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 323189,
+    "context": "button_description_1",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 38586
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL_SUB",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 323356,
+    "context": "Action text",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 39212
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "ACTIONS.CONTROLS_LAYOUT_CONTROLLER",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 323721,
+    "context": "button_sub_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 40517
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL_SUB",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 324179,
+    "context": "Move",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 42167
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MOVE",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 324423,
+    "context": "tab text (1)",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 43102
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 324517,
+    "context": "Action text",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 43355
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "ACTIONS.CONTROLS_LAYOUT_CONTROLLER",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 324684,
+    "context": "Look",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 44017
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.LOOK",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 326151,
+    "context": "Look",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 50231
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.LOOK",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 327255,
+    "context": "Game Controls",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 55220
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.GAME_CONTROLS",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 327624,
+    "context": "Game Controls",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 56553
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.GAME_CONTROLS",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 328341,
+    "context": "Room Directory",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 59217
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 328531,
+    "context": "button_sub_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 59982
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL_SUB",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329886,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 84492
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329889,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 84747
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329910,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 85034
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329911,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 85115
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329927,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83430
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329928,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83432
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329929,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83431
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329930,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83429
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329931,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83428
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329932,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83427
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329933,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83426
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329934,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83425
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329935,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83424
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329936,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83423
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329937,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83443
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329938,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83442
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BACK",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329939,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83439
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329940,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83441
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.USE_ITEM",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329941,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83440
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BACK",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329942,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83438
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329943,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83437
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329944,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83436
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329945,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83433
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.USE_ITEM",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329946,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83435
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.INTERACT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329947,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83434
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329948,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83455
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329949,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83452
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329950,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83454
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329951,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83453
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329952,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83451
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329953,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83450
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329954,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83448
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329955,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83449
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329956,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83447
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329957,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83446
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329958,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83445
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.INTERACT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329959,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83444
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329960,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83463
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329961,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83462
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329962,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83461
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329963,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83460
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.INTERACT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329964,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83459
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BACK",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329965,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83457
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329966,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83456
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.USE_ITEM",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329967,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83458
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329979,
+    "context": "Move",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 87783
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MOVE",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 329989,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83733
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BACK",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330016,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 84088
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BACK",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330024,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 82377
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BACK",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330027,
+    "context": "stroll",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 78110
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330029,
+    "context": "Game Controls",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83074
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.GAME_CONTROLS",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330049,
+    "context": "Room Directory",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 78075
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330050,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 83063
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330362,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 82019
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330478,
+    "context": "Game Controls",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 84748
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.GAME_CONTROLS",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330480,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 82215
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330495,
+    "context": "Look",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 86053
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.LOOK",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330496,
+    "context": "Look",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 82405
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.LOOK",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330504,
+    "context": "Move",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 78100
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MOVE",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330536,
+    "context": "Look",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 76654
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.LOOK",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330537,
+    "context": "button_sub_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 88745
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL_SUB",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330541,
+    "context": "Game Controls",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 78736
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.GAME_CONTROLS",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330568,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 87952
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330572,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 88091
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.USE_ITEM",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330574,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 88036
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.USE_ITEM",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330653,
+    "context": "Action text",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 81524
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "ACTIONS.CONTROLS_LAYOUT_KEYBOARD",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330689,
+    "context": "Move",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 77848
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MOVE",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330692,
+    "context": "Move",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 88252
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MOVE",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330696,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 86772
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.INTERACT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330703,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 87286
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330709,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 87484
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.INTERACT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330711,
+    "context": "Action text",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 88482
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "ACTIONS.CONTROLS_LAYOUT_CHANGE",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330809,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 86060
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330843,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 76839
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330845,
+    "context": "Game Controls",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 84815
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.GAME_CONTROLS",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 330861,
+    "context": "button_sub_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 79312
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL_SUB",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 331081,
+    "context": "Use Item",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 78102
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.USE_ITEM",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 331111,
+    "context": "Move",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 82254
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MOVE",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 331120,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 74777
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BACK",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 331122,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 74907
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 331139,
+    "context": "button_sub_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 88226
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL_SUB",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 331148,
+    "context": "Look",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 78765
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.LOOK",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 331155,
+    "context": "Blue Print",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 78099
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 331178,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 80605
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.DIRECTORY",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 331210,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 80694
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 331213,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 80777
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.USE_ITEM",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 331235,
+    "context": "button_sub_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 85705
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.STROLL_SUB",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 331238,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 81203
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.INTERACT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 331265,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 79994
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 331266,
+    "context": "Action text",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 89009
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "ACTIONS.CONTROLS_LAYOUT_CONTROLLER",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 331366,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 78559
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.INTERACT",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 331443,
+    "context": "tab text (1)",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 78080
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.MENU",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 331459,
+    "context": "Game Controls",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 73393
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.GAME_CONTROLS",
+      "AlternativeFont": 0
+    }
+  },
+  {
+    "file": "level2",
+    "path_id": 331495,
+    "context": "button_description",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 77690
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 2087
+      },
+      "m_Name": "",
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ChangeFontOnly": 0,
+      "ConvertToUpper": 0,
+      "LocalizationKey": "UI.SETTINGS.CONTROLS.BLUEPRINT",
+      "AlternativeFont": 0
+    }
+  }
+]

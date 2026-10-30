@@ -1,0 +1,26 @@
+# game data and copies (never uploaded)
+runtime_test/
+backups/
+extracted/
+build/
+fonts/original/
+# regenerable dumps of game data
+translation/source/
+research/asset_index/
+translation/work/introsubs/
+translation/work/*.png
+tools/vendor/
+tools/packages/
+tests/screenshots/
+tests/runtime_staging/
+tests/runtime_logs/
+# build output and tooling
+bin/
+obj/
+out/
+__pycache__/
+*.pyc
+.serena/
+*.tmp
+research/metadata/string_literals.json
+research/runtime_textflow/level1_textflow.json

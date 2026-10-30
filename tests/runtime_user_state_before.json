@@ -1,0 +1,25 @@
+{
+  "paths": [
+    {
+      "path": "C:\\Users\\npxf1\\AppData\\LocalLow\\Dogubomb",
+      "existed": false,
+      "files": []
+    },
+    {
+      "path": "C:\\Users\\npxf1\\Documents\\My Games\\Blue Prince",
+      "existed": false,
+      "files": []
+    },
+    {
+      "path": "C:\\Users\\npxf1\\AppData\\Local\\BluePrince",
+      "existed": false,
+      "files": []
+    }
+  ],
+  "registry": {
+    "key": "HKCU\\Software\\Dogubomb\\BLUE PRINCE",
+    "existed": false,
+    "values": []
+  },
+  "note": "Copied installation shares user save paths unless separately redirected; no existing known state found does not imply universal isolation."
+}

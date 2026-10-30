@@ -1,0 +1,387 @@
+[
+ {
+  "file": "b008.json",
+  "src": "Simon,\n\nWelcome to Mount Holly.\n\nYou may not remember but I ",
+  "why": [
+   "newlines 7->6"
+  ]
+ },
+ {
+  "file": "b008.json",
+  "src": "With that said, there are a few ground rules of this commiss",
+  "why": [
+   "newlines 7->10"
+  ]
+ },
+ {
+  "file": "b008.json",
+  "src": "With that said, there are a few ground rules of this commiss",
+  "why": [
+   "newlines 8->11"
+  ]
+ },
+ {
+  "file": "b008.json",
+  "src": "With that said, there are a few ground rules of this commiss",
+  "why": [
+   "newlines 9->12"
+  ]
+ },
+ {
+  "file": "b008.json",
+  "src": "Each time you enter a room you will lose        .\n\nWhen you ",
+  "why": [
+   "newlines 4->2"
+  ]
+ },
+ {
+  "file": "b008.json",
+  "src": "Each time you enter a room you will lose       .\n\nWhen you n",
+  "why": [
+   "newlines 4->2"
+  ]
+ },
+ {
+  "file": "b015.json",
+  "src": "Mr. Nogula,\nAnne wanted me to remind you\n(once again) that i",
+  "why": [
+   "newlines 8->7"
+  ]
+ },
+ {
+  "file": "b020.json",
+  "src": "It is possible to connect to\nother active terminals elsewher",
+  "why": [
+   "newlines 5->2"
+  ]
+ },
+ {
+  "file": "b022.json",
+  "src": "If you call it a day while wearing the Moon Pendant,\ntomorro",
+  "why": [
+   "newlines 2->1"
+  ]
+ },
+ {
+  "file": "b023.json",
+  "src": "If there is not a <color=#E72222>Red Room</color> among\nthe ",
+  "why": [
+   "newlines 3->2"
+  ]
+ },
+ {
+  "file": "b026.json",
+  "src": "Although an official registry of the lost jewels has not bee",
+  "why": [
+   "newlines 3->2"
+  ]
+ },
+ {
+  "file": "b027.json",
+  "src": "DATE: OCT. 5 1993                     RE: fusebox repair\n\nTh",
+  "why": [
+   "newlines 12->11"
+  ]
+ },
+ {
+  "file": "b028.json",
+  "src": "Effective the first week of December, Payroll for all Live-o",
+  "why": [
+   "newlines 5->6"
+  ]
+ },
+ {
+  "file": "b028.json",
+  "src": "Effective the first week of December, Payroll for all Live-o",
+  "why": [
+   "newlines 5->6"
+  ]
+ },
+ {
+  "file": "b030.json",
+  "src": "Master Simon,\n      Good morning. It has come to my attentio",
+  "why": [
+   "newlines 7->6"
+  ]
+ },
+ {
+  "file": "b032.json",
+  "src": "Greater chance of finding       and      .",
+  "why": [
+   "newlines 0->3"
+  ]
+ },
+ {
+  "file": "b032.json",
+  "src": "Greater chance of finding items.",
+  "why": [
+   "newlines 0->3"
+  ]
+ },
+ {
+  "file": "b032.json",
+  "src": "Greater chance of finding      and      .",
+  "why": [
+   "newlines 0->3"
+  ]
+ },
+ {
+  "file": "b034.json",
+  "src": "FIVE OF THESE CLOCKS\nSHOULD BE SET TO A TIME\nENDING \"ON THE ",
+  "why": [
+   "newlines 3->2"
+  ]
+ },
+ {
+  "file": "b035.json",
+  "src": "FIve of these clocks\nshould be set to A TIME\nENDING \"ON THE ",
+  "why": [
+   "newlines 2->1"
+  ]
+ },
+ {
+  "file": "b035.json",
+  "src": "THERE ARE NO EMPTY SAVE SLOTS.\n<size=1>(save slots can only ",
+  "why": [
+   "newlines 6->4"
+  ]
+ },
+ {
+  "file": "b036.json",
+  "src": "And he never looked up...\nFor fear of the view.\nHe had heard",
+  "why": [
+   "newlines 3->2"
+  ]
+ },
+ {
+  "file": "b044.json",
+  "src": "                   FLOORPLANS\nARE OFTEN CLASSIFIED BY\nCONSER",
+  "why": [
+   "newlines 7->6"
+  ]
+ },
+ {
+  "file": "b044.json",
+  "src": "ACCESS TO MT. HOLLY'S\nCLOCK TOWER HAS ALWAYS\nBEEN HEAVILY RE",
+  "why": [
+   "newlines 7->6"
+  ]
+ },
+ {
+  "file": "b046.json",
+  "src": "New experimental data packets can now be\nuploaded to the LAB",
+  "why": [
+   "newlines 4->3"
+  ]
+ },
+ {
+  "file": "b046.json",
+  "src": "Popular children’s writer Marion Marigold adds yet another f",
+  "why": [
+   "newlines 5->0"
+  ]
+ },
+ {
+  "file": "b049.json",
+  "src": "These small sleeping quarters, devoid of frills and distract",
+  "why": [
+   "newlines 0->3"
+  ]
+ },
+ {
+  "file": "b049.json",
+  "src": "When you pick up Royal Scepter, choose a color.\n\nare\nmore co",
+  "why": [
+   "newlines 7->9"
+  ]
+ },
+ {
+  "file": "b049.json",
+  "src": "                FLORA AND FLOORPLANS\nARE SEEN SO SELDOM AND ",
+  "why": [
+   "newlines 7->6"
+  ]
+ },
+ {
+  "file": "b053.json",
+  "src": "The SECURITY LEVEL determines the\namount of Keycard Security",
+  "why": [
+   "newlines 6->5"
+  ]
+ },
+ {
+  "file": "b054.json",
+  "src": "The Shelter's Time-Lock Safe can\nbe accessed by setting an\n'",
+  "why": [
+   "newlines 9->10"
+  ]
+ },
+ {
+  "file": "b055.json",
+  "src": "The Mount Holly Casino offers an intimate and exciting setti",
+  "why": [
+   "newlines 0->2"
+  ]
+ },
+ {
+  "file": "b055.json",
+  "src": "And to, in turn, as recompense for the freedom thus granted ",
+  "why": [
+   "newlines 8->7"
+  ]
+ },
+ {
+  "file": "b057.json",
+  "src": "The EPCW PUMP SYSTEM is engineered specifically for the luxu",
+  "why": [
+   "newlines 5->3"
+  ]
+ },
+ {
+  "file": "b058.json",
+  "src": "She was no stranger\nto the public eye\neven before her liter-",
+  "why": [
+   "newlines 15->14"
+  ]
+ },
+ {
+  "file": "b059.json",
+  "src": "Ruffington Press was quick\nto dismiss the rumors in\na statem",
+  "why": [
+   "newlines 17->16"
+  ]
+ },
+ {
+  "file": "b060.json",
+  "src": "of a vast network of\nrailways that spanned\nthe length and br",
+  "why": [
+   "newlines 14->12"
+  ]
+ },
+ {
+  "file": "b060.json",
+  "src": "of a vast network of\nrailways that spanned\nthe length and br",
+  "why": [
+   "newlines 14->12"
+  ]
+ },
+ {
+  "file": "b060.json",
+  "src": "\n<b>Martial -</b> Militari\nin generation spanning\narguments.",
+  "why": [
+   "newlines 16->15"
+  ]
+ },
+ {
+  "file": "b061.json",
+  "src": "My dear diary,\n   After countless sleepless nights and\nfaile",
+  "why": [
+   "newlines 11->10"
+  ]
+ },
+ {
+  "file": "b061.json",
+  "src": "<b><size=1.5>Today is a good day</size></b> because today, m",
+  "why": [
+   "newlines 14->13"
+  ]
+ },
+ {
+  "file": "b063.json",
+  "src": "and intrigue, perfect for those who are appreciative and ske",
+  "why": [
+   "newlines 5->4"
+  ]
+ },
+ {
+  "file": "b065.json",
+  "src": "After waiting the better part of three weeks for the equipme",
+  "why": [
+   "newlines 5->7"
+  ]
+ },
+ {
+  "file": "b066.json",
+  "src": "<size=5.6>Dear Baron,</size>\nWelcome to Mount Holly - Your h",
+  "why": [
+   "newlines 6->8"
+  ]
+ },
+ {
+  "file": "b068.json",
+  "src": "As our client Tomas Sinclair suspected, the arches that were",
+  "why": [
+   "newlines 5->7"
+  ]
+ },
+ {
+  "file": "b069.json",
+  "src": "Although with this volume we have provided our readers\nwith ",
+  "why": [
+   "newlines 5->4"
+  ]
+ },
+ {
+  "file": "b070.json",
+  "src": "Simon,\r\n<size=1> </size>\nJust in case it wasn’t explicit in ",
+  "why": [
+   "newlines 11->10"
+  ]
+ },
+ {
+  "file": "b071.json",
+  "src": "It’s only a few hours from Reddington to get to the trailhea",
+  "why": [
+   "newlines 3->2"
+  ]
+ },
+ {
+  "file": "b074.json",
+  "src": "It should come as no surprise that\r\nthe latest book from loc",
+  "why": [
+   "newlines 13->12"
+  ]
+ },
+ {
+  "file": "b080.json",
+  "src": "DATE: NOV 23 1993              SUBJECT: ESTATE BENEFICIARY\n\n",
+  "why": [
+   "newlines 13->12"
+  ]
+ },
+ {
+  "file": "b080.json",
+  "src": "DATE: NOV. 1 1993                     SUBJECT: next week\n\nSi",
+  "why": [
+   "newlines 12->11"
+  ]
+ },
+ {
+  "file": "b080.json",
+  "src": "DATE: OCT. 7 1993                SUBJECT: ESTATE CHANGES\n\nDe",
+  "why": [
+   "newlines 11->10"
+  ]
+ },
+ {
+  "file": "b080.json",
+  "src": "DATE: FEB. 23 1987                 SUBJECT: the situation\n\n\r",
+  "why": [
+   "newlines 8->6"
+  ]
+ },
+ {
+  "file": "b080.json",
+  "src": "DATE: FEB. 25 1987                   RE: the situation\n\n\r\nI ",
+  "why": [
+   "newlines 11->10"
+  ]
+ },
+ {
+  "file": "b080.json",
+  "src": "DATE: AUG. 27 1987                   SUBJECT: Precautions\n\nB",
+  "why": [
+   "newlines 12->11"
+  ]
+ }
+]

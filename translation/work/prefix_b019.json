@@ -1,0 +1,16 @@
+{
+"The permissions of this terminal\ndo not allow for access to the\nElectronic Mail account.": "صلاحيات هذا الجهاز\nلا تسمح بالوصول إلى\nحساب البريد الإلكتروني.",
+"The permissions of this terminal\ndo not allow for access to the\nElectronic Mail account.\n\nCurrently": "صلاحيات هذا الجهاز\nلا تسمح بالوصول إلى\nحساب البريد الإلكتروني.\n\nحاليًا لا يمكن الوصول إلى هذه الميزة\nإلا عبر الجهاز الموجود\nفي <b>المكتب</b>",
+"is currently OFFLINE.\n\nWould you like to connect": "غير متصل حاليًا.\n\nهل تريد الاتصال\nبهذا الجهاز عبر\nاتصال BLACKBRIDGE؟",
+"more detailed instructions will be sent by electronic mail": "سيتم إرسال تعليمات أكثر تفصيلًا عبر البريد الإلكتروني إلى العنوان الذي قدمه العميل",
+"1. Staff Services\n\n2. Remote Terminal Access": "1. خدمات الموظفين\n\n2. الوصول إلى الجهاز عن بُعد\n\n3. البريد الإلكتروني\n\n4. نقل البيانات\n\n5. المسرد (مقفل أثناء جولة المنزل)\n\n6. تسجيل الخروج",
+"Change the master volume of the game": "غيّر مستوى الصوت العام للعبة باستخدام المنزلق أعلاه.\nاضغط              عند الانتهاء.",
+"INBOUND | OUTBOUND CONNECTIONS": "الاتصالات الواردة | الصادرة\nواتصالات البريد الإلكتروني\nخارج الشبكة المحلية\nمعطّلة مؤقتًا.",
+"If you have created a BLACKBRIDGE BACKUP": "إن كنت قد أنشأت نسخة BLACKBRIDGE احتياطية، يمكنك استعادتها إلى أي خانة حفظ فارغة.",
+"THE TRUE TREASURE OF THE TROVE": "الكنز الحقيقي في الكنز الدفين موجود في هذه الغرفة لكنه ليس في المنزل.",
+"There is an experiment already\n<i>paused</i>": "هناك تجربة\n<i>متوقفة</i> حاليًا.\n\nهل تريد استئناف هذه\nالتجربة؟",
+"You would like the <b>Commissary</b> to": "تريد من <b>المتجر</b>\nأن يطلب:\n\n\n\nيُقدَّر أن يستغرق هذا الطلب\n     أيام.\n\nهل هذا مناسب؟",
+" After you draft a <color=#CD1616>RED ROOM</color>, if ": " بعد أن تختار <color=#CD1616>غرفة حمراء</color>، إذا \n<size=1> </size>كان لديك 5 صفوف مختلفة على الأقل تحوي <color=#CD1616>غرفًا حمراء</color>، اكسب <size=2.6>5 \n",
+"BRASS COMPASS\n\nMAGNIFYING GLASS": "البوصلة النحاسية\n\nالعدسة المكبرة\n\nكاشف المعادن\n\nحذاء الجري\n\nالمجرفة\n\nقناع النوم\n\nالمطرقة الثقيلة\n\n\nالعودة إلى خدمات الموظفين",
+"H. S. SINCLAIR\nAND ANNE BABBAGE": "ه. س. سنكلير\nوآن بابيدج\nهما الوحيدان\nفي العقار\nاللذان لديهما\nصلاحية إدارة الشبكة."
+}

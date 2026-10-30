@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>BluePrinceArabic</AssemblyName>
+    <RootNamespace>BluePrinceArabic</RootNamespace>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <NoWarn>CS0436;CS8981;CS0649</NoWarn>
+    <GameRoot Condition="'$(GameRoot)'==''">$(MSBuildThisFileDirectory)..\..\runtime_test</GameRoot>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="$(GameRoot)\BepInEx\core\BepInEx.Core.dll" Private="false" />
+    <Reference Include="$(GameRoot)\BepInEx\core\BepInEx.Unity.IL2CPP.dll" Private="false" />
+    <Reference Include="$(GameRoot)\BepInEx\core\0Harmony.dll" Private="false" />
+    <Reference Include="$(GameRoot)\BepInEx\core\Il2CppInterop.Runtime.dll" Private="false" />
+    <Reference Include="$(GameRoot)\BepInEx\core\Il2CppInterop.Common.dll" Private="false" />
+    <Reference Include="$(GameRoot)\BepInEx\interop\*.dll" Private="false" />
+  </ItemGroup>
+</Project>

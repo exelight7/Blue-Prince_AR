@@ -1,0 +1,40 @@
+[
+  {
+    "variant": "logical",
+    "sha256": "dd6df4d630d1466c6b08a781bd074a8c8c94c61ea417b99234d58c4bdadf46ce",
+    "bytes": 3161704,
+    "changed_object_ids": [
+      3357,
+      3404,
+      3411,
+      3481,
+      3500,
+      3534,
+      3535
+    ],
+    "unchanged_objects": 4253,
+    "strict_reparse": "PASS",
+    "unchanged_object_bytes": "PASS",
+    "idempotent_save": "PASS",
+    "in_game_rendering": "NOT_TESTED"
+  },
+  {
+    "variant": "preshaped_visual",
+    "sha256": "7de88e1a142ecbe7f6c67a5b5f836ee93b2cbeb1058870d0bb28507e83ce357b",
+    "bytes": 3161864,
+    "changed_object_ids": [
+      3357,
+      3404,
+      3411,
+      3481,
+      3500,
+      3534,
+      3535
+    ],
+    "unchanged_objects": 4253,
+    "strict_reparse": "PASS",
+    "unchanged_object_bytes": "PASS",
+    "idempotent_save": "PASS",
+    "in_game_rendering": "NOT_TESTED"
+  }
+]

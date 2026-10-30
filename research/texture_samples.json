@@ -1,0 +1,56 @@
+[
+  {
+    "file": "sharedassets2.assets",
+    "path_id": 560,
+    "name": "museummap",
+    "width": 1024,
+    "height": 1024,
+    "status": "UNREVIEWED",
+    "risk": "LOW"
+  },
+  {
+    "file": "sharedassets2.assets",
+    "path_id": 803,
+    "name": "worldmap1",
+    "width": 2048,
+    "height": 4096,
+    "status": "UNREVIEWED",
+    "risk": "LOW"
+  },
+  {
+    "file": "sharedassets2.assets",
+    "path_id": 1082,
+    "name": "treasure-map",
+    "width": 1024,
+    "height": 1024,
+    "status": "UNREVIEWED",
+    "risk": "LOW"
+  },
+  {
+    "file": "sharedassets2.assets",
+    "path_id": 1116,
+    "name": "LETTERSatlas",
+    "width": 2048,
+    "height": 2048,
+    "status": "UNREVIEWED",
+    "risk": "LOW"
+  },
+  {
+    "file": "sharedassets2.assets",
+    "path_id": 580,
+    "name": "8letter",
+    "width": 2048,
+    "height": 2048,
+    "status": "UNREVIEWED",
+    "risk": "LOW"
+  },
+  {
+    "file": "sharedassets2.assets",
+    "path_id": 833,
+    "name": "5letter",
+    "width": 2048,
+    "height": 2048,
+    "status": "UNREVIEWED",
+    "risk": "LOW"
+  }
+]

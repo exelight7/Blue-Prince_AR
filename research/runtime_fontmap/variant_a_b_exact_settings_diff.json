@@ -1,0 +1,51 @@
+[
+  {
+    "path_id": 3357,
+    "different_fields": [
+      "m_isRightToLeft",
+      "m_text"
+    ]
+  },
+  {
+    "path_id": 3404,
+    "different_fields": [
+      "m_isRightToLeft",
+      "m_text"
+    ]
+  },
+  {
+    "path_id": 3411,
+    "different_fields": [
+      "m_isRightToLeft",
+      "m_text"
+    ]
+  },
+  {
+    "path_id": 3481,
+    "different_fields": [
+      "m_isRightToLeft",
+      "m_text"
+    ]
+  },
+  {
+    "path_id": 3500,
+    "different_fields": [
+      "m_isRightToLeft",
+      "m_text"
+    ]
+  },
+  {
+    "path_id": 3534,
+    "different_fields": [
+      "m_isRightToLeft",
+      "m_text"
+    ]
+  },
+  {
+    "path_id": 3535,
+    "different_fields": [
+      "m_isRightToLeft",
+      "m_text"
+    ]
+  }
+]

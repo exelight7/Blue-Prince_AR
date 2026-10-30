@@ -1,0 +1,11 @@
+{
+  "counts": {
+    "PlayMakerFSM": 11973,
+    "FsmTemplate": 37
+  },
+  "candidate_occurrences": 141161,
+  "unique_candidate_values": 4251,
+  "strict_byte_noop_pass": 12010,
+  "errors": 0,
+  "recovered_keys": 74
+}

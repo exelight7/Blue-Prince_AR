@@ -1,0 +1,68 @@
+[
+  {
+    "path_id": 560,
+    "name": "museummap",
+    "classification": "Decorative / contextual map",
+    "finding": "Diagram; no prominent English words in inspected sample",
+    "decision": "Keep unchanged until gameplay context establishes need",
+    "file": "sharedassets2.assets",
+    "review": "VISUALLY_REVIEWED_OFFLINE",
+    "source_dimensions_preserved": true,
+    "changed": false
+  },
+  {
+    "path_id": 803,
+    "name": "worldmap1",
+    "classification": "Gameplay-related",
+    "finding": "Embedded Latin map/title/place labels visible",
+    "decision": "Adapt labels with lore/puzzle context; preserve original layout/dimensions",
+    "file": "sharedassets2.assets",
+    "review": "VISUALLY_REVIEWED_OFFLINE",
+    "source_dimensions_preserved": true,
+    "changed": false
+  },
+  {
+    "path_id": 1082,
+    "name": "treasure-map",
+    "classification": "Gameplay-related",
+    "finding": "Compass N and X/puzzle markings; largely diagrammatic",
+    "decision": "Keep clue geometry/markers; no blind mirroring",
+    "file": "sharedassets2.assets",
+    "review": "VISUALLY_REVIEWED_OFFLINE",
+    "source_dimensions_preserved": true,
+    "changed": false
+  },
+  {
+    "path_id": 1116,
+    "name": "LETTERSatlas",
+    "classification": "Critical candidate",
+    "finding": "Decorative Latin alphabet glyph atlas",
+    "decision": "Preserve until letter-dependent puzzle connections are understood",
+    "file": "sharedassets2.assets",
+    "review": "VISUALLY_REVIEWED_OFFLINE",
+    "source_dimensions_preserved": true,
+    "changed": false
+  },
+  {
+    "path_id": 580,
+    "name": "8letter",
+    "classification": "Critical candidate",
+    "finding": "Illustrated puzzle art contains English captions such as HUBRIS and SLOTH",
+    "decision": "Puzzle/language adaptation required; do not replace words independently",
+    "file": "sharedassets2.assets",
+    "review": "VISUALLY_REVIEWED_OFFLINE",
+    "source_dimensions_preserved": true,
+    "changed": false
+  },
+  {
+    "path_id": 833,
+    "name": "5letter",
+    "classification": "Critical candidate",
+    "finding": "Large word THICK with visual typographic puzzle treatment",
+    "decision": "Design and playtest Arabic clue adaptation before texture editing",
+    "file": "sharedassets2.assets",
+    "review": "VISUALLY_REVIEWED_OFFLINE",
+    "source_dimensions_preserved": true,
+    "changed": false
+  }
+]

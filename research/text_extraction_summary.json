@@ -1,0 +1,15 @@
+{
+  "counts": {
+    "TextMeshPro": 20730,
+    "TextMeshProUGUI": 147,
+    "PlayMakerArrayListProxy": 576,
+    "LocalizedText": 164,
+    "PlayMakerFSM": 368,
+    "LocalizationLanguageAsset": 2,
+    "LocalizationDatabaseAsset": 1
+  },
+  "occurrences": 20815,
+  "unique_sources": 4850,
+  "candidates": 4045,
+  "errors": 11815
+}

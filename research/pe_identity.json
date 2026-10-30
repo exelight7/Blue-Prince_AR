@@ -1,0 +1,18 @@
+[
+  {
+    "Path": "D:\\Games\\Blue Prince\\BLUE PRINCE.exe",
+    "Company": "",
+    "Product": "",
+    "FileVersion": "2021.3.45.895135",
+    "SignatureStatus": "NotSigned",
+    "SignerSubject": null
+  },
+  {
+    "Path": "D:\\Games\\Blue Prince\\UnityPlayer.dll",
+    "Company": "Unity Technologies",
+    "Product": "Unity",
+    "FileVersion": "2021.3.45.895135",
+    "SignatureStatus": "Valid",
+    "SignerSubject": "CN=Unity Technologies SF, O=Unity Technologies SF, L=San Francisco, S=California, C=US, SERIALNUMBER=3183233, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.2=California, OID.1.3.6.1.4.1.311.60.2.1.3=US"
+  }
+]

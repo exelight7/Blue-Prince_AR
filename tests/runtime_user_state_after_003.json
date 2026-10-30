@@ -1,0 +1,26 @@
+{
+  "path": "C:\\Users\\npxf1\\AppData\\LocalLow\\Dogubomb\\BLUE PRINCE",
+  "files": [
+    {
+      "path": "Player-prev.log",
+      "sha256": "709e15d2ee4545c6da0302b82e2648ba8a5b2d3db85b00ccb08583f79e8f988f",
+      "bytes": 14030
+    },
+    {
+      "path": "Player.log",
+      "sha256": "9a9f7f48bcda131a973ec8ed4d00c9c8104d0279ac5b294c95028dc8a7378065",
+      "bytes": 14028
+    },
+    {
+      "path": "storage/MtHollyBlueprint.es3",
+      "sha256": "48a388c0a4a051485521da5bd769b2318883f2049b91734ad29bd33fed73a5e3",
+      "bytes": 1200
+    },
+    {
+      "path": "storage/Settings.dat",
+      "sha256": "613326f97729bd55ea7b2cf8a5cf10f2d14db719fd33e2fb4cd45ff2b7290189",
+      "bytes": 765
+    }
+  ],
+  "note": "Known user-state paths did not exist before testing; runtime created these files. They were backed up and not deleted or restored."
+}

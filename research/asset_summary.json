@@ -1,0 +1,349 @@
+[
+  {
+    "container": "globalgamemanagers",
+    "objects": 18,
+    "types": {
+      "PlayerSettings": 1,
+      "InputManager": 1,
+      "TagManager": 1,
+      "AudioManager": 1,
+      "ScriptMapper": 1,
+      "MonoManager": 1,
+      "GraphicsSettings": 1,
+      "TimeManager": 1,
+      "DelayedCallManager": 1,
+      "PhysicsManager": 1,
+      "BuildSettings": 1,
+      "QualitySettings": 1,
+      "ResourceManager": 1,
+      "NavMeshProjectSettings": 1,
+      "Physics2DSettings": 1,
+      "RuntimeInitializeOnLoadManager": 1,
+      "StreamingManager": 1,
+      "VFXManager": 1
+    },
+    "versions": [
+      "2021.3.45f1"
+    ],
+    "errors": 0
+  },
+  {
+    "container": "globalgamemanagers.assets",
+    "objects": 4530,
+    "types": {
+      "PreloadData": 1,
+      "Material": 1,
+      "Texture2D": 2,
+      "Shader": 6,
+      "MonoScript": 4519,
+      "Sprite": 1
+    },
+    "versions": [
+      "2021.3.45f1"
+    ],
+    "errors": 0
+  },
+  {
+    "container": "level0",
+    "objects": 520,
+    "types": {
+      "GameObject": 147,
+      "Transform": 13,
+      "Camera": 1,
+      "MeshRenderer": 4,
+      "MeshFilter": 1,
+      "RenderSettings": 1,
+      "Light": 1,
+      "LightmapSettings": 1,
+      "NavMeshSettings": 1,
+      "CanvasRenderer": 81,
+      "Canvas": 3,
+      "RectTransform": 134,
+      "MonoBehaviour": 132
+    },
+    "versions": [
+      "2021.3.45f1"
+    ],
+    "errors": 0
+  },
+  {
+    "container": "level1",
+    "objects": 4260,
+    "types": {
+      "LightProbes": 1,
+      "GameObject": 1148,
+      "Transform": 587,
+      "Camera": 6,
+      "MeshRenderer": 588,
+      "MeshFilter": 214,
+      "MeshCollider": 3,
+      "BoxCollider": 82,
+      "AudioListener": 1,
+      "AudioSource": 6,
+      "Animator": 14,
+      "RenderSettings": 1,
+      "Light": 18,
+      "LightmapSettings": 1,
+      "NavMeshSettings": 1,
+      "SpriteRenderer": 43,
+      "CanvasRenderer": 45,
+      "Canvas": 15,
+      "RectTransform": 561,
+      "CanvasGroup": 13,
+      "VideoPlayer": 2,
+      "MonoBehaviour": 910
+    },
+    "versions": [
+      "2021.3.45f1"
+    ],
+    "errors": 0
+  },
+  {
+    "container": "level2",
+    "objects": 331529,
+    "types": {
+      "Material": 141,
+      "Mesh": 5,
+      "GameObject": 89185,
+      "Transform": 71933,
+      "Camera": 100,
+      "MeshRenderer": 59934,
+      "MeshFilter": 43695,
+      "Rigidbody": 15,
+      "MeshCollider": 671,
+      "BoxCollider": 10201,
+      "AudioListener": 21,
+      "AudioSource": 287,
+      "Animator": 362,
+      "RenderSettings": 1,
+      "Light": 1393,
+      "FlareLayer": 23,
+      "SphereCollider": 130,
+      "CapsuleCollider": 72,
+      "SkinnedMeshRenderer": 316,
+      "CharacterController": 15,
+      "LightmapSettings": 1,
+      "AudioReverbFilter": 53,
+      "AudioReverbZone": 4,
+      "NavMeshSettings": 1,
+      "ParticleSystem": 52,
+      "ParticleSystemRenderer": 52,
+      "LODGroup": 324,
+      "SpriteRenderer": 226,
+      "CanvasRenderer": 253,
+      "Canvas": 67,
+      "RectTransform": 17252,
+      "CanvasGroup": 27,
+      "VideoPlayer": 2,
+      "MonoBehaviour": 34715
+    },
+    "versions": [
+      "2021.3.45f1"
+    ],
+    "errors": 0
+  },
+  {
+    "container": "resources.assets",
+    "objects": 1424,
+    "types": {
+      "Material": 31,
+      "Texture2D": 66,
+      "Mesh": 31,
+      "Shader": 40,
+      "TextAsset": 10,
+      "AnimationClip": 2,
+      "AudioClip": 1,
+      "AnimatorController": 2,
+      "MonoScript": 1,
+      "Texture3D": 1,
+      "Font": 2,
+      "PhysicMaterial": 1,
+      "Sprite": 15,
+      "GameObject": 345,
+      "Transform": 111,
+      "MeshRenderer": 102,
+      "MeshFilter": 45,
+      "BoxCollider": 9,
+      "Animator": 8,
+      "ParticleSystem": 1,
+      "ParticleSystemRenderer": 1,
+      "CanvasRenderer": 101,
+      "Canvas": 2,
+      "RectTransform": 234,
+      "MonoBehaviour": 262
+    },
+    "versions": [
+      "2021.3.45f1"
+    ],
+    "errors": 0
+  },
+  {
+    "container": "sharedassets0.assets",
+    "objects": 431,
+    "types": {
+      "PreloadData": 1,
+      "Material": 7,
+      "Texture2D": 20,
+      "Mesh": 1,
+      "Shader": 3,
+      "Font": 1,
+      "Sprite": 203,
+      "GameObject": 1,
+      "Transform": 1,
+      "MonoBehaviour": 193
+    },
+    "versions": [
+      "2021.3.45f1"
+    ],
+    "errors": 0
+  },
+  {
+    "container": "sharedassets1.assets",
+    "objects": 260,
+    "types": {
+      "PreloadData": 1,
+      "Material": 43,
+      "Texture2D": 62,
+      "Mesh": 77,
+      "Shader": 7,
+      "AudioClip": 12,
+      "Font": 9,
+      "Sprite": 19,
+      "VideoClip": 2,
+      "LightingSettings": 1,
+      "MonoBehaviour": 27
+    },
+    "versions": [
+      "2021.3.45f1"
+    ],
+    "errors": 0
+  },
+  {
+    "container": "sharedassets2.assets",
+    "objects": 158408,
+    "types": {
+      "PreloadData": 1,
+      "Material": 537,
+      "Texture2D": 893,
+      "Mesh": 3526,
+      "Shader": 70,
+      "TextAsset": 1,
+      "ComputeShader": 12,
+      "AnimationClip": 201,
+      "AudioClip": 618,
+      "RenderTexture": 3,
+      "Avatar": 22,
+      "AnimatorController": 71,
+      "PhysicMaterial": 3,
+      "Sprite": 39,
+      "AudioMixerController": 1,
+      "AudioMixerGroupController": 8,
+      "AudioMixerSnapshotController": 2,
+      "LightProbes": 1,
+      "VideoClip": 22,
+      "GameObject": 45833,
+      "Transform": 42117,
+      "Camera": 35,
+      "MeshRenderer": 18274,
+      "MeshFilter": 14759,
+      "Skybox": 2,
+      "Rigidbody": 11,
+      "MeshCollider": 361,
+      "BoxCollider": 5913,
+      "AudioListener": 7,
+      "AudioSource": 520,
+      "Animator": 284,
+      "Light": 1118,
+      "Animation": 2,
+      "LineRenderer": 1,
+      "FlareLayer": 4,
+      "SphereCollider": 129,
+      "CapsuleCollider": 190,
+      "SkinnedMeshRenderer": 639,
+      "AudioReverbFilter": 22,
+      "AudioReverbZone": 30,
+      "Cloth": 20,
+      "ParticleSystem": 223,
+      "ParticleSystemRenderer": 223,
+      "LODGroup": 20,
+      "SpriteRenderer": 1,
+      "ReflectionProbe": 1,
+      "CanvasRenderer": 3061,
+      "RectTransform": 3716,
+      "LightingSettings": 1,
+      "MonoBehaviour": 14860
+    },
+    "versions": [
+      "2021.3.45f1"
+    ],
+    "errors": 0
+  },
+  {
+    "container": "StreamingAssets/aa/StandaloneWindows64/atelier_assets_all_14fe79679959082c9bc7c10ab62e3f1d.bundle",
+    "objects": 1583,
+    "types": {
+      "Mesh": 1580,
+      "AssetBundle": 1,
+      "MonoScript": 1,
+      "MonoBehaviour": 1
+    },
+    "versions": [
+      "2021.3.45f1"
+    ],
+    "errors": 0
+  },
+  {
+    "container": "StreamingAssets/aa/StandaloneWindows64/estateterrains_assets_all_6ad29e888c4be0c0d42de2598467cab4.bundle",
+    "objects": 519,
+    "types": {
+      "Mesh": 509,
+      "MonoBehaviour": 8,
+      "AssetBundle": 1,
+      "MonoScript": 1
+    },
+    "versions": [
+      "2021.3.45f1"
+    ],
+    "errors": 0
+  },
+  {
+    "container": "StreamingAssets/aa/StandaloneWindows64/rooms_assets_all_745285e3229ea154e722c5523c153740.bundle",
+    "objects": 4413,
+    "types": {
+      "Mesh": 4299,
+      "MonoBehaviour": 112,
+      "AssetBundle": 1,
+      "MonoScript": 1
+    },
+    "versions": [
+      "2021.3.45f1"
+    ],
+    "errors": 0
+  },
+  {
+    "container": "StreamingAssets/aa/StandaloneWindows64/underground_assets_all_1b6453a7eb78d377cada247c32bb2a36.bundle",
+    "objects": 1910,
+    "types": {
+      "Mesh": 1896,
+      "MonoBehaviour": 12,
+      "AssetBundle": 1,
+      "MonoScript": 1
+    },
+    "versions": [
+      "2021.3.45f1"
+    ],
+    "errors": 0
+  },
+  {
+    "container": "StreamingAssets/aa/StandaloneWindows64/video_assets_all_76a71977133aba4ba356435b2aff5019.bundle",
+    "objects": 2,
+    "types": {
+      "VideoClip": 1,
+      "AssetBundle": 1
+    },
+    "versions": [
+      "2021.3.45f1"
+    ],
+    "errors": 0
+  }
+]

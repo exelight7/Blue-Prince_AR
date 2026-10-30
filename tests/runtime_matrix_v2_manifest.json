@@ -1,0 +1,818 @@
+[
+  {
+    "variant": "a",
+    "method": "logical TMP RTL",
+    "path": "D:\\Games\\Blue Prince_AR\\build\\runtime_matrix_v2\\a\\BLUE PRINCE_Data\\level1",
+    "sha256": "ef4610e02607657591118db7d86305bc55defdb78155c0616bf3e3d7c091aadb",
+    "source_sha256": "5ef8eac5b402c7c99a24123ff45717430b1e332206e8c95f5add5753ddbe267d",
+    "changed_objects": [
+      3568,
+      3481,
+      3534,
+      3500,
+      3411,
+      3446,
+      3456
+    ],
+    "untouched_objects": 4253,
+    "integrity": "PASS",
+    "changes": [
+      {
+        "path_id": 3568,
+        "case": "greeting",
+        "logical_text": "\u0645\u0631\u062d\u0628\u0627 \u0628\u0643 \u0641\u064a \u0627\u0644\u0642\u0635\u0631",
+        "original_text": "NEW GAME",
+        "fields": {
+          "m_text": {
+            "before": "NEW GAME",
+            "after": "\u0645\u0631\u062d\u0628\u0627 \u0628\u0643 \u0641\u064a \u0627\u0644\u0642\u0635\u0631"
+          },
+          "m_isRightToLeft": {
+            "before": 0,
+            "after": 1
+          },
+          "m_fontAsset": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 242
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 244
+            }
+          },
+          "m_sharedMaterial": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 32
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 43
+            }
+          },
+          "m_fontSizeMin": {
+            "before": 18.0,
+            "after": 1.0
+          },
+          "m_fontSizeMax": {
+            "before": 72.0,
+            "after": 2.5
+          },
+          "m_fontStyle": {
+            "before": 16,
+            "after": 0
+          },
+          "m_characterSpacing": {
+            "before": 9.600000381469727,
+            "after": 0.0
+          },
+          "m_lineSpacing": {
+            "before": -55.0,
+            "after": 0.0
+          }
+        }
+      },
+      {
+        "path_id": 3481,
+        "case": "lamalef_punctuation",
+        "logical_text": "\u0644\u0627 \u062a\u0641\u062a\u062d \u0647\u0630\u0627 \u0627\u0644\u0628\u0627\u0628\n\u0644\u0627   \u0644\u0623   \u0644\u0625   \u0644\u0622\n\u0645\u0631\u062d\u0628\u0627\u060c \u0643\u064a\u0641 \u062d\u0627\u0644\u0643\u061f",
+        "original_text": "CONTINUE",
+        "fields": {
+          "m_text": {
+            "before": "CONTINUE",
+            "after": "\u0644\u0627 \u062a\u0641\u062a\u062d \u0647\u0630\u0627 \u0627\u0644\u0628\u0627\u0628\n\u0644\u0627   \u0644\u0623   \u0644\u0625   \u0644\u0622\n\u0645\u0631\u062d\u0628\u0627\u060c \u0643\u064a\u0641 \u062d\u0627\u0644\u0643\u061f"
+          },
+          "m_isRightToLeft": {
+            "before": 0,
+            "after": 1
+          },
+          "m_fontAsset": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 242
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 244
+            }
+          },
+          "m_sharedMaterial": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 32
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 43
+            }
+          },
+          "m_enableAutoSizing": {
+            "before": 0,
+            "after": 1
+          },
+          "m_fontSizeMin": {
+            "before": 18.0,
+            "after": 1.0
+          },
+          "m_fontSizeMax": {
+            "before": 72.0,
+            "after": 2.5
+          },
+          "m_fontStyle": {
+            "before": 16,
+            "after": 0
+          },
+          "m_characterSpacing": {
+            "before": 18.600000381469727,
+            "after": 0.0
+          },
+          "m_lineSpacing": {
+            "before": -55.0,
+            "after": 0.0
+          }
+        }
+      },
+      {
+        "path_id": 3534,
+        "case": "number",
+        "logical_text": "\u0627\u0644\u063a\u0631\u0641\u0629 \u0631\u0642\u0645 27",
+        "original_text": "SETTINGS",
+        "fields": {
+          "m_text": {
+            "before": "SETTINGS",
+            "after": "\u0627\u0644\u063a\u0631\u0641\u0629 \u0631\u0642\u0645 27"
+          },
+          "m_isRightToLeft": {
+            "before": 0,
+            "after": 1
+          },
+          "m_fontAsset": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 242
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 244
+            }
+          },
+          "m_sharedMaterial": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 32
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 43
+            }
+          },
+          "m_fontSizeMin": {
+            "before": 18.0,
+            "after": 1.0
+          },
+          "m_fontSizeMax": {
+            "before": 72.0,
+            "after": 2.5
+          },
+          "m_fontStyle": {
+            "before": 16,
+            "after": 0
+          },
+          "m_characterSpacing": {
+            "before": 19.399999618530273,
+            "after": 0.0
+          },
+          "m_lineSpacing": {
+            "before": -55.0,
+            "after": 0.0
+          }
+        }
+      },
+      {
+        "path_id": 3500,
+        "case": "mixed_key",
+        "logical_text": "\u0627\u0636\u063a\u0637 E \u0644\u0641\u062a\u062d \u0627\u0644\u0628\u0627\u0628",
+        "original_text": "QUIT GAME",
+        "fields": {
+          "m_text": {
+            "before": "QUIT GAME",
+            "after": "\u0627\u0636\u063a\u0637 E \u0644\u0641\u062a\u062d \u0627\u0644\u0628\u0627\u0628"
+          },
+          "m_isRightToLeft": {
+            "before": 0,
+            "after": 1
+          },
+          "m_fontAsset": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 242
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 244
+            }
+          },
+          "m_sharedMaterial": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 32
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 43
+            }
+          },
+          "m_fontSizeMin": {
+            "before": 18.0,
+            "after": 1.0
+          },
+          "m_fontSizeMax": {
+            "before": 72.0,
+            "after": 2.5
+          },
+          "m_fontStyle": {
+            "before": 16,
+            "after": 0
+          },
+          "m_characterSpacing": {
+            "before": 9.899999618530273,
+            "after": 0.0
+          },
+          "m_lineSpacing": {
+            "before": -55.0,
+            "after": 0.0
+          }
+        }
+      },
+      {
+        "path_id": 3411,
+        "case": "latin_control",
+        "logical_text": "HP: 100",
+        "original_text": "VOLUME",
+        "fields": {
+          "m_text": {
+            "before": "VOLUME",
+            "after": "HP: 100"
+          },
+          "m_fontAsset": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 242
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 244
+            }
+          },
+          "m_sharedMaterial": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 32
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 43
+            }
+          },
+          "m_fontSizeMin": {
+            "before": 18.0,
+            "after": 1.0
+          },
+          "m_fontSizeMax": {
+            "before": 72.0,
+            "after": 2.5
+          },
+          "m_fontStyle": {
+            "before": 16,
+            "after": 0
+          },
+          "m_characterSpacing": {
+            "before": 33.099998474121094,
+            "after": 0.0
+          },
+          "m_lineSpacing": {
+            "before": -55.0,
+            "after": 0.0
+          }
+        }
+      },
+      {
+        "path_id": 3446,
+        "case": "mixed_title",
+        "logical_text": "Blue Prince - \u0627\u0644\u0623\u0645\u064a\u0631 \u0627\u0644\u0623\u0632\u0631\u0642",
+        "original_text": "GRAPHICS",
+        "fields": {
+          "m_text": {
+            "before": "GRAPHICS",
+            "after": "Blue Prince - \u0627\u0644\u0623\u0645\u064a\u0631 \u0627\u0644\u0623\u0632\u0631\u0642"
+          },
+          "m_isRightToLeft": {
+            "before": 0,
+            "after": 1
+          },
+          "m_fontAsset": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 242
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 244
+            }
+          },
+          "m_sharedMaterial": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 32
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 43
+            }
+          },
+          "m_enableAutoSizing": {
+            "before": 0,
+            "after": 1
+          },
+          "m_fontSizeMin": {
+            "before": 18.0,
+            "after": 1.0
+          },
+          "m_fontSizeMax": {
+            "before": 72.0,
+            "after": 2.5
+          },
+          "m_fontStyle": {
+            "before": 16,
+            "after": 0
+          },
+          "m_characterSpacing": {
+            "before": 18.6200008392334,
+            "after": 0.0
+          },
+          "m_lineSpacing": {
+            "before": -55.0,
+            "after": 0.0
+          }
+        }
+      },
+      {
+        "path_id": 3456,
+        "case": "wrapping",
+        "logical_text": "\u0647\u0630\u0627 \u0627\u062e\u062a\u0628\u0627\u0631 \u0637\u0648\u064a\u0644 \u0644\u0644\u062a\u0623\u0643\u062f \u0645\u0646 \u0623\u0646 \u0627\u0644\u0646\u0635 \u0627\u0644\u0639\u0631\u0628\u064a \u064a\u0644\u062a\u0641 \u062f\u0627\u062e\u0644 \u0645\u0633\u0627\u062d\u0629 \u0627\u0644\u0648\u0627\u062c\u0647\u0629 \u0628\u0634\u0643\u0644 \u0635\u062d\u064a\u062d \u0648\u0644\u0627 \u064a\u062e\u0631\u062c \u062e\u0627\u0631\u062c \u062d\u062f\u0648\u062f \u0627\u0644\u0639\u0646\u0635\u0631.",
+        "original_text": "RETURN",
+        "fields": {
+          "m_text": {
+            "before": "RETURN",
+            "after": "\u0647\u0630\u0627 \u0627\u062e\u062a\u0628\u0627\u0631 \u0637\u0648\u064a\u0644 \u0644\u0644\u062a\u0623\u0643\u062f \u0645\u0646 \u0623\u0646 \u0627\u0644\u0646\u0635 \u0627\u0644\u0639\u0631\u0628\u064a \u064a\u0644\u062a\u0641 \u062f\u0627\u062e\u0644 \u0645\u0633\u0627\u062d\u0629 \u0627\u0644\u0648\u0627\u062c\u0647\u0629 \u0628\u0634\u0643\u0644 \u0635\u062d\u064a\u062d \u0648\u0644\u0627 \u064a\u062e\u0631\u062c \u062e\u0627\u0631\u062c \u062d\u062f\u0648\u062f \u0627\u0644\u0639\u0646\u0635\u0631."
+          },
+          "m_isRightToLeft": {
+            "before": 0,
+            "after": 1
+          },
+          "m_fontAsset": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 242
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 244
+            }
+          },
+          "m_sharedMaterial": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 32
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 43
+            }
+          },
+          "m_enableAutoSizing": {
+            "before": 0,
+            "after": 1
+          },
+          "m_fontSizeMin": {
+            "before": 18.0,
+            "after": 1.0
+          },
+          "m_fontSizeMax": {
+            "before": 72.0,
+            "after": 2.5
+          },
+          "m_fontStyle": {
+            "before": 16,
+            "after": 0
+          },
+          "m_characterSpacing": {
+            "before": 36.20000076293945,
+            "after": 0.0
+          },
+          "m_lineSpacing": {
+            "before": -55.0,
+            "after": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "variant": "b",
+    "method": "pre-shaped visual, TMP RTL disabled",
+    "path": "D:\\Games\\Blue Prince_AR\\build\\runtime_matrix_v2\\b\\BLUE PRINCE_Data\\level1",
+    "sha256": "40a2acb0b69b5a3a4a10924c007e0ea62b567b70e0273b9124d104d3b23e3c78",
+    "source_sha256": "5ef8eac5b402c7c99a24123ff45717430b1e332206e8c95f5add5753ddbe267d",
+    "changed_objects": [
+      3568,
+      3481,
+      3534,
+      3500,
+      3411,
+      3446,
+      3456
+    ],
+    "untouched_objects": 4253,
+    "integrity": "PASS",
+    "changes": [
+      {
+        "path_id": 3568,
+        "case": "greeting",
+        "logical_text": "\u0645\u0631\u062d\u0628\u0627 \u0628\u0643 \u0641\u064a \u0627\u0644\u0642\u0635\u0631",
+        "original_text": "NEW GAME",
+        "fields": {
+          "m_text": {
+            "before": "NEW GAME",
+            "after": "\ufeae\ufebc\ufed8\ufedf\ufe8d \ufef2\ufed3 \ufeda\ufe91 \ufe8e\ufe92\ufea3\ufeae\ufee3"
+          },
+          "m_fontAsset": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 242
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 244
+            }
+          },
+          "m_sharedMaterial": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 32
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 43
+            }
+          },
+          "m_fontSizeMin": {
+            "before": 18.0,
+            "after": 1.0
+          },
+          "m_fontSizeMax": {
+            "before": 72.0,
+            "after": 2.5
+          },
+          "m_fontStyle": {
+            "before": 16,
+            "after": 0
+          },
+          "m_characterSpacing": {
+            "before": 9.600000381469727,
+            "after": 0.0
+          },
+          "m_lineSpacing": {
+            "before": -55.0,
+            "after": 0.0
+          }
+        }
+      },
+      {
+        "path_id": 3481,
+        "case": "lamalef_punctuation",
+        "logical_text": "\u0644\u0627 \u062a\u0641\u062a\u062d \u0647\u0630\u0627 \u0627\u0644\u0628\u0627\u0628\n\u0644\u0627   \u0644\u0623   \u0644\u0625   \u0644\u0622\n\u0645\u0631\u062d\u0628\u0627\u060c \u0643\u064a\u0641 \u062d\u0627\u0644\u0643\u061f",
+        "original_text": "CONTINUE",
+        "fields": {
+          "m_text": {
+            "before": "CONTINUE",
+            "after": "\ufe8f\ufe8e\ufe92\ufedf\ufe8d \ufe8d\ufeac\ufeeb \ufea2\ufe98\ufed4\ufe97 \ufefb\n\ufef5   \ufef9   \ufef7   \ufefb\n\u061f\ufeda\ufedf\ufe8e\ufea3 \ufed2\ufef4\ufedb \u060c\ufe8e\ufe92\ufea3\ufeae\ufee3"
+          },
+          "m_fontAsset": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 242
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 244
+            }
+          },
+          "m_sharedMaterial": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 32
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 43
+            }
+          },
+          "m_enableAutoSizing": {
+            "before": 0,
+            "after": 1
+          },
+          "m_fontSizeMin": {
+            "before": 18.0,
+            "after": 1.0
+          },
+          "m_fontSizeMax": {
+            "before": 72.0,
+            "after": 2.5
+          },
+          "m_fontStyle": {
+            "before": 16,
+            "after": 0
+          },
+          "m_characterSpacing": {
+            "before": 18.600000381469727,
+            "after": 0.0
+          },
+          "m_lineSpacing": {
+            "before": -55.0,
+            "after": 0.0
+          }
+        }
+      },
+      {
+        "path_id": 3534,
+        "case": "number",
+        "logical_text": "\u0627\u0644\u063a\u0631\u0641\u0629 \u0631\u0642\u0645 27",
+        "original_text": "SETTINGS",
+        "fields": {
+          "m_text": {
+            "before": "SETTINGS",
+            "after": "27 \ufee2\ufed7\ufead \ufe94\ufed3\ufeae\ufed0\ufedf\ufe8d"
+          },
+          "m_fontAsset": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 242
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 244
+            }
+          },
+          "m_sharedMaterial": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 32
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 43
+            }
+          },
+          "m_fontSizeMin": {
+            "before": 18.0,
+            "after": 1.0
+          },
+          "m_fontSizeMax": {
+            "before": 72.0,
+            "after": 2.5
+          },
+          "m_fontStyle": {
+            "before": 16,
+            "after": 0
+          },
+          "m_characterSpacing": {
+            "before": 19.399999618530273,
+            "after": 0.0
+          },
+          "m_lineSpacing": {
+            "before": -55.0,
+            "after": 0.0
+          }
+        }
+      },
+      {
+        "path_id": 3500,
+        "case": "mixed_key",
+        "logical_text": "\u0627\u0636\u063a\u0637 E \u0644\u0641\u062a\u062d \u0627\u0644\u0628\u0627\u0628",
+        "original_text": "QUIT GAME",
+        "fields": {
+          "m_text": {
+            "before": "QUIT GAME",
+            "after": "\ufe8f\ufe8e\ufe92\ufedf\ufe8d \ufea2\ufe98\ufed4\ufedf E \ufec2\ufed0\ufebf\ufe8d"
+          },
+          "m_fontAsset": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 242
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 244
+            }
+          },
+          "m_sharedMaterial": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 32
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 43
+            }
+          },
+          "m_fontSizeMin": {
+            "before": 18.0,
+            "after": 1.0
+          },
+          "m_fontSizeMax": {
+            "before": 72.0,
+            "after": 2.5
+          },
+          "m_fontStyle": {
+            "before": 16,
+            "after": 0
+          },
+          "m_characterSpacing": {
+            "before": 9.899999618530273,
+            "after": 0.0
+          },
+          "m_lineSpacing": {
+            "before": -55.0,
+            "after": 0.0
+          }
+        }
+      },
+      {
+        "path_id": 3411,
+        "case": "latin_control",
+        "logical_text": "HP: 100",
+        "original_text": "VOLUME",
+        "fields": {
+          "m_text": {
+            "before": "VOLUME",
+            "after": "HP: 100"
+          },
+          "m_fontAsset": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 242
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 244
+            }
+          },
+          "m_sharedMaterial": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 32
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 43
+            }
+          },
+          "m_fontSizeMin": {
+            "before": 18.0,
+            "after": 1.0
+          },
+          "m_fontSizeMax": {
+            "before": 72.0,
+            "after": 2.5
+          },
+          "m_fontStyle": {
+            "before": 16,
+            "after": 0
+          },
+          "m_characterSpacing": {
+            "before": 33.099998474121094,
+            "after": 0.0
+          },
+          "m_lineSpacing": {
+            "before": -55.0,
+            "after": 0.0
+          }
+        }
+      },
+      {
+        "path_id": 3446,
+        "case": "mixed_title",
+        "logical_text": "Blue Prince - \u0627\u0644\u0623\u0645\u064a\u0631 \u0627\u0644\u0623\u0632\u0631\u0642",
+        "original_text": "GRAPHICS",
+        "fields": {
+          "m_text": {
+            "before": "GRAPHICS",
+            "after": "\ufed5\ufead\ufeaf\ufef7\ufe8d \ufeae\ufef4\ufee3\ufef7\ufe8d - Blue Prince"
+          },
+          "m_fontAsset": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 242
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 244
+            }
+          },
+          "m_sharedMaterial": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 32
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 43
+            }
+          },
+          "m_enableAutoSizing": {
+            "before": 0,
+            "after": 1
+          },
+          "m_fontSizeMin": {
+            "before": 18.0,
+            "after": 1.0
+          },
+          "m_fontSizeMax": {
+            "before": 72.0,
+            "after": 2.5
+          },
+          "m_fontStyle": {
+            "before": 16,
+            "after": 0
+          },
+          "m_characterSpacing": {
+            "before": 18.6200008392334,
+            "after": 0.0
+          },
+          "m_lineSpacing": {
+            "before": -55.0,
+            "after": 0.0
+          }
+        }
+      },
+      {
+        "path_id": 3456,
+        "case": "wrapping",
+        "logical_text": "\u0647\u0630\u0627 \u0627\u062e\u062a\u0628\u0627\u0631 \u0637\u0648\u064a\u0644 \u0644\u0644\u062a\u0623\u0643\u062f \u0645\u0646 \u0623\u0646 \u0627\u0644\u0646\u0635 \u0627\u0644\u0639\u0631\u0628\u064a \u064a\u0644\u062a\u0641 \u062f\u0627\u062e\u0644 \u0645\u0633\u0627\u062d\u0629 \u0627\u0644\u0648\u0627\u062c\u0647\u0629 \u0628\u0634\u0643\u0644 \u0635\u062d\u064a\u062d \u0648\u0644\u0627 \u064a\u062e\u0631\u062c \u062e\u0627\u0631\u062c \u062d\u062f\u0648\u062f \u0627\u0644\u0639\u0646\u0635\u0631.",
+        "original_text": "RETURN",
+        "fields": {
+          "m_text": {
+            "before": "RETURN",
+            "after": ".\ufeae\ufebc\ufee8\ufecc\ufedf\ufe8d \ufea9\ufeed\ufeaa\ufea3 \ufe9d\ufead\ufe8e\ufea7 \ufe9d\ufeae\ufea8\ufef3 \ufefb\ufeed \ufea2\ufef4\ufea4\ufebb \ufede\ufedc\ufeb8\ufe91 \ufe94\ufeec\ufe9f\ufe8d\ufeee\ufedf\ufe8d \ufe94\ufea3\ufe8e\ufeb4\ufee3 \ufede\ufea7\ufe8d\ufea9 \ufed2\ufe98\ufee0\ufef3 \ufef2\ufe91\ufeae\ufecc\ufedf\ufe8d \ufeba\ufee8\ufedf\ufe8d \ufee5\ufe83 \ufee6\ufee3 \ufeaa\ufedb\ufe84\ufe98\ufee0\ufedf \ufede\ufef3\ufeee\ufec3 \ufead\ufe8e\ufe92\ufe98\ufea7\ufe8d \ufe8d\ufeac\ufeeb"
+          },
+          "m_fontAsset": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 242
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 244
+            }
+          },
+          "m_sharedMaterial": {
+            "before": {
+              "m_FileID": 2,
+              "m_PathID": 32
+            },
+            "after": {
+              "m_FileID": 2,
+              "m_PathID": 43
+            }
+          },
+          "m_enableAutoSizing": {
+            "before": 0,
+            "after": 1
+          },
+          "m_fontSizeMin": {
+            "before": 18.0,
+            "after": 1.0
+          },
+          "m_fontSizeMax": {
+            "before": 72.0,
+            "after": 2.5
+          },
+          "m_fontStyle": {
+            "before": 16,
+            "after": 0
+          },
+          "m_characterSpacing": {
+            "before": 36.20000076293945,
+            "after": 0.0
+          },
+          "m_lineSpacing": {
+            "before": -55.0,
+            "after": 0.0
+          }
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,2 @@
+- [Blue Prince Arabic workflow](blue-prince-arabic-workflow.md) — BepInEx plugin approach, batch translation tools, gotchas
+- [Blue Prince batch/validator gotchas](blue-prince-translation-batch-gotchas.md) — tr_prefix startswith trap, key/?? rules, keep.json, settled terms, tiers 0/1/3 done

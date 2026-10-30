@@ -1,0 +1,636 @@
+Continue the existing Arabic localization project for **Blue Prince**.
+
+## Existing paths
+
+Original game:
+
+```text
+D:\Games\Blue Prince
+```
+
+Localization workspace:
+
+```text
+D:\Games\Blue Prince_AR
+```
+
+## Confirmed current state
+
+The initial investigation is complete.
+
+Confirmed findings:
+
+- Engine: **Unity 2021.3.45f1**
+- Text systems include:
+  - localization tables
+  - TextMeshPro UI
+  - PlayMaker
+- 20,815 text occurrences were extracted.
+- That number includes duplicates, individual characters, technical/internal strings, and non-translatable content.
+- The game already contains **Noto Naskh Arabic**.
+- The Arabic font is not connected to most UI text.
+- Two experimental localization builds were prepared.
+- Seven Arabic strings are currently used for the rendering POC.
+- Extraction/re-saving integrity checks passed.
+- All 56 original game files were verified by hashes.
+- The original game installation has NOT been modified.
+
+Still unverified:
+
+- Arabic glyph rendering in-game
+- Arabic shaping
+- RTL
+- BiDi
+- wrapping
+- clipping
+- alignment
+- progressive/typewriter rendering
+- mixed Arabic/English/numbers
+- font fallback behavior
+
+Do NOT begin full translation yet.
+
+---
+
+# PRIMARY GOAL
+
+Validate the Arabic rendering architecture inside an isolated test copy of the game.
+
+The purpose of this phase is to determine whether the current Arabic approach is technically viable before translating thousands of strings.
+
+---
+
+# SAFETY
+
+The following directory remains strictly READ-ONLY:
+
+```text
+D:\Games\Blue Prince
+```
+
+Do not modify it.
+
+Create/use a separate runtime test copy.
+
+Recommended structure:
+
+```text
+D:\Games\Blue Prince_AR\runtime_test\
+```
+
+or another isolated location under the localization project.
+
+Do NOT:
+
+- overwrite original game files
+- delete originals
+- patch DRM
+- modify Steam authentication
+- publish anything
+- push anything
+- create Git commits
+- begin mass translation
+
+All experiments must happen on copies.
+
+---
+
+# STEP 1 — PREPARE ISOLATED GAME TEST COPY
+
+Create an isolated test installation from:
+
+```text
+D:\Games\Blue Prince
+```
+
+Record:
+
+- copied files
+- source hashes
+- test-copy hashes
+- modified files
+- modification reason
+
+The test copy must be disposable.
+
+Do not mix experimental files with the original installation.
+
+---
+
+# STEP 2 — IDENTIFY THE TWO POC BUILDS
+
+Inspect the two previously prepared experimental Arabic variants.
+
+Document exactly how they differ.
+
+For each variant record:
+
+```text
+Variant name:
+Modified assets:
+Modified objects:
+Font:
+Text component:
+RTL method:
+Shaping method:
+Fallback behavior:
+Expected result:
+```
+
+Do not test both blindly without understanding the difference.
+
+Determine which variant should be tested first.
+
+---
+
+# STEP 3 — DESIGN A STRONG ARABIC TEST MATRIX
+
+The current seven strings should cover all critical Arabic cases.
+
+If the existing strings do not cover these cases, update ONLY the isolated POC.
+
+Use test strings such as:
+
+```text
+مرحبا بك في القصر
+```
+
+```text
+لا تفتح هذا الباب
+```
+
+```text
+الغرفة رقم 27
+```
+
+```text
+اضغط E لفتح الباب
+```
+
+```text
+HP: 100
+```
+
+```text
+Blue Prince - الأمير الأزرق
+```
+
+```text
+هذا اختبار طويل للتأكد من أن النص العربي يلتف داخل مساحة الواجهة بشكل صحيح ولا يخرج خارج حدود العنصر.
+```
+
+Also explicitly include:
+
+```text
+لا
+لأ
+لإ
+لآ
+```
+
+These are useful for detecting broken shaping and lam-alef behavior.
+
+---
+
+# STEP 4 — FONT VALIDATION
+
+Investigate the existing:
+
+**Noto Naskh Arabic**
+
+Determine:
+
+- exact Unity/TMP font asset
+- source font
+- glyph atlas
+- whether it is static or dynamic
+- fallback configuration
+- material
+- atlas texture
+- character table
+- glyph table
+- whether Arabic shaping forms exist
+- whether punctuation/digits are included
+
+Determine why most UI elements do not use it.
+
+Map:
+
+```text
+UI component
+-> TMP font asset
+-> fallback asset
+-> Arabic-capable asset
+```
+
+Do not globally replace fonts yet.
+
+First establish the dependency graph.
+
+---
+
+# STEP 5 — TEXTMESHPRO INVESTIGATION
+
+Because TextMeshPro is confirmed, inspect relevant TMP components.
+
+Determine whether Arabic failure comes from:
+
+- missing glyphs
+- font assignment
+- shaping
+- BiDi
+- alignment
+- TMP preprocessing
+- custom scripts
+- localization preprocessing
+- PlayMaker string manipulation
+
+For the POC UI object, capture relevant TMP properties.
+
+At minimum inspect:
+
+```text
+font
+fontSize
+alignment
+isRightToLeftText
+enableWordWrapping
+overflowMode
+richText
+characterSpacing
+wordSpacing
+lineSpacing
+text
+```
+
+If serialized property names differ in Unity 2021.3.45f1, use the actual names.
+
+Do not assume `isRightToLeftText` alone provides correct Arabic shaping.
+
+Prove behavior.
+
+---
+
+# STEP 6 — FIRST RUNTIME TEST
+
+Install POC Variant A into the isolated test copy.
+
+Launch the isolated test copy only.
+
+Do NOT launch the untouched original installation.
+
+Navigate to every location containing one of the seven test strings.
+
+For each visible string record:
+
+```text
+String:
+Location:
+Visible: PASS/FAIL
+Arabic glyphs: PASS/FAIL
+Joining/shaping: PASS/FAIL
+RTL order: PASS/FAIL
+Mixed text: PASS/FAIL/N/A
+Wrapping: PASS/FAIL/N/A
+Clipping: PASS/FAIL/N/A
+Alignment: PASS/FAIL
+Font appearance: PASS/FAIL
+Notes:
+```
+
+---
+
+# STEP 7 — SCREENSHOT EVIDENCE
+
+Capture screenshots of every important result.
+
+Store under:
+
+```text
+D:\Games\Blue Prince_AR\tests\screenshots\
+```
+
+Use descriptive names, for example:
+
+```text
+poc_a_menu_arabic.png
+poc_a_mixed_text.png
+poc_a_wrapping.png
+poc_a_lamalef.png
+```
+
+Do not rely only on textual assumptions.
+
+Screenshots are part of the test evidence.
+
+---
+
+# STEP 8 — VISUAL ANALYSIS
+
+Inspect screenshots carefully.
+
+Correct Arabic must resemble:
+
+```text
+مرحبا بك
+```
+
+and NOT visually behave as disconnected or incorrectly ordered letters.
+
+Explicitly detect:
+
+## Broken shaping
+
+Example symptom:
+
+```text
+م ر ح ب ا
+```
+
+or separate Arabic glyph forms.
+
+## Broken direction
+
+Arabic sentence appears visually reversed.
+
+## Broken BiDi
+
+Examples such as:
+
+```text
+E اضغط
+```
+
+appearing in the wrong visual order.
+
+## Broken numbers
+
+Check:
+
+```text
+الغرفة رقم 27
+```
+
+Number order must remain correct.
+
+## Broken punctuation
+
+Test:
+
+```text
+مرحبا، كيف حالك؟
+```
+
+## Broken wrapping
+
+Arabic lines must wrap naturally.
+
+---
+
+# STEP 9 — VARIANT B
+
+Only if Variant A does not fully solve Arabic rendering, test Variant B.
+
+Repeat the same test matrix.
+
+Do not mix changes from Variant A and Variant B.
+
+Keep results isolated.
+
+Compare:
+
+```text
+A vs B
+```
+
+for:
+
+- shaping
+- RTL
+- BiDi
+- fonts
+- UI
+- stability
+- implementation complexity
+
+Choose the better architecture based on evidence.
+
+---
+
+# STEP 10 — PLAYMAKER ANALYSIS
+
+Because PlayMaker is present, determine whether it modifies displayed text.
+
+Search for actions involving:
+
+```text
+Set String
+Build String
+Format String
+Substring
+Replace
+Get Length
+String Join
+GUI Text
+TMP
+Localization
+```
+
+Identify whether PlayMaker performs:
+
+- substring operations
+- progressive display
+- text replacement
+- dynamic concatenation
+
+This is important because Arabic shaping can break if strings are manipulated after preprocessing.
+
+Do not patch all PlayMaker states.
+
+Only identify relevant paths first.
+
+---
+
+# STEP 11 — TYPEWRITER / PROGRESSIVE TEXT
+
+Search specifically for any system that reveals characters progressively.
+
+Look for logic similar to:
+
+```text
+Substring(0, n)
+```
+
+or:
+
+```text
+text = fullText[..index]
+```
+
+or coroutine-based character reveals.
+
+If such a system exists, determine whether Arabic text:
+
+- reveals visually from the correct side
+- preserves shaping during reveal
+- breaks joining forms
+- reverses punctuation
+
+Create a dedicated test if possible.
+
+If no progressive text system exists, mark:
+
+```text
+TYPEWRITER: N/A
+```
+
+Do not invent a problem that is not present.
+
+---
+
+# STEP 12 — DETERMINE ACTUAL ARABIC STRATEGY
+
+At the end of runtime testing, classify the rendering architecture.
+
+Choose one of:
+
+```text
+A. Native Unity/TMP Arabic rendering works
+B. Native rendering works after font/fallback changes
+C. RTL works but shaping needs preprocessing
+D. Shaping works but BiDi needs preprocessing
+E. Both shaping and BiDi require preprocessing
+F. Custom runtime solution required
+G. Unknown / blocked
+```
+
+Do not choose based on theory.
+
+Use runtime evidence.
+
+---
+
+# STEP 13 — DO NOT MASS-TRANSLATE YET
+
+Even if Arabic appears successfully, do not immediately translate all 20,815 extracted occurrences.
+
+The extraction dataset still needs filtering.
+
+The next phase after successful Arabic rendering will be:
+
+```text
+20,815 raw occurrences
+↓
+deduplication
+↓
+technical-string filtering
+↓
+context classification
+↓
+actual translatable corpus
+```
+
+That is a separate milestone.
+
+---
+
+# REPORTING
+
+Update:
+
+```text
+D:\Games\Blue Prince_AR\state\STATUS.md
+D:\Games\Blue Prince_AR\state\PROBLEMS.md
+D:\Games\Blue Prince_AR\state\ARCHITECTURE.md
+D:\Games\Blue Prince_AR\state\NEXT_STEPS.md
+```
+
+Also create the next sequential report:
+
+```text
+reports\report_XXX.md
+```
+
+Do not overwrite an existing report.
+
+The report must be usable as a handoff to another AI without requiring previous chat history.
+
+---
+
+# REQUIRED FINAL RESULT
+
+Return a concise summary in this exact structure:
+
+```text
+RUNTIME TEST COPY: PASS / FAIL
+
+VARIANT A:
+Launch:
+Arabic glyphs:
+Arabic shaping:
+RTL:
+BiDi:
+Mixed Arabic/English:
+Numbers:
+Punctuation:
+Wrapping:
+Clipping:
+Alignment:
+Typewriter:
+Stability:
+
+VARIANT B:
+Tested: YES / NO
+Launch:
+Arabic glyphs:
+Arabic shaping:
+RTL:
+BiDi:
+Mixed Arabic/English:
+Numbers:
+Punctuation:
+Wrapping:
+Clipping:
+Alignment:
+Typewriter:
+Stability:
+
+FONT:
+Arabic font asset:
+Fallback:
+Main issue:
+
+TEXTMESHPRO:
+RTL support:
+Shaping support:
+Relevant settings:
+
+PLAYMAKER:
+Affects displayed text:
+Progressive text detected:
+
+BEST IMPLEMENTATION:
+Reason:
+
+BLOCKERS:
+
+FILES MODIFIED IN TEST COPY:
+
+ORIGINAL GAME MODIFIED:
+NO
+
+NEXT ACTION:
+```
+
+## Decision rule
+
+🟩 If glyphs + shaping + RTL + BiDi are all correct:
+Proceed next to corpus filtering and localization pipeline design.
+
+🟨 If Arabic displays but shaping/RTL/BiDi is partially broken:
+Stop before mass translation and solve the renderer/preprocessing architecture.
+
+🟥 If testing would require executable patching, DRM modification, destructive changes, or modifying the original installation:
+Do not perform it. Document the blocker and seek a safer method.
+
+Continue autonomously through all safe tests. Do not ask the user to choose between obvious technical approaches.

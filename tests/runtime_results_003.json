@@ -1,0 +1,53 @@
+{
+  "runtime_copy": "PASS_56_FILES_VERIFIED",
+  "variant_a": {
+    "launch": "PASS_USER_IMAGE",
+    "glyphs": "PASS",
+    "shaping": "FAIL",
+    "rtl": "FAIL",
+    "bidi": "FAIL",
+    "mixed": "FAIL_OR_PARTIAL",
+    "numbers": "FAIL_27_BECAME_72",
+    "punctuation": "NOT_TESTED",
+    "wrapping": "NOT_TESTED",
+    "clipping": "NOT_FULLY_TESTED",
+    "alignment": "PARTIAL",
+    "typewriter": "NOT_TESTED",
+    "stability": "NOT_ASSESSED",
+    "evidence": [
+      "tests/screenshots/poc_a_user_menu.png"
+    ]
+  },
+  "variant_b": {
+    "tested": true,
+    "launch": "PASS",
+    "glyphs": "PASS_SAMPLED",
+    "shaping": "PASS_SAMPLED",
+    "rtl": "PASS_STATIC_SAMPLED",
+    "bidi": "PASS_STATIC_SAMPLED",
+    "mixed": "PASS_E_AND_BLUE_PRINCE",
+    "numbers": "PASS_27_AND_100",
+    "punctuation": "PASS_LAMALEF_PROBE",
+    "wrapping": "FAIL_AUTOWRAP_THEN_PASS_EXPLICIT_LOGICAL_LINES",
+    "clipping": "FAIL_INITIAL_LAYOUT_THEN_PASS_V4_SAMPLE",
+    "alignment": "PASS_SAMPLED_CENTERED_UI",
+    "typewriter": "BLOCKED_INCONCLUSIVE_CONTROL",
+    "stability": "PASS_TESTED_MENU_SESSIONS_ONLY",
+    "evidence": [
+      "tests/screenshots/poc_b_menu_arabic.png",
+      "tests/screenshots/poc_b_mixed_and_wrapping_failure.png",
+      "tests/screenshots/poc_b_lamalef_punctuation.png",
+      "tests/screenshots/poc_b_v4_typewriter_04.png",
+      "tests/screenshots/poc_b_v5_control_04.png"
+    ]
+  },
+  "static_strategy": "E: shaping and BiDi preprocessing, after logical wrapping",
+  "overall_strategy": "G: full dynamic/reveal architecture remains unverified",
+  "typewriter_conclusion": "The injected menu probe did not provide a valid progressive control in either language. This is not proof that Arabic reveal itself failed.",
+  "preferred_current_build": "build/arabic_menu_poc/BLUE PRINCE_Data/level1",
+  "current_staged_build": "arabic_menu",
+  "final_menu_runtime_test": "NOT_TESTED",
+  "user_constraint": "Continue offline; do not launch the game again without an explicit later user instruction.",
+  "full_translation_started": false,
+  "original_game_modified": false
+}

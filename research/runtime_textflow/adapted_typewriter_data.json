@@ -1,0 +1,819 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 170
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4508
+  },
+  "m_Name": "",
+  "fsm": {
+    "dataVersion": 2,
+    "usedInTemplate": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "name": "Arabic typewriter POC only",
+    "startState": "State 4",
+    "states": [
+      {
+        "name": "State 4",
+        "description": "",
+        "colorIndex": 0,
+        "position": {
+          "m_XMin": 236.203125,
+          "m_YMin": 108.6171875,
+          "m_Width": 100.0,
+          "m_Height": 16.0
+        },
+        "isBreakpoint": false,
+        "isSequence": false,
+        "hideUnused": false,
+        "transitions": [],
+        "actionData": {
+          "actionNames": [
+            "HutongGames.PlayMaker.Actions.StringTypewriter",
+            "HutongGames.PlayMaker.Actions.SetProperty"
+          ],
+          "customNames": [
+            "",
+            ""
+          ],
+          "actionEnabled": [
+            true,
+            true
+          ],
+          "actionIsOpen": [
+            true,
+            true
+          ],
+          "actionStartIndex": [
+            0,
+            13
+          ],
+          "actionHashCodes": [
+            87781739,
+            72534106
+          ],
+          "unityObjectParams": [],
+          "fsmGameObjectParams": [],
+          "fsmOwnerDefaultParams": [
+            {
+              "ownerOption": 0,
+              "gameObject": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                }
+              }
+            }
+          ],
+          "animationCurveParams": [],
+          "functionCallParams": [],
+          "fsmTemplateControlParams": [],
+          "fsmEventTargetParams": [],
+          "fsmPropertyParams": [
+            {
+              "TargetObject": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "typeName": "UnityEngine.Object",
+                "value": {
+                  "m_FileID": 0,
+                  "m_PathID": 3411
+                }
+              },
+              "TargetTypeName": "TMPro.TextMeshPro",
+              "TargetType": {},
+              "PropertyName": "text",
+              "PropertyType": {},
+              "BoolParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": false
+              },
+              "FloatParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": 0.0
+              },
+              "IntParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": 0
+              },
+              "GameObjectParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                }
+              },
+              "StringParameter": {
+                "useVariable": true,
+                "name": "typing_text",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": ""
+              },
+              "Vector2Parameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": {
+                  "x": 0.0,
+                  "y": 0.0
+                }
+              },
+              "Vector3Parameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "RectParamater": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": {
+                  "m_XMin": 0.0,
+                  "m_YMin": 0.0,
+                  "m_Width": 0.0,
+                  "m_Height": 0.0
+                }
+              },
+              "QuaternionParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "w": 0.0
+                }
+              },
+              "ObjectParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "typeName": "System.String",
+                "value": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                }
+              },
+              "MaterialParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "typeName": "",
+                "value": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                }
+              },
+              "TextureParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "typeName": "",
+                "value": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                }
+              },
+              "ColorParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": {
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0,
+                  "a": 1.0
+                }
+              },
+              "EnumParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "enumName": "HutongGames.PlayMaker.None",
+                "intValue": 0
+              },
+              "ArrayParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "type": -1,
+                "objectTypeName": "UnityEngine.Object",
+                "floatValues": [],
+                "intValues": [],
+                "boolValues": [],
+                "stringValues": [],
+                "vector4Values": [],
+                "objectReferences": []
+              },
+              "setProperty": true
+            }
+          ],
+          "layoutOptionParams": [],
+          "fsmStringParams": [
+            {
+              "useVariable": false,
+              "name": "",
+              "tooltip": "",
+              "showInInspector": false,
+              "networkSync": false,
+              "value": "\u0645\u0631\u062d\u0628\u0627 \u0628\u0643 \u0641\u064a \u0627\u0644\u0642\u0635\u0631\u060c \u0627\u0644\u063a\u0631\u0641\u0629 \u0631\u0642\u0645 27."
+            },
+            {
+              "useVariable": true,
+              "name": "typing_text",
+              "tooltip": "",
+              "showInInspector": false,
+              "networkSync": false,
+              "value": ""
+            }
+          ],
+          "fsmObjectParams": [
+            {
+              "useVariable": false,
+              "name": "",
+              "tooltip": "",
+              "showInInspector": false,
+              "networkSync": false,
+              "typeName": "UnityEngine.AudioClip",
+              "value": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          ],
+          "fsmVarParams": [],
+          "fsmArrayParams": [],
+          "fsmEnumParams": [],
+          "fsmFloatParams": [
+            {
+              "useVariable": false,
+              "name": "",
+              "tooltip": "",
+              "showInInspector": false,
+              "networkSync": false,
+              "value": 0.25
+            },
+            {
+              "useVariable": false,
+              "name": "",
+              "tooltip": "",
+              "showInInspector": false,
+              "networkSync": false,
+              "value": 1.0
+            },
+            {
+              "useVariable": false,
+              "name": "",
+              "tooltip": "",
+              "showInInspector": false,
+              "networkSync": false,
+              "value": 1.0
+            }
+          ],
+          "fsmIntParams": [],
+          "fsmBoolParams": [
+            {
+              "useVariable": false,
+              "name": "",
+              "tooltip": "",
+              "showInInspector": false,
+              "networkSync": false,
+              "value": false
+            }
+          ],
+          "fsmVector2Params": [],
+          "fsmVector3Params": [],
+          "fsmColorParams": [],
+          "fsmRectParams": [],
+          "fsmQuaternionParams": [],
+          "stringParams": [
+            "",
+            "     Optional Sounds Section:"
+          ],
+          "byteData": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "arrayParamSizes": [],
+          "arrayParamTypes": [],
+          "customTypeSizes": [],
+          "customTypeNames": [],
+          "paramDataType": [
+            18,
+            18,
+            15,
+            15,
+            15,
+            17,
+            1,
+            23,
+            3,
+            1,
+            1,
+            24,
+            20,
+            36,
+            1
+          ],
+          "paramName": [
+            "baseString",
+            "resultString",
+            "pause",
+            "punctuationMultiplier",
+            "speedMultiplier",
+            "realtime",
+            "richText",
+            "finishEvent",
+            "d1",
+            "useSounds",
+            "noSoundOnSpaces",
+            "typingSound",
+            "audioSourceObj",
+            "targetProperty",
+            "everyFrame"
+          ],
+          "paramDataPos": [
+            0,
+            1,
+            0,
+            1,
+            2,
+            0,
+            0,
+            0,
+            1,
+            1,
+            2,
+            0,
+            0,
+            0,
+            3
+          ],
+          "paramByteDataSize": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1
+          ]
+        }
+      },
+      {
+        "name": "Clear Em All",
+        "description": "",
+        "colorIndex": 0,
+        "position": {
+          "m_XMin": 56.0,
+          "m_YMin": 111.0,
+          "m_Width": 106.0,
+          "m_Height": 32.0
+        },
+        "isBreakpoint": false,
+        "isSequence": false,
+        "hideUnused": false,
+        "transitions": [
+          {
+            "fsmEvent": {
+              "name": "FINISHED",
+              "isSystemEvent": true,
+              "isGlobal": false
+            },
+            "toState": "State 4",
+            "linkStyle": 0,
+            "linkConstraint": 0,
+            "linkTarget": 0,
+            "colorIndex": 0
+          }
+        ],
+        "actionData": {
+          "actionNames": [
+            "HutongGames.PlayMaker.Actions.SetProperty"
+          ],
+          "customNames": [
+            ""
+          ],
+          "actionEnabled": [
+            true
+          ],
+          "actionIsOpen": [
+            true
+          ],
+          "actionStartIndex": [
+            0
+          ],
+          "actionHashCodes": [
+            72534106
+          ],
+          "unityObjectParams": [],
+          "fsmGameObjectParams": [],
+          "fsmOwnerDefaultParams": [],
+          "animationCurveParams": [],
+          "functionCallParams": [],
+          "fsmTemplateControlParams": [],
+          "fsmEventTargetParams": [],
+          "fsmPropertyParams": [
+            {
+              "TargetObject": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "typeName": "UnityEngine.Object",
+                "value": {
+                  "m_FileID": 0,
+                  "m_PathID": 3411
+                }
+              },
+              "TargetTypeName": "TMPro.TextMeshPro",
+              "TargetType": {},
+              "PropertyName": "text",
+              "PropertyType": {},
+              "BoolParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": false
+              },
+              "FloatParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": 0.0
+              },
+              "IntParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": 0
+              },
+              "GameObjectParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                }
+              },
+              "StringParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": ""
+              },
+              "Vector2Parameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": {
+                  "x": 0.0,
+                  "y": 0.0
+                }
+              },
+              "Vector3Parameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "RectParamater": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": {
+                  "m_XMin": 0.0,
+                  "m_YMin": 0.0,
+                  "m_Width": 0.0,
+                  "m_Height": 0.0
+                }
+              },
+              "QuaternionParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "w": 0.0
+                }
+              },
+              "ObjectParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "typeName": "System.String",
+                "value": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                }
+              },
+              "MaterialParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "typeName": "",
+                "value": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                }
+              },
+              "TextureParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "typeName": "",
+                "value": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                }
+              },
+              "ColorParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "value": {
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0,
+                  "a": 1.0
+                }
+              },
+              "EnumParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "enumName": "HutongGames.PlayMaker.None",
+                "intValue": 0
+              },
+              "ArrayParameter": {
+                "useVariable": false,
+                "name": "",
+                "tooltip": "",
+                "showInInspector": false,
+                "networkSync": false,
+                "type": -1,
+                "objectTypeName": "UnityEngine.Object",
+                "floatValues": [],
+                "intValues": [],
+                "boolValues": [],
+                "stringValues": [],
+                "vector4Values": [],
+                "objectReferences": []
+              },
+              "setProperty": true
+            }
+          ],
+          "layoutOptionParams": [],
+          "fsmStringParams": [],
+          "fsmObjectParams": [],
+          "fsmVarParams": [],
+          "fsmArrayParams": [],
+          "fsmEnumParams": [],
+          "fsmFloatParams": [],
+          "fsmIntParams": [],
+          "fsmBoolParams": [],
+          "fsmVector2Params": [],
+          "fsmVector3Params": [],
+          "fsmColorParams": [],
+          "fsmRectParams": [],
+          "fsmQuaternionParams": [],
+          "stringParams": [],
+          "byteData": [
+            0
+          ],
+          "arrayParamSizes": [],
+          "arrayParamTypes": [],
+          "customTypeSizes": [],
+          "customTypeNames": [],
+          "paramDataType": [
+            36,
+            1
+          ],
+          "paramName": [
+            "targetProperty",
+            "everyFrame"
+          ],
+          "paramDataPos": [
+            0,
+            0
+          ],
+          "paramByteDataSize": [
+            0,
+            1
+          ]
+        }
+      }
+    ],
+    "events": [
+      {
+        "name": "FINISHED",
+        "isSystemEvent": true,
+        "isGlobal": false
+      }
+    ],
+    "globalTransitions": [],
+    "variables": {
+      "floatVariables": [],
+      "intVariables": [],
+      "boolVariables": [],
+      "stringVariables": [
+        {
+          "useVariable": true,
+          "name": "typing text 2",
+          "tooltip": "",
+          "showInInspector": false,
+          "networkSync": false,
+          "value": ""
+        },
+        {
+          "useVariable": true,
+          "name": "typing_text",
+          "tooltip": "",
+          "showInInspector": false,
+          "networkSync": false,
+          "value": ""
+        },
+        {
+          "useVariable": true,
+          "name": "typing_text3",
+          "tooltip": "",
+          "showInInspector": false,
+          "networkSync": false,
+          "value": ""
+        }
+      ],
+      "vector2Variables": [],
+      "vector3Variables": [],
+      "colorVariables": [],
+      "rectVariables": [],
+      "quaternionVariables": [],
+      "gameObjectVariables": [],
+      "objectVariables": [],
+      "materialVariables": [],
+      "textureVariables": [],
+      "arrayVariables": [],
+      "enumVariables": [],
+      "categories": [
+        ""
+      ],
+      "variableCategoryIDs": [
+        0,
+        0,
+        0
+      ]
+    },
+    "description": "",
+    "docUrl": "",
+    "showStateLabel": false,
+    "maxLoopCount": 0,
+    "watermark": "",
+    "password": "",
+    "locked": false,
+    "manualUpdate": false,
+    "outVariableIndices": [],
+    "keepDelayedEventsOnStateExit": false,
+    "preprocessed": true,
+    "ExposedEvents": [],
+    "OutputEvents": [],
+    "RestartOnEnable": true,
+    "ResetVariablesOnEnable": false,
+    "EnableDebugFlow": false,
+    "EnableBreakpoints": true,
+    "editorFlags": 1,
+    "activeStateName": "",
+    "mouseEvents": false,
+    "handleLevelLoaded": false,
+    "handleTriggerEnter2D": false,
+    "handleTriggerExit2D": false,
+    "handleTriggerStay2D": false,
+    "handleCollisionEnter2D": false,
+    "handleCollisionExit2D": false,
+    "handleCollisionStay2D": false,
+    "handleTriggerEnter": false,
+    "handleTriggerExit": false,
+    "handleTriggerStay": false,
+    "handleCollisionEnter": false,
+    "handleCollisionExit": false,
+    "handleCollisionStay": false,
+    "handleParticleCollision": false,
+    "handleControllerColliderHit": false,
+    "handleJointBreak": false,
+    "handleJointBreak2D": false,
+    "handleOnGUI": false,
+    "handleFixedUpdate": false,
+    "handleLateUpdate": false,
+    "handleApplicationEvents": false,
+    "handleUiEvents": 0,
+    "handleLegacyNetworking": false,
+    "handleAnimatorMove": false,
+    "handleAnimatorIK": false
+  },
+  "fsmTemplate": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "eventHandlerComponentsAdded": true
+}

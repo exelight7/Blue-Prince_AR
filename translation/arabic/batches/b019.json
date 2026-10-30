@@ -1,0 +1,18 @@
+{
+"The permissions of this terminal\ndo not allow for access to the\nElectronic Mail account.": "صلاحيات هذا الجهاز\nلا تسمح بالوصول إلى\nحساب البريد الإلكتروني.",
+"The permissions of this terminal\ndo not allow for access to the\nElectronic Mail account.\n\nCurrently this feature can only be\naccessed via the terminal located\nin <b>THE OFFICE</b>": "صلاحيات هذا الجهاز\nلا تسمح بالوصول إلى\nحساب البريد الإلكتروني.\n\nحاليًا لا يمكن الوصول إلى هذه الميزة\nإلا عبر الجهاز الموجود\nفي <b>المكتب</b>",
+"is currently OFFLINE.\n\nWould you like to connect\nto this terminal using a\nBLACKBRIDGE connection?": "غير متصل حاليًا.\n\nهل تريد الاتصال\nبهذا الجهاز عبر\nاتصال BLACKBRIDGE؟",
+"more detailed instructions will be sent by electronic mail to the address client has provided": "سيتم إرسال تعليمات أكثر تفصيلًا عبر البريد الإلكتروني إلى العنوان الذي قدمه العميل",
+"1. Staff Services\n\n2. Remote Terminal Access\n\n3. Electronic Mail\n\n4. Data Transfers\n\n5. Glossary (Locked during House Tour)\n\n6. Log Out": "1. خدمات الموظفين\n\n2. الوصول إلى الجهاز عن بُعد\n\n3. البريد الإلكتروني\n\n4. نقل البيانات\n\n5. المسرد (مقفل أثناء جولة المنزل)\n\n6. تسجيل الخروج",
+"1. Staff Services\n\n2. Remote Terminal Access\n\n3. Electronic Mail\n\n4. Data Transfers\n\n5. Glossary of Terms\n\n6. Log Out": "1. خدمات الموظفين\n\n2. الوصول إلى الجهاز عن بُعد\n\n3. البريد الإلكتروني\n\n4. نقل البيانات\n\n5. المسرد (مقفل أثناء جولة المنزل)\n\n6. تسجيل الخروج",
+"Change the master volume of the game using the slider above.\nPress              when you are done.": "غيّر مستوى الصوت العام للعبة باستخدام المنزلق أعلاه.\nاضغط              عند الانتهاء.",
+"INBOUND | OUTBOUND CONNECTIONS\nAND ELECTRONIC MAIL COMMUNICATIONS\nOUTSIDE OF THE LOCAL NETWORK HAVE\nBEEN TEMPORARILY DISABLED.": "الاتصالات الواردة | الصادرة\nواتصالات البريد الإلكتروني\nخارج الشبكة المحلية\nمعطّلة مؤقتًا.",
+"If you have created a BLACKBRIDGE BACKUP, you can restore it to any empty save slot.": "إن كنت قد أنشأت نسخة BLACKBRIDGE احتياطية، يمكنك استعادتها إلى أي خانة حفظ فارغة.",
+"THE TRUE TREASURE OF THE TROVE IS NOT IN THIS ROOM.": "الكنز الحقيقي في الكنز الدفين موجود في هذه الغرفة لكنه ليس في المنزل.",
+"THE TRUE TREASURE OF THE TROVE IS IN THIS ROOM BUT IS NOT IN THE HOUSE.": "الكنز الحقيقي في الكنز الدفين موجود في هذه الغرفة لكنه ليس في المنزل.",
+"There is an experiment already\n<i>paused</i> at the moment.\n\nWould you like to resume this\nexperiment?": "هناك تجربة\n<i>متوقفة</i> حاليًا.\n\nهل تريد استئناف هذه\nالتجربة؟",
+"You would like the <b>Commissary</b> to\norder:\n\n\n\nThis order is estimated take\n     days.\n\nIs this ok?": "تريد من <b>المتجر</b>\nأن يطلب:\n\n\n\nيُقدَّر أن يستغرق هذا الطلب\n     أيام.\n\nهل هذا مناسب؟",
+" After you draft a <color=#CD1616>RED ROOM</color>, if \n<size=1> </size>you have at least 5 different ranks containing <color=#CD1616>RED ROOMS</color>, gain <size=2.6>5 \n": " بعد أن تختار <color=#CD1616>غرفة حمراء</color>، إذا \n<size=1> </size>كان لديك 5 صفوف مختلفة على الأقل تحوي <color=#CD1616>غرفًا حمراء</color>، اكسب <size=2.6>5 \n",
+"BRASS COMPASS\n\nMAGNIFYING GLASS\n\nMETAL DETECTOR\n\nRUNNING SHOES\n\nSHOVEL\n\nSLEEPING MASK\n\nSLEDGE HAMMER\n\n\nRETURN TO STAFF SERVICES": "البوصلة النحاسية\n\nالعدسة المكبرة\n\nكاشف المعادن\n\nحذاء الجري\n\nالمجرفة\n\nقناع النوم\n\nالمطرقة الثقيلة\n\n\nالعودة إلى خدمات الموظفين",
+"H. S. SINCLAIR\nAND ANNE BABBAGE\nARE THE ONLY\nTWO ON THE ESTATE\nWITH NETWORK\nADMIN ACCESS.": "ه. س. سنكلير\nوآن بابيدج\nهما الوحيدان\nفي العقار\nاللذان لديهما\nصلاحية إدارة الشبكة."
+}

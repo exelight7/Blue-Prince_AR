@@ -1,0 +1,135 @@
+{
+  "original_poc": [
+    {
+      "component": "level1:3357",
+      "font_file": "sharedassets1.assets",
+      "font_id": 256,
+      "font_name": "VersicaSerif SDF",
+      "fallback_legacy": [],
+      "fallback_table": [],
+      "arabic_characters": 0,
+      "presentation_characters": 0,
+      "arabic_reachable_direct": false
+    },
+    {
+      "component": "level1:3404",
+      "font_file": "sharedassets0.assets",
+      "font_id": 430,
+      "font_name": "Rank Font",
+      "fallback_legacy": [],
+      "fallback_table": [],
+      "arabic_characters": 0,
+      "presentation_characters": 0,
+      "arabic_reachable_direct": false
+    },
+    {
+      "component": "level1:3411",
+      "font_file": "sharedassets1.assets",
+      "font_id": 242,
+      "font_name": "CharcuterieBlock SDF",
+      "fallback_legacy": [],
+      "fallback_table": [],
+      "arabic_characters": 0,
+      "presentation_characters": 0,
+      "arabic_reachable_direct": false
+    },
+    {
+      "component": "level1:3481",
+      "font_file": "sharedassets1.assets",
+      "font_id": 242,
+      "font_name": "CharcuterieBlock SDF",
+      "fallback_legacy": [],
+      "fallback_table": [],
+      "arabic_characters": 0,
+      "presentation_characters": 0,
+      "arabic_reachable_direct": false
+    },
+    {
+      "component": "level1:3500",
+      "font_file": "sharedassets1.assets",
+      "font_id": 242,
+      "font_name": "CharcuterieBlock SDF",
+      "fallback_legacy": [],
+      "fallback_table": [],
+      "arabic_characters": 0,
+      "presentation_characters": 0,
+      "arabic_reachable_direct": false
+    },
+    {
+      "component": "level1:3534",
+      "font_file": "sharedassets1.assets",
+      "font_id": 242,
+      "font_name": "CharcuterieBlock SDF",
+      "fallback_legacy": [],
+      "fallback_table": [],
+      "arabic_characters": 0,
+      "presentation_characters": 0,
+      "arabic_reachable_direct": false
+    },
+    {
+      "component": "level1:3535",
+      "font_file": "sharedassets1.assets",
+      "font_id": 258,
+      "font_name": "angltrr SDF",
+      "fallback_legacy": [],
+      "fallback_table": [],
+      "arabic_characters": 0,
+      "presentation_characters": 0,
+      "arabic_reachable_direct": false
+    }
+  ],
+  "gamertag": {
+    "component": "level1:3399",
+    "font": 241,
+    "font_name": "CharcuterieBlock SDF Gamertag",
+    "fallback_table": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 244
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 245
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 246
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 247
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 248
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 249
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 250
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 251
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 252
+      }
+    ]
+  },
+  "global_settings": {
+    "m_defaultFontAsset": {
+      "m_FileID": 3,
+      "m_PathID": 428
+    },
+    "m_defaultFontAssetPath": "Fonts & Materials/",
+    "m_defaultFontSize": 36.0,
+    "m_fallbackFontAssets": []
+  },
+  "poc_direct_graph": "All 7 POC TMP objects -> sharedassets1:244 -> source Font211 / material43 -> atlas104; no fallback required or configured on244",
+  "status": "STATIC_EVIDENCE_ONLY"
+}

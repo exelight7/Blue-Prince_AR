@@ -1,0 +1,146 @@
+[
+  {
+    "path": "tests/screenshots/poc_a_user_menu.png",
+    "sha256": "64a294dfe5bce29afdb8a21fc57fcb6364f7f77cbf5bec082e9eace03397108e",
+    "bytes": 233866,
+    "width": 863,
+    "height": 700,
+    "format": "PNG"
+  },
+  {
+    "path": "tests/screenshots/poc_b_lamalef_punctuation.png",
+    "sha256": "0da5e47742c27fc9833066cc0e45aec84287e9b7a2ac581f82c2f2a4bca457a8",
+    "bytes": 158434,
+    "width": 1920,
+    "height": 1080,
+    "format": "JPEG"
+  },
+  {
+    "path": "tests/screenshots/poc_b_menu_arabic.png",
+    "sha256": "c30a89625cbb308732799bf126512c2d62babfcce916303fa963a011b36b574e",
+    "bytes": 159158,
+    "width": 1920,
+    "height": 1080,
+    "format": "JPEG"
+  },
+  {
+    "path": "tests/screenshots/poc_b_mixed_and_wrapping_failure.png",
+    "sha256": "b2afd0fc36991129011fec6a7c6a448414e08f26a262d98b083a88a86355de9f",
+    "bytes": 172772,
+    "width": 1920,
+    "height": 1080,
+    "format": "JPEG"
+  },
+  {
+    "path": "tests/screenshots/poc_b_typewriter_00.png",
+    "sha256": "50ce1596551cf4a68e5bdeaf77c6400e908777c3e83238928e2ea2d54a3bbc6c",
+    "bytes": 157255,
+    "width": 1920,
+    "height": 1080,
+    "format": "JPEG"
+  },
+  {
+    "path": "tests/screenshots/poc_b_typewriter_01.png",
+    "sha256": "1b8c2a8b3552ee2c87621d329d37b68dc1de9e586cc99268db0c1d14862b26c2",
+    "bytes": 170381,
+    "width": 1920,
+    "height": 1080,
+    "format": "JPEG"
+  },
+  {
+    "path": "tests/screenshots/poc_b_typewriter_02.png",
+    "sha256": "1b8c2a8b3552ee2c87621d329d37b68dc1de9e586cc99268db0c1d14862b26c2",
+    "bytes": 170381,
+    "width": 1920,
+    "height": 1080,
+    "format": "JPEG"
+  },
+  {
+    "path": "tests/screenshots/poc_b_typewriter_03.png",
+    "sha256": "1b8c2a8b3552ee2c87621d329d37b68dc1de9e586cc99268db0c1d14862b26c2",
+    "bytes": 170381,
+    "width": 1920,
+    "height": 1080,
+    "format": "JPEG"
+  },
+  {
+    "path": "tests/screenshots/poc_b_typewriter_04.png",
+    "sha256": "1b8c2a8b3552ee2c87621d329d37b68dc1de9e586cc99268db0c1d14862b26c2",
+    "bytes": 170381,
+    "width": 1920,
+    "height": 1080,
+    "format": "JPEG"
+  },
+  {
+    "path": "tests/screenshots/poc_b_user_settings.png",
+    "sha256": "992d4c8f8aab220e88230c6abe4d41b74c196936c5d58718a0e42ad1d284c566",
+    "bytes": 694376,
+    "width": 1166,
+    "height": 987,
+    "format": "PNG"
+  },
+  {
+    "path": "tests/screenshots/poc_b_v4_typewriter_01.png",
+    "sha256": "0eaf928070829b3772f1b1e3db2f44710a73feffc47fea9c915ce2852208548a",
+    "bytes": 166808,
+    "width": 1920,
+    "height": 1080,
+    "format": "JPEG"
+  },
+  {
+    "path": "tests/screenshots/poc_b_v4_typewriter_02.png",
+    "sha256": "0eaf928070829b3772f1b1e3db2f44710a73feffc47fea9c915ce2852208548a",
+    "bytes": 166808,
+    "width": 1920,
+    "height": 1080,
+    "format": "JPEG"
+  },
+  {
+    "path": "tests/screenshots/poc_b_v4_typewriter_03.png",
+    "sha256": "0eaf928070829b3772f1b1e3db2f44710a73feffc47fea9c915ce2852208548a",
+    "bytes": 166808,
+    "width": 1920,
+    "height": 1080,
+    "format": "JPEG"
+  },
+  {
+    "path": "tests/screenshots/poc_b_v4_typewriter_04.png",
+    "sha256": "0eaf928070829b3772f1b1e3db2f44710a73feffc47fea9c915ce2852208548a",
+    "bytes": 166808,
+    "width": 1920,
+    "height": 1080,
+    "format": "JPEG"
+  },
+  {
+    "path": "tests/screenshots/poc_b_v5_control_01.png",
+    "sha256": "2d5dfc8c9e9da9aaa1301b83d44f62144a5759065bfeded25d721e7e5adc2bc5",
+    "bytes": 165616,
+    "width": 1920,
+    "height": 1080,
+    "format": "JPEG"
+  },
+  {
+    "path": "tests/screenshots/poc_b_v5_control_02.png",
+    "sha256": "2d5dfc8c9e9da9aaa1301b83d44f62144a5759065bfeded25d721e7e5adc2bc5",
+    "bytes": 165616,
+    "width": 1920,
+    "height": 1080,
+    "format": "JPEG"
+  },
+  {
+    "path": "tests/screenshots/poc_b_v5_control_03.png",
+    "sha256": "2d5dfc8c9e9da9aaa1301b83d44f62144a5759065bfeded25d721e7e5adc2bc5",
+    "bytes": 165616,
+    "width": 1920,
+    "height": 1080,
+    "format": "JPEG"
+  },
+  {
+    "path": "tests/screenshots/poc_b_v5_control_04.png",
+    "sha256": "2d5dfc8c9e9da9aaa1301b83d44f62144a5759065bfeded25d721e7e5adc2bc5",
+    "bytes": 165616,
+    "width": 1920,
+    "height": 1080,
+    "format": "JPEG"
+  }
+]

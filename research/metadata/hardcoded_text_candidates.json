@@ -1,0 +1,62 @@
+[
+  {
+    "index": 5803,
+    "record_offset": 46680,
+    "data_offset": 313208,
+    "length_bytes": 18,
+    "text": "Mount Holly Estate",
+    "category": "location label candidate",
+    "confidence": "UNKNOWN: managed literal exists; player-visible callsite not established",
+    "status": "REQUIRES_CONTEXT"
+  },
+  {
+    "index": 6590,
+    "record_offset": 52976,
+    "data_offset": 336305,
+    "length_bytes": 44,
+    "text": "Please reconnect your controller to continue",
+    "category": "controller reconnect message candidate",
+    "confidence": "UNKNOWN: managed literal exists; player-visible callsite not established",
+    "status": "REQUIRES_CONTEXT"
+  },
+  {
+    "index": 6649,
+    "record_offset": 53448,
+    "data_offset": 338208,
+    "length_bytes": 6,
+    "text": "Press ",
+    "category": "dynamic input prompt fragment candidate",
+    "confidence": "UNKNOWN: managed literal exists; player-visible callsite not established",
+    "status": "REQUIRES_CONTEXT"
+  },
+  {
+    "index": 7132,
+    "record_offset": 57312,
+    "data_offset": 354042,
+    "length_bytes": 5,
+    "text": "Room ",
+    "category": "dynamic room label fragment candidate",
+    "confidence": "UNKNOWN: managed literal exists; player-visible callsite not established",
+    "status": "REQUIRES_CONTEXT"
+  },
+  {
+    "index": 7134,
+    "record_offset": 57328,
+    "data_offset": 354059,
+    "length_bytes": 12,
+    "text": "Room ID: {0}",
+    "category": "possibly debug-only room label",
+    "confidence": "UNKNOWN: managed literal exists; player-visible callsite not established",
+    "status": "REQUIRES_CONTEXT"
+  },
+  {
+    "index": 11276,
+    "record_offset": 90464,
+    "data_offset": 487452,
+    "length_bytes": 8,
+    "text": "continue",
+    "category": "ambiguous token or UI word",
+    "confidence": "UNKNOWN: managed literal exists; player-visible callsite not established",
+    "status": "REQUIRES_CONTEXT"
+  }
+]
